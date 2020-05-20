@@ -1,0 +1,12040 @@
+-DOCSTART- -X- -X- O
+
+Κύριε NOUN NOUN
+Πρόεδρε X NOUN
+, X PUNCT
+το X DET
+ζήτημα X NOUN
+του X DET
+ευρωπαϊκού X ADJ
+εντάλματος NOUN NOUN
+σύλληψης X NOUN
+είναι X AUX
+πραγματικά X ADV
+πολύ X ADV
+περίεργο X ADJ
+, X PUNCT
+όχι X ADV
+μόνο X ADV
+διότι X SCONJ
+παραμένουν X VERB
+ασαφή X ADJ
+σημαντικά X ADJ
+θέματα NOUN NOUN
+, X PUNCT
+αλλά X CCONJ
+και X CCONJ
+διότι X SCONJ
+το X DET
+Κοινοβούλιο X NOUN
+δεν X PART
+τολμά X VERB
+να X AUX
+επιβάλει X VERB
+τις DET DET
+θέσεις X NOUN
+επί X ADP
+των X DET
+οποίων PRON PRON
+συμφωνεί X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Να X AUX
+σας X PRON
+δώσω X VERB
+καταρχάς X ADV
+ένα X DET
+τυχαίο X ADJ
+παράδειγμα X NOUN
+αυτής X PRON
+της X DET
+ασάφειας X NOUN
+: X PUNCT
+σωστά X ADV
+περιόρισε X VERB
+το X DET
+Συμβούλιο X NOUN
+την X DET
+πρόταση X NOUN
+της X DET
+Επιτροπής X NOUN
+, X PUNCT
+σύμφωνα ADV ADV
+με X ADP
+την X DET
+οποία X PRON
+ένα X DET
+κράτος X NOUN
+μέλος X NOUN
+μπορεί X VERB
+να X AUX
+αρνηθεί X VERB
+την X DET
+παράδοση X NOUN
+ενός X DET
+ατόμου X NOUN
+εφόσον X SCONJ
+το X DET
+άτομο X NOUN
+αυτό X PRON
+δεν X PART
+διέπραξε X VERB
+αξιόποινη X ADJ
+πράξη X NOUN
+σύμφωνα X ADV
+με X ADP
+την X DET
+νομοθεσία X NOUN
+του DET DET
+εν X ADP
+λόγω ADP NOUN
+κράτους NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αυτό X PRON
+είναι X AUX
+σωστό X ADJ
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Έτσι X ADV
+, X PUNCT
+ένας DET DET
+ολλανδός X NOUN
+γιατρός X NOUN
+ο DET DET
+οποίος X PRON
+πραγματοποίησε X VERB
+έκτρωση X NOUN
+σε PRON ADP
+μία X DET
+Ιρλανδή X PROPN
+δεν X PART
+χρειάζεται X VERB
+να X AUX
+παραδοθεί X VERB
+σ NUM ADP
+την X DET
+Ιρλανδία X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μπορεί X VERB
+όμως PART CCONJ
+αυτός X PRON
+ο X DET
+γιατρός X NOUN
+να X AUX
+πάει X VERB
+κάποτε ADV ADV
+για ADP ADP
+διακοπές X NOUN
+σ X ADP
+την X DET
+Ιρλανδία X PROPN
+ή X CCONJ
+σε X ADP
+ένα DET DET
+οποιοδήποτε PRON PRON
+άλλο X PRON
+κράτος X NOUN
+μέλος NOUN NOUN
+της X DET
+ΕΕ X NOUN
+, X PUNCT
+εφόσον X SCONJ
+η X DET
+Ιρλανδία X PROPN
+ζητήσει X VERB
+την X DET
+παράδοσή X NOUN
+του X PRON
+για X ADP
+φόνο X NOUN
+; X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+ζήτημα NOUN NOUN
+αυτό X PRON
+παραμένει VERB VERB
+ασαφές X ADJ
+και X CCONJ
+η X DET
+ασάφεια X NOUN
+σ X ADP
+το X DET
+ποινικό X ADJ
+δίκαιο X NOUN
+είναι X AUX
+εις ADP ADP
+βάρος X NOUN
+της X DET
+νομικής X ADJ
+ασφάλειας X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Και X CCONJ
+ένα DET DET
+σχόλιο X NOUN
+σχετικά X ADV
+με ADP ADP
+το X DET
+θάρρος X NOUN
+του DET DET
+Κοινοβουλίου X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+κ. X NOUN
+Watson X X
+, X PUNCT
+ανέφερε X VERB
+μετά X ADP
+την X DET
+έκθεση X NOUN
+Di X X
+Lello X X
+ήδη X ADV
+ότι X SCONJ
+, X PUNCT
+παραθέτω X VERB
+: X PUNCT
+" X PUNCT
+τα DET DET
+κράτη X NOUN
+μέλη X NOUN
+οφείλουν X VERB
+να X AUX
+συμφωνήσουν X VERB
+σχετικά X ADV
+με X ADP
+κοινές ADJ ADJ
+ελάχιστες X ADJ
+προδιαγραφές X NOUN
+για X ADP
+διάφορες X ADJ
+πτυχές X NOUN
+της X DET
+δικονομίας X NOUN
+, X PUNCT
+προκειμένου PART SCONJ
+να X AUX
+εξασφαλίσουν X VERB
+κοινό ADJ ADJ
+επίπεδο X NOUN
+προστασίας NOUN NOUN
+των X DET
+θεμελιωδών X NOUN
+δικαιωμάτων X NOUN
+σ NUM ADP
+το X DET
+σύνολο X NOUN
+της X DET
+ΕΕ X NOUN
+" X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Τώρα X ADV
+με ADP ADP
+το X DET
+ευρωπαϊκό X ADJ
+ένταλμα X NOUN
+σύλληψης X NOUN
+υπάρχει X VERB
+η X DET
+ανάγκη NOUN NOUN
+αυτή X PRON
+και X CCONJ
+διαθέτουμε X VERB
+ένα X DET
+όπλο X NOUN
+προκειμένου X SCONJ
+να X AUX
+εξασφαλίσουμε X VERB
+αυτή X PRON
+την X DET
+προστασία X NOUN
+των X DET
+πολιτών X NOUN
+μας X PRON
+σ X ADP
+το X DET
+σύνολο X NOUN
+της X DET
+Ευρωπαϊκής X ADJ
+Ένωσης X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οφείλουμε X VERB
+να X AUX
+αξιοποιήσουμε X VERB
+το X DET
+όπλο X NOUN
+αυτό X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Δεν X PART
+θα X AUX
+πρέπει X AUX
+να X AUX
+φοβάστε X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Εφόσον X SCONJ
+το X DET
+Συμβούλιο X NOUN
+ακολουθήσει X VERB
+τόσο X ADV
+αποφασιστική X ADJ
+και X CCONJ
+δυναμική X ADJ
+στάση X NOUN
+υπέρ X ADP
+της X DET
+εξασφάλισης X NOUN
+των X DET
+δικαιωμάτων X NOUN
+των X DET
+πολιτών X NOUN
+όπως X ADV
+κάνει VERB VERB
+και X CCONJ
+για X ADP
+τη X DET
+λήψη X NOUN
+κατασταλτικών X ADJ
+μέτρων X NOUN
+, X PUNCT
+τότε X ADV
+δεν X PART
+θα X AUX
+καθυστερήσει X VERB
+το X DET
+ευρωπαϊκό ADJ ADJ
+ένταλμα X NOUN
+σύλληψης X NOUN
+, X PUNCT
+και X CCONJ
+μάλιστα X ADV
+όχι X ADV
+τώρα X ADV
+που X ADV
+η X DET
+Επιτροπή X NOUN
+υπέβαλε X VERB
+μία DET DET
+πρώτη X NUM
+εκδοχή X NOUN
+των X DET
+ελαχίστων X ADJ
+προδιαγραφών X NOUN
+, X PUNCT
+δείχνοντας X VERB
+έτσι X ADV
+ότι X SCONJ
+αυτές X PRON
+είναι VERB AUX
+τόσο X ADV
+αναγκαίες X ADJ
+όσο PRON ADV
+και PART CCONJ
+δυνατές ADJ ADJ
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Όσον X ADV
+αφορά VERB VERB
+τον X DET
+ορισμό X NOUN
+της X DET
+τρομοκρατίας X NOUN
+: X PUNCT
+η X DET
+Ομάδα X NOUN
+μου X PRON
+θεωρεί X VERB
+σημαντικές X ADJ
+διάφορες X ADJ
+εγγυήσεις X NOUN
+που X PRON
+περιλαμβάνονται X VERB
+σ X ADP
+τις X DET
+αιτιολογικές X ADJ
+σκέψεις X NOUN
+και X CCONJ
+σ X ADP
+τη X DET
+δήλωση X NOUN
+του DET DET
+Συμβουλίου X NOUN
+της X DET
+6ης_Δεκεμβρίου X NOUN
+, X PUNCT
+όπως X ADV
+για X ADP
+παράδειγμα X NOUN
+, X PUNCT
+και PART CCONJ
+παραθέτω X VERB
+πάλι X ADV
+, X PUNCT
+ότι X SCONJ
+τίποτα X PRON
+σε X ADP
+αυτή X PRON
+την X DET
+απόφαση X NOUN
+πλαίσιο NOUN NOUN
+" X PUNCT
+δεν X PART
+θα X AUX
+πρέπει VERB AUX
+να X AUX
+ερμηνευθεί X VERB
+ως X ADV
+ότι PART SCONJ
+επιτρέπεται X VERB
+να X AUX
+καταγγέλλονται X VERB
+για X ADP
+τρομοκρατικές X ADJ
+ενέργειες NOUN NOUN
+άτομα NOUN NOUN
+τα X DET
+οποία X PRON
+ασκούν X VERB
+το X DET
+θεμελιώδες X ADJ
+δικαίωμα NOUN NOUN
+της X DET
+ελεύθερης ADJ ADJ
+έκφρασης NOUN NOUN
+γνώμης NOUN NOUN
+, X PUNCT
+ακόμη ADV ADV
+και PART CCONJ
+εάν PART SCONJ
+πραγματοποιούν X VERB
+παραβάσεις X NOUN
+κατά ADP ADP
+την X DET
+άσκηση NOUN NOUN
+του X DET
+δικαιώματος NOUN NOUN
+αυτού X PRON
+" X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Όμως X ADV
+κλονίστηκαν X VERB
+σημαντικά X ADV
+όλες X ADJ
+οι X DET
+καλές X ADJ
+προθέσεις X NOUN
+για X ADP
+την X DET
+αποδοχή X NOUN
+αυτού X PRON
+του X DET
+κειμένου X NOUN
+εξαιτίας X ADP
+του X DET
+γεγονότος X NOUN
+ότι X SCONJ
+αυτές X PRON
+οι X DET
+εγγυήσεις X NOUN
+δεν X PART
+παρέχονται X VERB
+σ X ADP
+την X DET
+απόφαση NOUN NOUN
+του X DET
+Συμβουλίου X NOUN
+της X DET
+27ης_Δεκεμβρίου X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+ουσία NOUN NOUN
+του X DET
+ορισμού X NOUN
+σ X ADP
+το X DET
+κείμενο X NOUN
+αυτό X PRON
+είναι X AUX
+μεν X ADV
+η X DET
+ίδια X ADJ
+, X PUNCT
+όμως X CCONJ
+οι X DET
+εγγυήσεις X NOUN
+εξαφανίστηκαν X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ούτε X CCONJ
+καν PART ADV
+γίνεται VERB VERB
+αναφορά X NOUN
+σε PRON ADP
+αυτές X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+τροπολογία X NOUN
+που X PRON
+υποβάλαμε X VERB
+σ X ADP
+το X DET
+ψήφισμα NOUN NOUN
+προσπαθεί X VERB
+να X AUX
+καλύψει X VERB
+αυτό X PRON
+το X DET
+κενό X NOUN
+και X CCONJ
+, X PUNCT
+καθώς X SCONJ
+το X DET
+μέλλον X NOUN
+μόνο X ADV
+θα X AUX
+δείξει X VERB
+εάν X SCONJ
+δυσπιστώ X VERB
+ανώφελα X ADV
+ή X CCONJ
+εάν X SCONJ
+έχω VERB VERB
+δίκιο X NOUN
+να X AUX
+είμαι X AUX
+προσεκτικός X ADJ
+, X PUNCT
+καλώ X VERB
+τις X DET
+άλλες X PRON
+πολιτικές X ADJ
+ομάδες X NOUN
+να X AUX
+δώσουν X VERB
+αυτή X PRON
+την X DET
+εγγύηση X NOUN
+σ NUM ADP
+την X DET
+Ομάδα X NOUN
+μου X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σ NUM ADP
+την X DET
+πόλη NOUN NOUN
+της X DET
+Ηγουμενίτσας NOUN PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+πρωτεύουσα NOUN NOUN
+του X DET
+νομού X NOUN
+Θεσπρωτίας X PROPN
+και X CCONJ
+ταυτόχρονα X ADV
+το X DET
+σημαντικότερο X ADJ
+λιμάνι X NOUN
+επικοινωνίας X NOUN
+της X DET
+Ελλάδας X PROPN
+με X ADP
+τη X DET
+δυτική X ADJ
+Ευρώπη X PROPN
+, X PUNCT
+είναι X AUX
+μια X DET
+πόλη X NOUN
+με ADP ADP
+8.700 X NUM
+περίπου X ADV
+κατοίκους X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+Ηγουμενίτσα X PROPN
+βρίσκεται X VERB
+σ X ADP
+το X DET
+βόρειο ADJ ADJ
+τμήμα X NOUN
+του X DET
+νομού X NOUN
+, X PUNCT
+αποτελεί VERB VERB
+το X DET
+εμπορικό NOUN ADJ
+και X CCONJ
+διοικητικό X ADJ
+του DET PRON
+κέντρο X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Από X ADP
+εδώ ADV ADV
+εξυπηρετείται X VERB
+ακτοπλοϊκώς X ADV
+σημαντικός X ADJ
+αριθμός X NOUN
+τουριστών X NOUN
+με X ADP
+κατεύθυνση X NOUN
+τα X DET
+Ιόνια X ADJ
+νησιά X NOUN
+αλλά X CCONJ
+και X CCONJ
+άλλες X PRON
+χώρες NOUN NOUN
+καθώς X SCONJ
+το X DET
+λιμάνι X NOUN
+της X DET
+Ηγουμενίτσας X PROPN
+συνδέεται X VERB
+με X ADP
+πολλά X ADJ
+λιμάνια X NOUN
+της X DET
+Ιταλίας X PROPN
+και X CCONJ
+της X DET
+Αλβανίας X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+πόλη NOUN NOUN
+, X PUNCT
+από ADP ADP
+την X DET
+απελευθέρωση X NOUN
+της X PRON
+από ADP ADP
+τον X DET
+τουρκικό X ADJ
+ζυγό X NOUN
+το X DET
+1913 X NOUN
+μέχρι X ADP
+την X DET
+ανακήρυξή X NOUN
+της X PRON
+σε X ADP
+πρωτεύουσα X NOUN
+του X DET
+νομού X NOUN
+, X PUNCT
+το X DET
+1936 X NOUN
+, X PUNCT
+αποτελούσε X VERB
+ένα DET DET
+μικρό X ADJ
+παραθαλάσσιο X ADJ
+χωριό X NOUN
+με X ADP
+πεντακόσιους X NUM
+περίπου X ADV
+κατοίκους X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+1944 X NOUN
+καταστράφηκε X VERB
+από X ADP
+τους X DET
+Γερμανούς NOUN PROPN
+και X CCONJ
+σ X ADP
+τη X DET
+συνέχεια X NOUN
+ανοικοδομήθηκε X VERB
+σε X ADP
+νέο X ADJ
+σχέδιο X NOUN
+με X ADP
+προδιαγραφές X NOUN
+σύγχρονης X ADJ
+πόλης X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σήμερα X ADV
+αξίζει X VERB
+να X AUX
+επισκεφτεί X VERB
+κάποιος X PRON
+το X DET
+δασύλλιο X NOUN
+όπου X ADV
+βρίσκονται X VERB
+τα DET DET
+ερείπια X NOUN
+του X DET
+τουρκικού X ADJ
+κάστρου X NOUN
+, X PUNCT
+που X PRON
+κατέστρεψε X VERB
+το X DET
+1685 X NOUN
+ο X DET
+Ενετός X PROPN
+Μοροζίνι X PROPN
+για X ADP
+να X AUX
+μεταφέρει X VERB
+εξοπλισμό X NOUN
+σ X ADP
+το X DET
+φρούριο X NOUN
+της X DET
+Κέρκυρας X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+παραλίες NOUN NOUN
+του X DET
+Ιονίου X ADJ
+Πελάγους X NOUN
+Δρέπανος X PROPN
+, X PUNCT
+Μακρύγιαλος X PROPN
+και X CCONJ
+Πλαταριά X PROPN
+είναι X AUX
+ιδανικές X ADJ
+για X ADP
+κολύμπι X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Έχοντας X VERB
+ως ADV ADV
+ορμητήριο X NOUN
+την X DET
+Ηγουμενίτσα X PROPN
+μπορεί VERB VERB
+ο X DET
+επισκέπτης X NOUN
+να X AUX
+πραγματοποιήσει X VERB
+εκδρομές X NOUN
+προς ADP ADP
+τα X DET
+κοντινά ADJ ADJ
+παραλιακά X ADJ
+χωριά X ADJ
+Πλαταριά X PROPN
+, X PUNCT
+Σύβοτα X PROPN
+, X PUNCT
+Πέρδικα X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ενδεικτικές X ADJ
+χιλιομετρικές X ADJ
+αποστάσεις X NOUN
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αθήνα PROPN PROPN
+- X PUNCT
+Ηγουμενίτσα X PROPN
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+480 X NUM
+χλμ. X NOUN
+
+-DOCSTART- -X- -X- O
+
+Θεσσαλονίκη PROPN PROPN
+- X PUNCT
+Ηγουμενίτσα PROPN PROPN
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+470 X NUM
+χλμ. X NOUN
+
+-DOCSTART- -X- -X- O
+
+Ιωάννινα PROPN PROPN
+- X PUNCT
+Ηγουμενίτσα X PROPN
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+93 SYM NUM
+χλμ. X NOUN
+
+-DOCSTART- -X- -X- O
+
+Βόλος PROPN PROPN
+- X PUNCT
+Ηγουμενίτσα X PROPN
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+363 X NUM
+χλμ. X NOUN
+
+-DOCSTART- -X- -X- O
+
+Κόρινθος PROPN PROPN
+- X PUNCT
+Ηγουμενίτσα PROPN PROPN
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+405 X NUM
+χλμ. X NOUN
+
+-DOCSTART- -X- -X- O
+
+Πάργα X PROPN
+- X PUNCT
+Ηγουμενίτσα X PROPN
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σ NUM ADP
+την X DET
+πόλη NOUN NOUN
+της X DET
+Καβάλας X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+Καβάλα X PROPN
+, X PUNCT
+πρωτεύουσα X NOUN
+του X DET
+ομώνυμου X ADJ
+νομού X NOUN
+, X PUNCT
+είναι X AUX
+χτισμένη X VERB
+αμφιθεατρικά X ADV
+σ X ADP
+τους X DET
+πρόποδες X NOUN
+του X DET
+όρους X NOUN
+Σύμβολο X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Κατοικήθηκε X VERB
+από X ADP
+τα X DET
+προϊστορικά X ADJ
+χρόνια X NOUN
+, X PUNCT
+οπότε X CCONJ
+και X CCONJ
+πήρε X VERB
+το X DET
+όνομα X NOUN
+Νεάπολη X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+49 X NOUN
+μ.Χ. X NOUN
+ο X DET
+Απόστολος X PROPN
+Παύλος X PROPN
+ίδρυσε X VERB
+εδώ X ADV
+την X DET
+πρώτη X NUM
+εκκλησία X NOUN
+του X DET
+Χριστού X PROPN
+σ X ADP
+την X DET
+Ευρώπη X PROPN
+γι' X ADP
+αυτό X PRON
+και PART CCONJ
+αργότερα X ADV
+, X PUNCT
+τον X DET
+5ο X NUM
+αιώνα X NOUN
+, X PUNCT
+η X DET
+πόλη NOUN NOUN
+ονομάστηκε X VERB
+Χριστούπολη X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+1380 X NOUN
+η X DET
+πόλη X NOUN
+κατελήφθη X VERB
+από X ADP
+τους X DET
+Τούρκους X PROPN
+και X CCONJ
+μετονομάστηκε X VERB
+σε X ADP
+Καβάλα X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Παράλληλα X ADV
+τον X DET
+16ο X NUM
+αιώνα X NOUN
+ξεκινά X VERB
+η X DET
+ανάπτυξή X NOUN
+της X PRON
+, X PUNCT
+η X DET
+οποία X PRON
+και X CCONJ
+συνεχίστηκε X VERB
+σε X ADP
+γρηγορότερους X ADJ
+ρυθμούς X NOUN
+μετά X ADP
+την X DET
+απελευθέρωσή X NOUN
+της X PRON
+, X PUNCT
+το X DET
+1913 X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+αρμονικός ADJ ADJ
+συνδυασμός X NOUN
+παρελθόντος X NOUN
+και X CCONJ
+παρόντος X NOUN
+είναι X AUX
+το X DET
+κύριο X ADJ
+χαρακτηριστικό X NOUN
+της X DET
+Καβάλας X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ένας X DET
+περίπατος NOUN NOUN
+σ X ADP
+τους X DET
+δρόμους X NOUN
+και PART CCONJ
+τα X DET
+σοκάκια X NOUN
+της X DET
+Παλιάς X ADJ
+και X CCONJ
+Νέας X ADJ
+Πόλης X PROPN
+δίνει X VERB
+την X DET
+ευκαιρία X NOUN
+σ X ADP
+τον X DET
+επισκέπτη NOUN NOUN
+να X AUX
+θαυμάσει X VERB
+μερικές X PRON
+εικόνες X NOUN
+από X ADP
+το X DET
+παρελθόν X NOUN
+της X DET
+πόλης X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+Φρούριο X NOUN
+με ADP ADP
+τις X DET
+παλιές X ADJ
+φυλακές X NOUN
+και X CCONJ
+πολεμίστρες X NOUN
+και X CCONJ
+τη X DET
+μαγευτική X ADJ
+θέα X NOUN
+, X PUNCT
+το X DET
+Ιμαρέτ X X
+, X PUNCT
+ένα X DET
+ισλαμικό X ADJ
+κτίριο NOUN NOUN
+κτισμένο X VERB
+το X DET
+1817 X NOUN
+που X PRON
+λειτουργεί X VERB
+πλέον ADV ADV
+ως ADV ADV
+καφενείο X NOUN
+, X PUNCT
+το X DET
+σπίτι X NOUN
+του X DET
+Μεχμέτ X X
+Αλή X X
+, X PUNCT
+ιδρυτή X NOUN
+της X DET
+τελευταίας X ADJ
+αιγυπτιακής X ADJ
+δυναστείας X NOUN
+, X PUNCT
+ο X DET
+Φάρος X NOUN
+, X PUNCT
+οι X DET
+Καμάρες X NOUN
+, X PUNCT
+χτισμένες X VERB
+πάνω ADV ADV
+σ NUM ADP
+τα X DET
+ερείπια X NOUN
+του X DET
+" X PUNCT
+μακρού X ADJ
+τείχους X NOUN
+" X PUNCT
+που PART PRON
+είχε X AUX
+χτίσει X VERB
+ο DET DET
+αυτοκράτορας NOUN NOUN
+Ανδρόνικος X PROPN
+Β' X NUM
+Παλαιολόγος X NOUN
+, X PUNCT
+το X DET
+Δημαρχείο X NOUN
+κτίριο NOUN NOUN
+του DET DET
+1900 X NOUN
+, X PUNCT
+η X DET
+Μονή X NOUN
+Λαζαριστών X PROPN
+και PART CCONJ
+η X DET
+Καπναποθήκη X NOUN
+είναι VERB AUX
+μερικά ADJ PRON
+μόνο ADV ADV
+από ADP ADP
+τα DET DET
+σημαντικά ADJ ADJ
+μνημεία NOUN NOUN
+της X DET
+Καβάλας X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Επιπλέον X ADV
+εδώ X ADV
+λειτουργούν X VERB
+αρχαιολογικό X ADJ
+μουσείο X NOUN
+, X PUNCT
+το X DET
+οποίο X PRON
+μεταξύ X ADP
+άλλων X PRON
+φιλοξενεί X VERB
+ευρήματα X NOUN
+από X ADP
+τα X DET
+προϊστορικά X ADJ
+χρόνια X NOUN
+και X CCONJ
+λαογραφικό X ADJ
+μουσείο X NOUN
+με X ADP
+όμορφες X ADJ
+φορεσιές X NOUN
+, X PUNCT
+κοσμήματα X NOUN
+και X CCONJ
+εργόχειρα X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ενδεικτικές X ADJ
+χιλιομετρικές X ADJ
+αποστάσεις X NOUN
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αθήνα PROPN PROPN
+- X PUNCT
+Καβάλα X PROPN
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+694 X NUM
+χλμ. X NOUN
+
+-DOCSTART- -X- -X- O
+
+Θεσσαλονίκη PROPN PROPN
+- X PUNCT
+Καβάλα X PROPN
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+188 X NUM
+χλμ. X NOUN
+
+-DOCSTART- -X- -X- O
+
+Πάτρα PROPN PROPN
+- X PUNCT
+Καβάλα X PROPN
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+684 X NUM
+χλμ. X NOUN
+
+-DOCSTART- -X- -X- O
+
+Βόλος PROPN PROPN
+- X PUNCT
+Καβάλα PROPN PROPN
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+405 X NUM
+χλμ. X NOUN
+
+-DOCSTART- -X- -X- O
+
+« X PUNCT
+Παγκόσμια X ADJ
+απειλή X NOUN
+» X PUNCT
+η X DET
+εκτόξευση X NOUN
+πυραύλου X NOUN
+από X ADP
+τη X DET
+Βόρεια X ADJ
+Κορέα X PROPN
+
+-DOCSTART- -X- -X- O
+
+Κι X CCONJ
+ενώ X SCONJ
+τα X DET
+μάτια X NOUN
+του X DET
+κόσμου X NOUN
+ήταν X AUX
+στραμμένα X VERB
+σ NUM ADP
+τον X DET
+Αμερικανό X PROPN
+πρόεδρο X NOUN
+Μπαράκ X PROPN
+Ομπάμα X PROPN
+, X PUNCT
+ο X DET
+οποίος X PRON
+από X ADP
+τη X DET
+Σύνοδο X NOUN
+Ε.Ε. X NOUN
+- X PUNCT
+ΗΠΑ X NOUN
+σ X ADP
+την X DET
+Πράγα X PROPN
+μίλησε X VERB
+για X ADP
+έναν X DET
+κόσμο X NOUN
+χωρίς ADP ADP
+πυρηνικά ADJ ADJ
+, X PUNCT
+η X DET
+Βόρειος X ADJ
+Κορέα X PROPN
+κατάφερε X VERB
+να X AUX
+αποσπάσει X VERB
+την X DET
+προσοχή X NOUN
+και X CCONJ
+αψηφώντας X VERB
+τις DET DET
+διεθνείς X ADJ
+αντιδράσεις X NOUN
+προχώρησε X VERB
+χθες ADV ADV
+σ X ADP
+την X DET
+εκτόξευση X NOUN
+πυραύλου X NOUN
+πάνω ADV ADV
+από ADP ADP
+την X DET
+Ιαπωνία X PROPN
+, X PUNCT
+προκειμένου PART SCONJ
+να X AUX
+θέσει X VERB
+σε PRON ADP
+τροχιά NOUN NOUN
+δορυφόρο NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αν X SCONJ
+και PART CCONJ
+η X DET
+Νότιος X ADJ
+Κορέα X PROPN
+και X CCONJ
+ο X DET
+αμερικανικός X ADJ
+στρατός X NOUN
+δήλωσαν X VERB
+ότι X SCONJ
+η X DET
+εκτόξευση X NOUN
+του X DET
+πυραύλου X NOUN
+ήταν VERB AUX
+ανεπιτυχής X ADJ
+, X PUNCT
+η X DET
+ενέργεια X NOUN
+του X DET
+καθεστώτος X NOUN
+του X DET
+Κιμ X X
+Γιονγκ X X
+ιλ X X
+χαρακτηρίστηκε X VERB
+από X ADP
+τις X DET
+Ηνωμένες X ADJ
+Πολιτείες X NOUN
+« X PUNCT
+παγκόσμια ADV ADJ
+απειλή X NOUN
+» X PUNCT
+, X PUNCT
+βλέποντας X VERB
+πίσω X ADV
+της X PRON
+μία X PRON
+συγκαλυμμένη X VERB
+δοκιμή NOUN NOUN
+πυραύλου X NOUN
+μεγάλου X ADJ
+βεληνεκούς X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+« X PUNCT
+Η X DET
+Βόρειος X ADJ
+Κορέα X PROPN
+αγνόησε X VERB
+τις X DET
+διεθνείς X ADJ
+υποχρεώσεις X NOUN
+της X PRON
+, X PUNCT
+απέρριψε X VERB
+κατηγορηματικές X ADJ
+εκκλήσεις X NOUN
+για X ADP
+αυτοσυγκράτηση X NOUN
+και PART CCONJ
+απομονώθηκε X VERB
+περαιτέρω X ADV
+από X ADP
+την X DET
+κοινότητα X NOUN
+των X DET
+υπόλοιπων X ADJ
+εθνών X NOUN
+» X PUNCT
+δήλωσε X VERB
+ο X DET
+Μπαράκ X PROPN
+Ομπάμα X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+« X PUNCT
+Καλώ X VERB
+τη X DET
+Β. X NOUN
+Κορέα X PROPN
+να X AUX
+τηρήσει X VERB
+τη X DET
+δέσμευσή X NOUN
+της X PRON
+για X ADP
+την X DET
+εγκατάλειψη X NOUN
+του X DET
+συνόλου X NOUN
+των X DET
+προγραμμάτων NOUN NOUN
+πυρηνικών X ADJ
+όπλων X NOUN
+» X PUNCT
+πρόσθεσε X VERB
+ο DET DET
+Ομπάμα X PROPN
+και X CCONJ
+υπογράμμισε X VERB
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+« X PUNCT
+Η X DET
+δοκιμή X NOUN
+της X DET
+Β. X NOUN
+Κορέας X PROPN
+δείχνει X VERB
+τη X DET
+σημασία X NOUN
+της X DET
+συνέχισης X NOUN
+ανάπτυξης X NOUN
+αντιπυραυλικής X ADJ
+άμυνας X NOUN
+για ADP ADP
+την X DET
+προστασία X NOUN
+τόσο X ADV
+της X DET
+χώρας X NOUN
+μας X PRON
+, X PUNCT
+όσο X ADV
+και X CCONJ
+των X DET
+συμμάχων X NOUN
+μας X PRON
+σ X ADP
+την X DET
+Ασία X PROPN
+» X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+πύραυλος NOUN NOUN
+εκτοξεύτηκε X VERB
+σ X ADP
+τις X DET
+4:30 X NUM
+τα X DET
+ξημερώματα X NOUN
+από X ADP
+το X DET
+βορειοανατολικό X ADJ
+τμήμα X NOUN
+της X DET
+χώρας X NOUN
+προς X ADP
+τον X DET
+Ειρηνικό X ADJ
+Ωκεανό X NOUN
+και X CCONJ
+εισήλθε X VERB
+σ X ADP
+τον X DET
+ιαπωνικό X ADJ
+εναέριο X ADJ
+χώρο X NOUN
+επτά X NUM
+λεπτά NOUN NOUN
+αργότερα X ADV
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Τέσσερις X NUM
+ώρες NOUN NOUN
+αργότερα X ADV
+, X PUNCT
+η X DET
+Πιονγιάνγκ X X
+κήρυξε X VERB
+την X DET
+αποστολή NOUN NOUN
+επιτυχημένη X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+καθεστώς X NOUN
+υποστήριξε X VERB
+ότι X SCONJ
+ένας X DET
+πειραματικός X ADJ
+τηλεπικοινωνιακός X ADJ
+δορυφόρος X NOUN
+τέθηκε X VERB
+σε X ADP
+τροχιά NOUN NOUN
+, X PUNCT
+μεταδίδοντας X VERB
+επαναστατικά X ADJ
+τραγούδια X NOUN
+καθώς X ADV
+και X CCONJ
+κάποια X PRON
+δεδομένα X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+Ηνωμένες X ADJ
+Πολιτείες X NOUN
+, X PUNCT
+όμως X CCONJ
+, X PUNCT
+ανακοίνωσαν X VERB
+ότι X SCONJ
+« X PUNCT
+κανένα X PRON
+αντικείμενο X NOUN
+δεν X PART
+τέθηκε X VERB
+σε X ADP
+τροχιά X NOUN
+» X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+πρώτο X NUM
+διαμέρισμα X NOUN
+του DET DET
+πυραύλου X NOUN
+έπεσε X VERB
+σ X ADP
+τη X DET
+Θάλασσα X NOUN
+της X DET
+Ιαπωνίας X PROPN
+και X CCONJ
+ο X DET
+υπόλοιπος X ADJ
+πύραυλος X NOUN
+, X PUNCT
+μαζί X ADV
+με X ADP
+το X DET
+δορυφόρο X NOUN
+, X PUNCT
+συνετρίβη X VERB
+σ NUM ADP
+τον X DET
+Ειρηνικό X ADJ
+Ωκεανό X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+Λευκός X ADJ
+Οίκος X NOUN
+έσπευσε X VERB
+να X AUX
+διευκρινίσει X VERB
+, X PUNCT
+ωστόσο X CCONJ
+, X PUNCT
+πως X SCONJ
+παρά X ADP
+το X DET
+γεγονός X NOUN
+ότι X SCONJ
+η X DET
+εκτόξευση X NOUN
+ήταν X AUX
+αποτυχημένη X VERB
+, X PUNCT
+δεν X PART
+πρόκειται X VERB
+να X AUX
+μεταβάλλει X VERB
+την X DET
+απάντηση X NOUN
+που X PRON
+αξιώνουν X VERB
+οι X DET
+ΗΠΑ X NOUN
+να X AUX
+δοθεί X VERB
+από ADP ADP
+το X DET
+Συμβούλιο X NOUN
+Ασφαλείας X NOUN
+, X PUNCT
+το X DET
+οποίο PRON PRON
+με X ADP
+αίτημα NOUN NOUN
+της X DET
+Ιαπωνίας X PROPN
+συνεκλήθη X VERB
+εκτάκτως X ADV
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Με X ADP
+την X DET
+κίνησή X NOUN
+της X PRON
+αυτή X PRON
+η X DET
+Βόρειος X ADJ
+Κορέα X PROPN
+αψηφά X VERB
+τις DET DET
+πιέσεις X NOUN
+ηγετών X NOUN
+που PART PRON
+ζητούσαν X VERB
+από X ADP
+την X DET
+Πιονγιάνγκ X X
+να X AUX
+ματαιώσει X VERB
+την X DET
+εκτόξευση X NOUN
+, X PUNCT
+λέγοντας X VERB
+ότι X SCONJ
+αποτελεί X VERB
+απειλή X NOUN
+για X ADP
+την X DET
+ειρήνη NOUN NOUN
+σ X ADP
+τη X DET
+ΝΑ X NOUN
+Ασία X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+Ηνωμένες X ADJ
+Πολιτείες X NOUN
+, X PUNCT
+η X DET
+Νότιος X ADJ
+Κορέα X PROPN
+και PART CCONJ
+η X DET
+Ιαπωνία PROPN PROPN
+υποψιάζονται X VERB
+ότι PART SCONJ
+ο X DET
+δορυφόρος X NOUN
+« X PUNCT
+Kwangmyongsong X X
+2 X NUM
+» X PUNCT
+δεν X PART
+είναι X AUX
+παρά X ADP
+η X DET
+πρόφαση X NOUN
+για X ADP
+δοκιμή X NOUN
+πυραύλου X NOUN
+σ X ADP
+το X DET
+πλαίσιο X NOUN
+του DET DET
+πυρηνικού X ADJ
+προγράμματος X NOUN
+της X DET
+Βορείου X ADJ
+Κορέας X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+Ολυμπιακός X PROPN
+Πειραιώς X PROPN
+ηττήθηκε X VERB
+από X ADP
+τη X DET
+Μεταλίστ X X
+Χάρκιβ X X
+με X ADP
+σκορ X X
+1:2 X NUM
+
+-DOCSTART- -X- -X- O
+
+2012-03-16 X NOUN
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+Ολυμπιακός X PROPN
+Πειραιώς X PROPN
+ηττήθηκε X VERB
+από X ADP
+την X DET
+Μεταλίστ X X
+Χάρκιβ X X
+με X ADP
+σκορ X X
+1:2 X NUM
+, X PUNCT
+σ X ADP
+τα X DET
+πλαίσια X NOUN
+των DET DET
+επαναληπτικών X ADJ
+αγώνων NOUN NOUN
+της X DET
+φάσης X NOUN
+των X DET
+16 X NUM
+του X DET
+Γιουρόπα X X
+Λιγκ X X
+2011-2012 X NUM
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+πρώτος X NUM
+αγώνας X NOUN
+έληξε X VERB
+με ADP ADP
+σκορ X X
+0:1 X NUM
+υπέρ ADV ADP
+του X DET
+Ολυμπιακού X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σ NUM ADP
+το X DET
+πρώτο X NUM
+ημίχρονο X NOUN
+, X PUNCT
+οι X DET
+Πειραιώτες X PROPN
+ήταν X AUX
+καλύτεροι X ADJ
+και X CCONJ
+κατάφεραν X VERB
+να X AUX
+σκοράρουν X VERB
+με X ADP
+κεφαλιά X NOUN
+του X DET
+Μαρκάνο X X
+σ NUM ADP
+το X DET
+14ο X NUM
+λεπτό ADJ NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ωστόσο X CCONJ
+, X PUNCT
+η X DET
+Μεταλίστ X X
+πίεσε X VERB
+πολύ X ADV
+και PART CCONJ
+κατάφερε X VERB
+να X AUX
+ισοφαρίσει X VERB
+με X ADP
+τον X DET
+Βιγιάγκρα X X
+σ X ADP
+το X DET
+81ο X NUM
+λεπτό X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μετά X ADV
+από ADP ADP
+πέντε X NUM
+λεπτά X NOUN
+, X PUNCT
+ο X DET
+Ντέβιντς X X
+διαμόρφωσε X VERB
+το X DET
+τελικό ADJ ADJ
+1:2 X NUM
+για X ADP
+τη X DET
+Μεταλίστ X X
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+Μεταλίστ X X
+χάρη X ADV
+σ' X ADP
+αυτή X PRON
+τη X DET
+νίκη X NOUN
+κατάφερε X VERB
+να X AUX
+πάρει VERB VERB
+την X DET
+πρόκριση X NOUN
+για X ADP
+την X DET
+επόμενη X ADJ
+φάση X NOUN
+της X DET
+διοργάνωσης X NOUN
+μαζί ADV ADV
+με X ADP
+τις X DET
+Αθλέτικο X X
+Μπιλμπάο X X
+, X PUNCT
+Σπόρτινγκ X X
+Λισαβόνας X PROPN
+, X PUNCT
+Σάλκε X X
+, X PUNCT
+Ανόβερο X X
+, X PUNCT
+Βαλένθια X X
+, X PUNCT
+Άλκμααρ X X
+και X CCONJ
+Ουντινέζε X X
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Εξιτήριο X NOUN
+από X ADP
+το X DET
+νοσοκομείο X NOUN
+της X DET
+Νέας X ADJ
+Υόρκης X PROPN
+πήρε X VERB
+η X DET
+Χίλαρι X PROPN
+Κλίντον X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+Υπουργός X NOUN
+Εξωτερικών X NOUN
+των X DET
+ΗΠΑ X NOUN
+, X PUNCT
+Χίλαρι X PROPN
+Κλίντον X PROPN
+, X PUNCT
+πήρε X VERB
+τελικά X ADV
+εξιτήριο X NOUN
+από ADP ADP
+νοσοκομείο NOUN NOUN
+της X DET
+Νέας X ADJ
+Υόρκης X PROPN
+, X PUNCT
+σ X ADP
+το X DET
+οποίο X PRON
+νοσηλευόταν X VERB
+τις X DET
+τελευταίες X ADJ
+ημέρες X NOUN
+για X ADP
+θρόμβο X NOUN
+που X PRON
+είχαν VERB AUX
+εντοπίσει X VERB
+οι DET DET
+γιατροί X NOUN
+σ X ADP
+το X DET
+κεφάλι NOUN NOUN
+της X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+Χίλαρι X PROPN
+Κλίντον X PROPN
+βγήκε VERB VERB
+από ADP ADP
+το X DET
+νοσοκομείο X NOUN
+" X PUNCT
+Presbyterian X X
+" X PUNCT
+την X DET
+Τετάρτη X NOUN
+το X DET
+βράδυ X NOUN
+μαζί ADV ADV
+με X ADP
+το X DET
+σύζυγό X NOUN
+της X PRON
+Μπιλ X PROPN
+και X CCONJ
+την X DET
+κόρη X NOUN
+της X PRON
+, X PUNCT
+Τσέλσι X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Επίσημη X ADJ
+ανακοίνωση NOUN NOUN
+αναφέρει X VERB
+ότι PART SCONJ
+" X PUNCT
+η X DET
+ιατρική NOUN ADJ
+ομάδα X NOUN
+που PART PRON
+παρακολουθεί X VERB
+την X DET
+κατάσταση X NOUN
+της X DET
+υγείας X NOUN
+της X DET
+Υπουργού X NOUN
+Εξωτερικών X NOUN
+απεφάνθη X VERB
+ότι X SCONJ
+έχει X AUX
+σημειωθεί X VERB
+καλή ADJ ADJ
+πρόοδος X NOUN
+και X CCONJ
+εκφράζει X VERB
+την X DET
+πεποίθηση X NOUN
+ότι X SCONJ
+η X DET
+Χίλαρι X PROPN
+Κλίντον X PROPN
+θα X AUX
+ξεπεράσει X VERB
+πλήρως X ADV
+το X DET
+πρόβλημα X NOUN
+" X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Νωρίτερα X ADV
+, X PUNCT
+το X DET
+Υπουργείο X NOUN
+Εξωτερικών X NOUN
+είχε X AUX
+αναφέρει X VERB
+ότι X SCONJ
+" X PUNCT
+η X DET
+Χίλαρι X PROPN
+Κλίντον X PROPN
+επικοινωνούσε X VERB
+τηλεφωνικά X ADV
+με X ADP
+το X DET
+προσωπικό ADJ NOUN
+του X DET
+γραφείου X NOUN
+της X PRON
+σ X ADP
+την X DET
+Ουάσιγκτον X X
+, X PUNCT
+το X DET
+οποίο X PRON
+χειρίζεται X VERB
+τα X DET
+θέματα X NOUN
+εξωτερικής X ADJ
+πολιτικής X NOUN
+κατά ADP ADP
+την X DET
+απουσία X NOUN
+της X PRON
+" X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πάντως X ADV
+, X PUNCT
+σ NUM ADP
+την X DET
+ανακοίνωση X NOUN
+δεν X PART
+γίνεται X VERB
+λόγος X NOUN
+για X ADP
+το X DET
+αν X SCONJ
+η X DET
+Χίλαρι X PROPN
+Κλίντον X PROPN
+θα X AUX
+επιστρέψει X VERB
+σ X ADP
+τη X DET
+δουλειά X NOUN
+της X PRON
+σ X ADP
+την X DET
+Ουάσιγκτον X X
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Δεκάδες X NUM
+συλλήψεις NOUN NOUN
+διαδηλωτών X NOUN
+σ X ADP
+τη X DET
+Ρωσία X PROPN
+
+-DOCSTART- -X- -X- O
+
+2012-03-19 X NOUN
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+Ρωσική X ADJ
+Αστυνομία X NOUN
+συνέλαβε X VERB
+δεκάδες X NUM
+διαδηλωτές X NOUN
+που PART PRON
+πραγματοποιούσαν X VERB
+συγκέντρωση X NOUN
+διαμαρτυρίας NOUN NOUN
+έξω X ADV
+από X ADP
+τηλεοπτικό X ADJ
+σταθμό X NOUN
+σ X ADP
+τη X DET
+Μόσχα X PROPN
+, X PUNCT
+ο X DET
+οποίος X PRON
+μετέδωσε X VERB
+ντοκιμαντέρ X X
+που X PRON
+έδειχνε X VERB
+ανθρώπους X NOUN
+να X AUX
+πληρώνονται X VERB
+για X ADP
+να X AUX
+συμμετάσχουν X VERB
+σ X ADP
+τις DET DET
+διαδηλώσεις X NOUN
+κατά X ADP
+του X DET
+Βλαντιμίρ X X
+Πούτιν X X
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Τουλάχιστον X ADV
+500 SYM NUM
+άτομα X NOUN
+συγκεντρώθηκαν X VERB
+για X ADP
+την X DET
+διαδήλωση NOUN NOUN
+της X DET
+Κυριακής X NOUN
+που PART PRON
+πραγματοποιήθηκε X VERB
+κοντά X ADV
+σ X ADP
+το X DET
+κτήριο X NOUN
+του X DET
+μεγαλύτερου X ADJ
+τηλεοπτικού X ADJ
+σταθμού X NOUN
+της X DET
+ρωσικής X ADJ
+πρωτεύουσας X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πολλοί X ADJ
+από X ADP
+τους X DET
+διαδηλωτές X NOUN
+φώναζαν X VERB
+συνθήματα X NOUN
+όπως X ADV
+« X PUNCT
+ντροπή NOUN ADJ
+σου X PRON
+ΝΤV X NOUN
+» X PUNCT
+και X CCONJ
+« X PUNCT
+Ρωσία X PROPN
+χωρίς X ADP
+τον X DET
+Πούτιν X X
+» X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+ακτιβιστής NOUN NOUN
+της X DET
+ρωσικής X ADJ
+αντιπολίτευσης X NOUN
+Σεργκέι X X
+Ουνταλτσόφ X X
+, X PUNCT
+που X PRON
+ήταν X AUX
+μεταξύ ADV ADP
+των X DET
+συλληφθέντων X ADJ
+χαρακτήρισε X VERB
+τους X DET
+δημοσιογράφους X NOUN
+που X PRON
+γύρισαν X VERB
+το X DET
+ντοκιμαντέρ X X
+« X PUNCT
+προδότες X NOUN
+» X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+ντοκιμαντέρ X X
+με X ADP
+τίτλο X NOUN
+« X PUNCT
+Ανατομία X NOUN
+μιας X DET
+διαδήλωσης X NOUN
+» X PUNCT
+αναφέρει X VERB
+ότι X SCONJ
+« X PUNCT
+ορισμένοι X ADJ
+από X ADP
+τους X DET
+συμμετέχοντες X ADJ
+σ X ADP
+τις X DET
+διαδηλώσεις X NOUN
+είχαν X AUX
+πληρωθεί X VERB
+για X ADP
+να X AUX
+βρίσκονται X VERB
+εκεί ADV ADV
+» X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Υπαινίσσεται X VERB
+επίσης ADV ADV
+ότι PART SCONJ
+το X DET
+κίνημα X NOUN
+της X DET
+Αντιπολίτευσης X NOUN
+χρηματοδοτείται X VERB
+από ADP ADP
+δυτικές X ADJ
+χώρες X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+τηλεοπτικό ADJ ADJ
+δίκτυο X NOUN
+NTV X NOUN
+ήταν VERB AUX
+κάποτε X ADV
+ανεξάρτητο X ADJ
+, X PUNCT
+αλλά X CCONJ
+βρέθηκε X VERB
+υπό X ADP
+τον X DET
+έλεγχο X NOUN
+της X DET
+κυβέρνησης X NOUN
+μετά X ADP
+την X DET
+πρώτη X NUM
+εκλογή X NOUN
+του X DET
+Βλαντιμίρ X X
+Πούτιν X X
+σ X ADP
+το X DET
+προεδρικό X ADJ
+αξίωμα ADJ NOUN
+το X DET
+2000 X NUM
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Καλημέρα X NOUN
+συνάδελφοι X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αυτό X PRON
+το X DET
+Κοινοβούλιο X NOUN
+πρέπει X AUX
+να X AUX
+εξακολουθήσει X VERB
+να X AUX
+είναι VERB AUX
+πολύγλωσσο X ADJ
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+έντεκα NUM NUM
+γλώσσες NOUN NOUN
+δημιουργούν X VERB
+110 X NUM
+συνδυασμούς X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+είκοσι NUM NUM
+δύο X NUM
+γλώσσες X NOUN
+462 X NUM
+συνδυασμούς X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+τριάντα X NUM
+πέντε X NUM
+γλώσσες X NOUN
+1090 X NUM
+συνδυασμούς X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μπορείτε X VERB
+άραγε X ADV
+να X AUX
+φανταστείτε X VERB
+μία X DET
+μετάφραση X NOUN
+από X ADP
+τα X DET
+φινλανδικά X ADJ
+σ X ADP
+τα X DET
+πολωνικά X ADJ
+μέσω X ADP
+των X DET
+αγγλικών X ADJ
+ή X CCONJ
+των DET DET
+γαλλικών X ADJ
+; X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Με X ADP
+την X DET
+άμεση X ADJ
+μετάφραση NOUN NOUN
+, X PUNCT
+ορισμένοι X ADJ
+θα X AUX
+ψηφίζουν X VERB
+για X ADP
+το X DET
+κονδύλιο X NOUN
+2 X NUM
+του X DET
+προϋπολογισμού X NOUN
+, X PUNCT
+την X DET
+ώρα X NOUN
+που PART ADV
+κάποιοι X PRON
+άλλοι X PRON
+θα X AUX
+ψηφίζουν X VERB
+ακόμη X ADV
+για X ADP
+το X DET
+κονδύλιο X NOUN
+1 X NUM
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Με X ADP
+περισσότερες NOUN ADJ
+από X ADP
+μια X NUM
+έμμεσες X ADJ
+διερμηνείες X NOUN
+, X PUNCT
+το X DET
+σύστημά X NOUN
+μας X PRON
+θα X AUX
+πάψει X VERB
+να X AUX
+λειτουργεί X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Εάν X SCONJ
+δεν X PART
+προχωρήσουμε X VERB
+σε X ADP
+μεταρρύθμιση X NOUN
+, X PUNCT
+τότε X ADV
+οι DET DET
+περισσότεροι X ADJ
+από X ADP
+εμάς X PRON
+δεν X PART
+θα X AUX
+μπορούμε X VERB
+πλέον X ADV
+να X AUX
+χρησιμοποιούμε X VERB
+τη X DET
+γλώσσα X NOUN
+μας X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σε X ADP
+δύο NUM NUM
+χρόνια X NOUN
+μπορεί X VERB
+να X AUX
+έχουμε X VERB
+δέκα X NUM
+νέα X ADJ
+κράτη NOUN NOUN
+μέλη X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Τα X DET
+κτίριά X NOUN
+μας X PRON
+δεν X PART
+είναι X AUX
+προετοιμασμένα X VERB
+για ADP ADP
+κάτι X PRON
+τέτοιο X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σύντομα X ADV
+, X PUNCT
+ακόμη X ADV
+περισσότερες X ADJ
+χώρες X NOUN
+- X PUNCT
+από X ADP
+την X DET
+Ουκρανία X PROPN
+μέχρι ADP ADP
+τα DET DET
+Βαλκάνια PROPN PROPN
+- X PUNCT
+θα X AUX
+είναι X AUX
+υποψήφιες X ADJ
+προς X ADP
+ένταξη X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Κινδυνεύουμε X VERB
+να X AUX
+δημιουργηθεί X VERB
+μια X DET
+νέα X ADJ
+Βαβέλ X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+επόμενος ADJ ADJ
+Πρόεδρός X NOUN
+μας X PRON
+θα X AUX
+πρέπει X AUX
+να X AUX
+αφοσιωθεί X VERB
+σ X ADP
+τα X DET
+θέματα X NOUN
+της X DET
+εσωτερικής X ADJ
+μεταρρύθμισης X NOUN
+και X CCONJ
+της X DET
+επιτυχούς X ADJ
+διεύρυνσης X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πράγματι X ADV
+, X PUNCT
+ο X DET
+επόμενος X ADJ
+Πρόεδρός X NOUN
+μας X PRON
+δεν X PART
+θα X AUX
+έχει X VERB
+πολύ X ADV
+χρόνο X NOUN
+για X ADP
+ταξίδια X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Χρειαζόμαστε X VERB
+μάλλον X ADV
+έναν X DET
+άνθρωπο X NOUN
+των X DET
+έργων X NOUN
+, X PUNCT
+έναν X DET
+εργάτη X NOUN
+παρά X CCONJ
+έναν X DET
+πολιτικό NOUN ADJ
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Και X CCONJ
+θα X AUX
+είμαστε X AUX
+όλοι X ADJ
+συνυπεύθυνοι X ADJ
+, X PUNCT
+εάν X SCONJ
+δεν X PART
+έχουμε X AUX
+προετοιμαστεί X VERB
+για ADP ADP
+τη X DET
+διεύρυνση X NOUN
+ως X ADV
+το X DET
+2004 X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+τρόπος NOUN NOUN
+που X PRON
+θα X AUX
+ψηφίσουμε X VERB
+σήμερα X ADV
+είναι X AUX
+μέρος X NOUN
+αυτής X PRON
+της X DET
+ευθύνης X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Κάθε X PRON
+ψήφος X NOUN
+υπέρ ADV ADP
+μου X PRON
+αποτελεί X VERB
+το X DET
+εξής X ADV
+σαφές X ADJ
+μήνυμα X NOUN
+προς X ADP
+τους X DET
+κκ X NOUN
+Cox X X
+και X CCONJ
+Martin X X
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+περιορίστε X VERB
+τις X DET
+φιλοδοξίες X NOUN
+σας X PRON
+σ X ADP
+τα X DET
+θέματα X NOUN
+διεύρυνσης X NOUN
+και X CCONJ
+εσωτερικής X ADJ
+μεταρρύθμισης X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σήμερα X ADV
+, X PUNCT
+χάνουμε X VERB
+πολύ X ADJ
+χρόνο X NOUN
+λόγω ADP ADP
+κακής X ADJ
+προετοιμασίας NOUN NOUN
+των X DET
+ψηφοφοριών X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Εάν X SCONJ
+μας X PRON
+ρωτήσουν X VERB
+οι X DET
+δημοσιογράφοι X NOUN
+πώς X ADV
+ψηφίσαμε X VERB
+, X PUNCT
+δεν X PART
+ξέρουμε X VERB
+πάντοτε ADV ADV
+να X AUX
+τους X PRON
+πούμε X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Εάν X SCONJ
+ξέραμε X VERB
+, X PUNCT
+τότε X ADV
+δεν X PART
+θα X AUX
+είχαμε X VERB
+χρόνο X NOUN
+να X AUX
+υπηρετήσουμε X VERB
+το X DET
+λαό X NOUN
+μας X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Και X CCONJ
+τότε X ADV
+θα X AUX
+ήμασταν VERB AUX
+κακοί X ADJ
+βουλευτές X NOUN
+του X DET
+Ευρωπαϊκού X ADJ
+Κοινοβουλίου X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αφήστε X VERB
+το X DET
+θέμα X NOUN
+της X DET
+προετοιμασίας X NOUN
+των X DET
+ψηφοφοριών X NOUN
+σ X ADP
+τις X DET
+επιτροπές X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Δώστε X VERB
+σ NUM ADP
+την X DET
+Ολομέλεια X NOUN
+τη X DET
+δυνατότητα X NOUN
+να X AUX
+ασχοληθεί X VERB
+με X ADP
+τα X DET
+σημαντικά X ADJ
+πολιτικά ADJ ADJ
+θέματα NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Δώστε X VERB
+μας X PRON
+τουλάχιστον X ADV
+μία X NUM
+εβδομάδα NOUN NOUN
+για X ADP
+να X AUX
+διεξάγουμε X VERB
+διαβουλεύσεις X NOUN
+και X CCONJ
+να X AUX
+πώς X ADV
+θα X AUX
+ψηφίσουμε X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σήμερα X ADV
+, X PUNCT
+πολλοί X ADJ
+βουλευτές X NOUN
+δεν X PART
+έχουν X VERB
+τη X DET
+δυνατότητα X NOUN
+να X AUX
+λαμβάνουν X VERB
+το X DET
+λόγο X NOUN
+κατά X ADP
+τις X DET
+συζητήσεις X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Εάν X SCONJ
+κάποιος X PRON
+εκπροσωπεί X VERB
+μια X DET
+μικρή X ADJ
+αντιπροσωπεία X NOUN
+σε X ADP
+μια X DET
+μεγάλη X ADJ
+Ομάδα X NOUN
+, X PUNCT
+ή X CCONJ
+μια X DET
+εναλλακτική X ADJ
+θέση X NOUN
+, X PUNCT
+τότε X ADV
+οι X DET
+κοινοβουλευτικοί X ADJ
+εκπρόσωποι X NOUN
+της X DET
+Ομάδας X NOUN
+σπανίως X ADV
+τον X PRON
+αφήνουν X VERB
+να X AUX
+μιλήσει X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Δώστε X VERB
+σε X ADP
+κάθε X PRON
+βουλευτή X NOUN
+το X DET
+δικαίωμα X NOUN
+να X AUX
+λαμβάνει X VERB
+το X DET
+λόγο X NOUN
+τουλάχιστον X ADV
+τρεις X NUM
+φορές X NOUN
+το X DET
+χρόνο X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αφήστε X VERB
+το X DET
+ένα X NUM
+τρίτο X NUM
+του X DET
+χρόνου X NOUN
+αγόρευσης X NOUN
+για X ADP
+πραγματικές ADJ ADJ
+συζητήσεις X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αφήστε X VERB
+μας X PRON
+να X AUX
+στριμώχνουμε X VERB
+σ X ADP
+τον X DET
+τοίχο X NOUN
+τον/την X DET
+Επίτροπο X NOUN
+, X PUNCT
+όταν X SCONJ
+δηλώνει X VERB
+ότι X SCONJ
+η X DET
+Επιτροπή X NOUN
+μπορεί X VERB
+να X AUX
+εγκρίνει X VERB
+την X DET
+τροπολογία X NOUN
+αριθ. X NOUN
+3 X NUM
+και X CCONJ
+απορρίπτει X VERB
+τις X DET
+τροπολογίες X NOUN
+αριθ. X NOUN
+2 X NUM
+, X PUNCT
+4 X NUM
+, X PUNCT
+5 X NUM
+, X PUNCT
+6 X NUM
+, X PUNCT
+7 X NUM
+, X PUNCT
+8 X NUM
+και X CCONJ
+9 X NUM
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σήμερα X ADV
+, X PUNCT
+η X DET
+διαδικασία NOUN NOUN
+από X ADP
+κοινού X NOUN
+λήψης X NOUN
+αποφάσεων NOUN NOUN
+πραγματοποιείται X VERB
+μεταξύ X ADP
+Επιτροπής X NOUN
+και X CCONJ
+Συμβουλίου X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Εκείνοι X PRON
+μοιράζονται X VERB
+την X DET
+πληροφόρηση X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ακόμη X ADV
+και PART CCONJ
+σ NUM ADP
+τις X DET
+επιτροπές X NOUN
+συνδιαλλαγής X NOUN
+, X PUNCT
+οι X DET
+βουλευτές X NOUN
+μας X PRON
+δεν X PART
+έχουν X VERB
+πρόσβαση X NOUN
+σε X ADP
+έγγραφα X NOUN
+εργασίας X NOUN
+, X PUNCT
+νομικά X ADJ
+σημειώματα X NOUN
+ή X CCONJ
+συνοπτικά X ADJ
+πρακτικά X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μήπως X ADV
+σ X ADP
+την X DET
+πραγματικότητα X NOUN
+" X PUNCT
+από X ADP
+κοινού X NOUN
+" X PUNCT
+σημαίνει X VERB
+" X PUNCT
+μονομερώς X ADV
+" X PUNCT
+; X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σ NUM ADP
+τις DET DET
+επιτροπές X NOUN
+οι X DET
+βουλευτές X NOUN
+συζητούν X VERB
+για ADP ADP
+σχέδια X NOUN
+νόμου X NOUN
+με X ADP
+βάση X NOUN
+παρωχημένα X VERB
+σχέδια X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πίσω X ADV
+μας X PRON
+κάθονται X VERB
+νεαροί X ADJ
+δημόσιοι X ADJ
+υπάλληλοι NOUN NOUN
+από X ADP
+τις X DET
+μόνιμες X ADJ
+αντιπροσωπείες X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+Επιτροπή X NOUN
+και X CCONJ
+το X DET
+Συμβούλιο X NOUN
+διαθέτουν X VERB
+όλες X ADJ
+τις X DET
+πληροφορίες X NOUN
+που PART PRON
+δεν X PART
+μπορούμε X VERB
+να X AUX
+αποκτήσουμε X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Βρίσκομαι X VERB
+εδώ ADV ADV
+22 X NUM
+χρόνια NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σε X ADP
+όλο ADJ ADJ
+αυτό X PRON
+το X DET
+διάστημα X NOUN
+που X PRON
+είμαι X AUX
+εκλεγμένος X VERB
+βουλευτής X NOUN
+δεν X PART
+έχω X AUX
+λάβει X VERB
+ποτέ X ADV
+επαρκή X ADJ
+πληροφόρηση X NOUN
+από X ADP
+την X DET
+επιτροπή X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Για X ADP
+να X AUX
+λάβω X VERB
+πληροφορίες X NOUN
+, X PUNCT
+πρέπει X AUX
+να X AUX
+ανακαλύπτω VERB VERB
+πηγές X NOUN
+, X PUNCT
+όπως X ADV
+δημοσιογράφους NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+επόμενος X ADJ
+Πρόεδρός X NOUN
+μας X PRON
+θα X AUX
+πρέπει X AUX
+να X AUX
+διασφαλίσει X VERB
+ότι X SCONJ
+όλες X ADJ
+οι X DET
+πληροφορίες X NOUN
+θα X AUX
+είναι X AUX
+διαθέσιμες X ADJ
+σε X ADP
+όλους ADJ ADJ
+μας X PRON
+και PART CCONJ
+ότι X SCONJ
+, X PUNCT
+εάν PART SCONJ
+χρειαστεί X VERB
+, X PUNCT
+θα X AUX
+παραπέμψει X VERB
+την X DET
+Επιτροπή X NOUN
+και X CCONJ
+το X DET
+Συμβούλιο X NOUN
+σ X ADP
+τη X DET
+δικαιοσύνη NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σήμερα X ADV
+, X PUNCT
+το X DET
+70% X NUM
+όλων X ADJ
+των X DET
+νόμων X NOUN
+εγκρίνονται X VERB
+από X ADP
+χαμηλόβαθμους X ADJ
+δημοσίους X ADJ
+υπαλλήλους X NOUN
+σε X ADP
+ομάδες X NOUN
+εργασίας X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+15% X NUM
+ρυθμίζεται X VERB
+από ADP ADP
+τους X DET
+πρέσβεις X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μόνο X ADV
+το X DET
+15% X NUM
+φτάνει X VERB
+σ X ADP
+το X DET
+επίπεδο X NOUN
+των X DET
+υπουργών X NOUN
+, X PUNCT
+οι X DET
+οποίοι X PRON
+τότε X ADV
+διαβάζουν X VERB
+χειρόγραφα X NOUN
+που PART PRON
+έχουν X AUX
+εκπονήσει X VERB
+δημόσιοι X ADJ
+υπάλληλοι NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+δημοκρατία X NOUN
+γεννήθηκε X VERB
+σ X ADP
+την X DET
+Ευρώπη X PROPN
+και X CCONJ
+θάφτηκε X VERB
+σ X ADP
+την X DET
+Επιτροπή X NOUN
+και X CCONJ
+το X DET
+Συμβούλιο X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+επόμενος ADJ ADJ
+Πρόεδρός X NOUN
+μας X PRON
+θα X AUX
+πρέπει X AUX
+να X AUX
+επανεδραιώσει X VERB
+τη X DET
+δημοκρατία NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Θα X AUX
+πρέπει VERB AUX
+να X AUX
+μας X PRON
+δώσει X VERB
+το X DET
+έναυσμα X NOUN
+για X ADP
+να X AUX
+συζητήσουμε X VERB
+εάν X SCONJ
+η X DET
+μελλοντική X ADJ
+Ευρώπη PROPN PROPN
+θα X AUX
+αποτελέσει X VERB
+την X DET
+υλοποίηση X NOUN
+του X DET
+ομοσπονδιακού X ADJ
+οράματος X NOUN
+μιας X DET
+δημοκρατικής X ADJ
+ΕΕ X NOUN
+ή X CCONJ
+μιας X DET
+Ευρώπης X PROPN
+δημοκρατιών X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+επόμενος X ADJ
+Πρόεδρός X NOUN
+μας X PRON
+θα X AUX
+πρέπει X AUX
+να X AUX
+ενώσει X VERB
+όλους ADJ ADJ
+τους X DET
+αιρετούς X ADJ
+εκπροσώπους X NOUN
+των X DET
+εθνικών X ADJ
+κοινοβουλίων X NOUN
+και X CCONJ
+του X DET
+Ευρωπαϊκού X ADJ
+Κοινοβουλίου X NOUN
+, X PUNCT
+για X ADP
+τη X DET
+μετατροπή X NOUN
+της X DET
+νομοθετικής X ADJ
+διαδικασίας X NOUN
+από ADP ADP
+διαδικασία X NOUN
+κεκλεισμένων X ADJ
+των X DET
+θυρών X NOUN
+σε X ADP
+ανοικτή X ADJ
+διαδικασία X NOUN
+, X PUNCT
+από X ADP
+διαδικασία X NOUN
+δημοσίων X ADJ
+υπαλλήλων X NOUN
+σε X ADP
+διαδικασία X NOUN
+εκλεγμένων X VERB
+βουλευτών X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Για X ADP
+όσα PRON PRON
+πρέπει X AUX
+να X AUX
+γίνουν VERB VERB
+, X PUNCT
+εγώ X PRON
+προσφέρω X VERB
+τις X DET
+ικανότητες X NOUN
+και X CCONJ
+την X DET
+ενεργητικότητά X NOUN
+μου X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Όμως X ADV
+το X DET
+μόνο X ADJ
+που X PRON
+ζητώ VERB VERB
+είναι X AUX
+να X AUX
+δανειστώ X VERB
+την X DET
+ψήφο X NOUN
+σας X PRON
+για X ADP
+τον X DET
+πρώτο X NUM
+γύρο X NOUN
+: X PUNCT
+πρώτον X ADV
+, X PUNCT
+επειδή X SCONJ
+μπορεί X VERB
+να X AUX
+είναι X AUX
+η X DET
+μόνη X ADJ
+σας X PRON
+ευκαιρία X NOUN
+να X AUX
+με X PRON
+ψηφίσετε X VERB
+και X CCONJ
+δεύτερον X ADV
+, X PUNCT
+επειδή X SCONJ
+οι X DET
+πολλές ADJ ADJ
+ψήφοι X NOUN
+θα X AUX
+θέσουν X VERB
+σε X ADP
+δοκιμασία X NOUN
+τις X DET
+Ομάδες X NOUN
+που X PRON
+βρίσκονται X VERB
+πίσω ADV ADV
+από X ADP
+τους X DET
+κκ. NOUN NOUN
+Cox X X
+και X CCONJ
+Martin X X
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αυτή X PRON
+τη X DET
+φορά X NOUN
+χρειαζόμαστε X VERB
+έναν X DET
+πρακτικό X ADJ
+και X CCONJ
+πολιτικά X ADV
+ουδέτερο X ADJ
+εκπρόσωπο X NOUN
+για ADP ADP
+να X AUX
+υπηρετήσει X VERB
+όλους X ADJ
+μας X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Δώστε X VERB
+σ X ADP
+τον X DET
+εαυτό X NOUN
+σας X PRON
+μια X DET
+καλύτερη X ADJ
+επιλογή X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Επιλέξτε X VERB
+κάποιον PRON PRON
+καλύτερο X ADJ
+, X PUNCT
+τόσο X ADV
+από X ADP
+τον X DET
+Cox X X
+όσο X ADV
+και PART CCONJ
+από X ADP
+τον X DET
+Martin X X
+, X PUNCT
+ψηφίζοντας X VERB
+τον X DET
+κ. NOUN NOUN
+Bonde X X
+του X DET
+γραφείου X NOUN
+007 X NUM
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σ NUM ADP
+το X DET
+τέλος X NOUN
+της X DET
+ημέρας X NOUN
+, X PUNCT
+θα X AUX
+έχουμε X VERB
+μια X DET
+καλύτερη X ADJ
+προεδρία X NOUN
+, X PUNCT
+χάρις X ADV
+σε X ADP
+εκείνους X PRON
+που PART PRON
+σχεδίασαν X VERB
+την X DET
+" X PUNCT
+πλατφόρμα X NOUN
+της X DET
+δίκαιης X ADJ
+προεδρίας X NOUN
+" X PUNCT
+και PART CCONJ
+δημιούργησαν X VERB
+την X DET
+πρώτη X NUM
+πραγματική X ADJ
+εκλογική X ADJ
+μάχη NOUN NOUN
+σ X ADP
+την X DET
+ιστορία NOUN NOUN
+μας X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+επόμενος X ADJ
+πρόεδρος NOUN NOUN
+θα X AUX
+διαθέτει X VERB
+πραγματική X ADJ
+εντολή X NOUN
+και X CCONJ
+αξίζει X VERB
+την X DET
+πλήρη X ADJ
+υποστήριξή X NOUN
+μας X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σύγκρουση X NOUN
+τρένων NOUN NOUN
+σ X ADP
+την X DET
+Νότια X ADJ
+Πολωνία X PROPN
+
+-DOCSTART- -X- -X- O
+
+2012-03-04 X NOUN
+
+-DOCSTART- -X- -X- O
+
+Χθες X ADV
+τα X DET
+μεσάνυχτα X NOUN
+δύο X NUM
+τρένα X NOUN
+συγκρούστηκαν X VERB
+μετωπικά X ADV
+σ X ADP
+την X DET
+νότια ADJ ADJ
+Πολωνία X PROPN
+, X PUNCT
+με X ADP
+αποτέλεσμα X NOUN
+το X DET
+θάνατο X NOUN
+15 SYM NUM
+ατόμων X NOUN
+και X CCONJ
+τον X DET
+τραυματισμό X NOUN
+περίπου X ADV
+60 SYM NUM
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Είναι X AUX
+ένα X NUM
+από X ADP
+τα X DET
+χειρότερα X ADJ
+σιδηροδρομικά X ADJ
+δυστυχήματα X NOUN
+των X DET
+τελευταίων X ADJ
+20 X NUM
+ετών X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+σύγκρουση NOUN NOUN
+έγινε X VERB
+σ X ADP
+τη X DET
+γραμμή X NOUN
+Βαρσοβία X PROPN
+- X PUNCT
+Κρακοβία X PROPN
+, X PUNCT
+σ X ADP
+την X DET
+οποία X PRON
+τα DET DET
+δύο NUM NUM
+τρένα X NOUN
+κινούνταν X VERB
+σε X ADP
+αντίθετες X ADJ
+κατευθύνσεις X NOUN
+με X ADP
+μεγάλη X ADJ
+ταχύτητα X NOUN
+, X PUNCT
+κοντά ADV ADV
+σ X ADP
+την X DET
+πόλη X NOUN
+Στζεκότσινι X X
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Από X ADP
+τη X DET
+σύγκρουση X NOUN
+καταστράφηκαν X VERB
+3 X NUM
+βαγόνια X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+πρωθυπουργός NOUN NOUN
+της X DET
+Πολωνίας X PROPN
+Ντόναλντ X X
+Τουσκ X X
+δήλωσε X VERB
+« X PUNCT
+Είναι X AUX
+η X DET
+πιο X ADV
+τραγική X ADJ
+σιδηροδρομική X ADJ
+καταστροφή X NOUN
+σ X ADP
+την X DET
+ιστορία X NOUN
+μας X PRON
+εδώ X ADV
+και X CCONJ
+πάρα X ADV
+πολλά X ADJ
+χρόνια X NOUN
+» X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Επίσης X ADV
+δήλωσε X VERB
+ότι X SCONJ
+γίνεται X VERB
+έρευνα X NOUN
+για X ADP
+να X AUX
+καθοριστούν X VERB
+τα X DET
+αίτια NOUN NOUN
+του DET DET
+δυστυχήματος X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+Ευρωπαίοι X PROPN
+ψήλωσαν X VERB
+11 X NUM
+εκατοστά X NUM
+τα X DET
+τελευταία X ADJ
+100 X NUM
+χρόνια X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Νέα X ADJ
+έρευνα NOUN NOUN
+υποστηρίζει X VERB
+ότι PART SCONJ
+το X DET
+μέσο X ADJ
+ύψος X NOUN
+των X DET
+Ευρωπαίων NOUN PROPN
+αυξήθηκε X VERB
+κατά X ADP
+11 X NUM
+εκατοστά X NUM
+μέσα X ADV
+σε X ADP
+περίπου X ADV
+100 X NUM
+χρόνια X NOUN
+, X PUNCT
+από X ADP
+το X DET
+1870 X NUM
+μέχρι X ADP
+το X DET
+1980 X NUM
+, X PUNCT
+απόρροια X NOUN
+των X DET
+καλύτερων X ADJ
+συνθηκών X NOUN
+ζωής X NOUN
+και X CCONJ
+της X DET
+καλύτερης X ADJ
+διατροφής X NOUN
+σ X ADP
+την X DET
+Ευρώπη PROPN PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+ομάδα X NOUN
+με ADP ADP
+επικεφαλής X ADJ
+τον X DET
+οικονομολόγο X NOUN
+Τίμοθι X PROPN
+Χάτον X PROPN
+ανέλυσε X VERB
+το X DET
+ύψος X NOUN
+των X DET
+ανδρών NOUN NOUN
+σε PRON ADP
+ηλίκια X NOUN
+περίπου X ADV
+21 X NUM
+την X DET
+περίοδο X NOUN
+1870 X NUM
+- X PUNCT
+1980 X NUM
+από X ADP
+15 X NUM
+ευρωπαϊκές X ADJ
+χώρες X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+πηγές X NOUN
+για X ADP
+τον X DET
+υπολογισμό X NOUN
+του X DET
+ύψους X NOUN
+ήταν VERB AUX
+ποικίλες X ADJ
+, X PUNCT
+με X ADP
+τις X DET
+καμπύλες X NOUN
+ύψους X NOUN
+- X PUNCT
+ηλικίας X NOUN
+διαφόρων X ADJ
+ερευνών X NOUN
+για X ADP
+τα DET DET
+πρόσφατα X ADJ
+χρόνια X NOUN
+και X CCONJ
+στοιχεία NOUN NOUN
+του X DET
+στρατού X NOUN
+για X ADP
+παλαιότερες X ADJ
+χρονολογίες X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+έρευνα NOUN NOUN
+διεξήχθη X VERB
+μόνο X ADV
+σε X ADP
+άνδρες X NOUN
+διότι X SCONJ
+τα DET DET
+αντίστοιχα ADV ADJ
+στοιχεία X NOUN
+για X ADP
+τις X DET
+γυναίκες X NOUN
+είναι X AUX
+πολύ X ADV
+περιορισμένα X ADJ
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Τα X DET
+αποτέλεσματα X NOUN
+έδειξαν X VERB
+ότι PART SCONJ
+μέσα X ADV
+σε X ADP
+110 X NUM
+χρόνια X NOUN
+το X DET
+μέσο X ADJ
+ύψος X NOUN
+των X DET
+Ευρωπαίων NOUN PROPN
+αυξήθηκε X VERB
+κατά X ADP
+έντεκα X NUM
+εκατοστά X NUM
+από X ADP
+1,67 X NUM
+σε X ADP
+1,78 X NUM
+μέτρα X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+ύψος NOUN NOUN
+διαφέρει X VERB
+από X ADP
+χώρα X NOUN
+σε X ADP
+χώρα X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Παραδείγματος X NOUN
+χάριν X ADP
+, X PUNCT
+σ X ADP
+την X DET
+Ισπανία PROPN PROPN
+αυξήθηκε X VERB
+κατά ADP ADP
+12 X NUM
+εκατοστά X NUM
+ενώ X SCONJ
+σ X ADP
+τη X DET
+Σουηδία X PROPN
+κατά X ADP
+10 X NUM
+εκατοστά X NUM
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σύμφωνα X ADV
+με X ADP
+τον X DET
+Τίμοθι X PROPN
+Χάτον X PROPN
+" X PUNCT
+αυξήσεις X NOUN
+σ X ADP
+το X DET
+ύψος X NOUN
+του DET DET
+ανθρώπου X NOUN
+είναι X AUX
+βασικός X ADJ
+δείκτης X NOUN
+για X ADP
+τη X DET
+βελτίωση X NOUN
+της X DET
+μέσης X ADJ
+υγείας NOUN NOUN
+των DET DET
+πληθυσμών X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Τα X DET
+στοιχεία X NOUN
+δείχνουν X VERB
+ότι X SCONJ
+η X DET
+βελτίωση X NOUN
+σ X ADP
+το X DET
+περιβάλλον X NOUN
+των X DET
+ασθενειών X NOUN
+, X PUNCT
+όπως X ADV
+αντανακλάται X VERB
+από ADP ADP
+την X DET
+πτώση X NOUN
+της X DET
+νεογνικής X ADJ
+θνησιμότητας X NOUN
+, X PUNCT
+είναι X AUX
+ο X DET
+πιο X ADV
+σημαντικός X ADJ
+παράγοντας X NOUN
+για X ADP
+την X DET
+αύξηση NOUN NOUN
+του X DET
+ύψους NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+συσχέτιση X NOUN
+μεταξύ X ADP
+νεογνικής X ADJ
+θνησιμότητας X NOUN
+και X CCONJ
+ύψους X NOUN
+έχει X AUX
+ήδη ADV ADV
+καταδειχθεί X VERB
+από X ADP
+έναν X DET
+αριθμό X NOUN
+ερευνών X NOUN
+. X PUNCT
+" X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μέθοδος X NOUN
+προβλέπει X VERB
+το X DET
+αποτέλεσμα X NOUN
+της X DET
+επέμβασης X NOUN
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+εγχειρήσεις X NOUN
+σ X ADP
+τα X DET
+αιμοφόρα X ADJ
+αγγεία X NOUN
+, X PUNCT
+ενώ X SCONJ
+πολλές X ADJ
+φορές X NOUN
+μπορεί X VERB
+να X AUX
+αποβούν X VERB
+σωτήριες X ADJ
+, X PUNCT
+κάποιες X PRON
+φορές X NOUN
+μπορεί X VERB
+να X AUX
+δημιουργήσουν X VERB
+περισσότερα X ADJ
+προβλήματα X NOUN
+σ X ADP
+τον X DET
+ασθενή X NOUN
+ή X CCONJ
+να X AUX
+τον X PRON
+υποβάλουν X VERB
+σε X ADP
+μία X DET
+ανώφελη X ADJ
+και X CCONJ
+επώδυνη X ADJ
+διαδικασία X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Με X ADP
+βάση X NOUN
+τα X DET
+σημερινά X ADJ
+δεδομένα X NOUN
+, X PUNCT
+προκειμένου X SCONJ
+να X AUX
+" X PUNCT
+χαρτογραφήσει X VERB
+" X PUNCT
+τα X DET
+αιμοφόρα X ADJ
+αγγεία X NOUN
+του X DET
+ασθενή X NOUN
+, X PUNCT
+ένας X DET
+γιατρός X NOUN
+προχωρά X VERB
+σε X ADP
+υπολογιστική ADJ ADJ
+τομογραφία X NOUN
+ή X CCONJ
+μαγνητική ADJ ADJ
+απεικόνιση X NOUN
+, X PUNCT
+ενώ X SCONJ
+το X DET
+αποτέλεσμα X NOUN
+της X DET
+επέμβασης X NOUN
+μπορούν X VERB
+απλά ADV ADV
+να X AUX
+το X PRON
+υπολογίσουν X VERB
+με X ADP
+βάση NOUN NOUN
+την X DET
+επιστημονική X ADJ
+εμπειρία X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Όμως X ADV
+, X PUNCT
+νέα ADJ ADJ
+τροπή X NOUN
+σ X ADP
+τα X DET
+ιατρικά X ADJ
+δεδομένα X NOUN
+έρχεται X VERB
+να X AUX
+δώσει X VERB
+ένα X DET
+λογισμικό X ADJ
+πρόγραμμα X NOUN
+, X PUNCT
+που X PRON
+δημιούργησε X VERB
+ο X DET
+Δρ X NOUN
+Τσαρλς X X
+Τέιλορ X X
+, X PUNCT
+από X ADP
+το X DET
+Πανεπιστήμιο X NOUN
+του X DET
+Στάνφορντ X X
+, X PUNCT
+με X ADP
+το X DET
+οποίο PRON PRON
+χρησιμοποιεί X VERB
+εικόνες NOUN NOUN
+από ADP ADP
+τα DET DET
+αιμοφόρα X ADJ
+αγγεία X NOUN
+, X PUNCT
+από X ADP
+τη X DET
+ροή NOUN NOUN
+της X DET
+κυκλοφορίας X NOUN
+του X DET
+αίματος X NOUN
+του DET DET
+καθενός PRON PRON
+, X PUNCT
+που PART PRON
+σε X ADP
+συνδυασμό X NOUN
+με ADP ADP
+την X DET
+επιστημονική X ADJ
+εμπειρία NOUN NOUN
+, X PUNCT
+μπορεί VERB VERB
+να X AUX
+προβλέψει X VERB
+κατά ADP ADP
+ένα DET DET
+μεγάλο ADJ ADJ
+ποσοστό NOUN NOUN
+την X DET
+έκβαση X NOUN
+της X DET
+επέμβασης NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μάλιστα X ADV
+, X PUNCT
+ο X DET
+Δρ. X NOUN
+Τέιλορ X X
+επισημαίνει X VERB
+, X PUNCT
+πως X SCONJ
+η X DET
+συγκεκριμένη X ADJ
+διαδικασία X NOUN
+θα X AUX
+μπορούσε VERB VERB
+να X AUX
+γίνει VERB VERB
+υποχρεωτική ADJ ADJ
+, X PUNCT
+όπως X ADV
+η X DET
+ακτινογραφία NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Δίνει X VERB
+απαντήσεις X NOUN
+σε PRON ADP
+καίριες X ADJ
+ερωτήσεις X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Προκειμένου X SCONJ
+να X AUX
+δημιουργηθεί X VERB
+το X DET
+πρόγραμμα X NOUN
+η X DET
+επιστημονική X ADJ
+ομάδα X NOUN
+από X ADP
+το X DET
+Στάνφορντ X X
+χρησιμοποίησε VERB VERB
+στοιχεία X NOUN
+από X ADP
+ζώα X NOUN
+και X CCONJ
+ανθρώπους X NOUN
+πριν X ADP
+και X CCONJ
+μετά X ADP
+την X DET
+εγχείρηση X NOUN
+, X PUNCT
+ώστε X SCONJ
+πάνω X ADV
+σ X ADP
+το X DET
+μοντέλο X NOUN
+, X PUNCT
+που X PRON
+δημιούργησε X VERB
+μπορεί X VERB
+να X AUX
+υπολογίσει X VERB
+την X DET
+έκβαση X NOUN
+της X DET
+εγχείρησης X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μάλιστα X ADV
+, X PUNCT
+οι X DET
+επιστήμονες X NOUN
+συνεχίζουν X VERB
+τις X DET
+μελέτες X NOUN
+για X ADP
+να X AUX
+πάρουν X VERB
+περισσότερα X ADJ
+στοιχεία X NOUN
+, X PUNCT
+ώστε X SCONJ
+να X AUX
+προβλέπουν X VERB
+το X DET
+αποτέλεσμα X NOUN
+των X DET
+εγχειρήσεων X NOUN
+σ X ADP
+τα X DET
+αιμοφόρα X ADJ
+αγγεία X NOUN
+με X ADP
+μεγαλύτερη ADJ ADJ
+ακρίβεια X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Όπως X ADV
+τονίζει X VERB
+ο X DET
+Δρ. X NOUN
+Τέιλορ X X
+, X PUNCT
+όμως X CCONJ
+, X PUNCT
+ένας X DET
+επιστήμονας X NOUN
+οφείλει X VERB
+να X AUX
+γνωρίζει X VERB
+όλες X ADJ
+τις X DET
+απαντήσεις X NOUN
+, X PUNCT
+ειδικά X ADV
+για ADP ADP
+τις X DET
+ερωτήσεις X NOUN
+του X DET
+τύπου X NOUN
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+" X PUNCT
+Μήπως X ADV
+θα X AUX
+είναι X AUX
+καλύτερο X ADJ
+να X AUX
+μην X PART
+κάνουμε X VERB
+τίποτα X PRON
+, X PUNCT
+μήπως X ADV
+θα X AUX
+υπήρχε X VERB
+άλλος X PRON
+τρόπος X NOUN
+επέμβασης X NOUN
+, X PUNCT
+που X PRON
+θα X AUX
+ήταν X AUX
+πιο X ADV
+αποτελεσματικός X ADJ
+" X PUNCT
+, X PUNCT
+καθώς PART SCONJ
+, X PUNCT
+όπως X ADV
+τονίζει X VERB
+χαρακτηριστικά X ADV
+, X PUNCT
+αν PART SCONJ
+ένας DET DET
+χειρούργος X NOUN
+κάνει VERB VERB
+επέμβαση X NOUN
+σ X ADP
+την X DET
+αορτή NOUN NOUN
+, X PUNCT
+μπορεί VERB VERB
+να X AUX
+υποστεί X VERB
+άλλες X PRON
+βλάβες X NOUN
+σε X ADP
+ζωτικά X ADJ
+όργανα X NOUN
+ή X CCONJ
+να X AUX
+δημιουργηθούν X VERB
+κυκλοφορικά X ADJ
+προβλήματα X NOUN
+σε PRON ADP
+άλλα X PRON
+αγγεία NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+ειδικό X ADJ
+πρόγραμμα X NOUN
+, X PUNCT
+θα X AUX
+μπορούσε VERB VERB
+να X AUX
+βοηθήσει X VERB
+τους X DET
+χειρούργους X NOUN
+να X AUX
+εντοπίσουν X VERB
+τα X DET
+ενδεχόμενα X ADJ
+προβλήματα X NOUN
+και X CCONJ
+να X AUX
+δοκιμάσουν X VERB
+άλλες X PRON
+εναλλακτικές X ADJ
+, X PUNCT
+χωρίς X ADP
+να X AUX
+υποβάλλουν X VERB
+τον X DET
+ασθενή X ADJ
+σε X ADP
+μία X DET
+επώδυνη X ADJ
+και X CCONJ
+ανούσια X ADJ
+επέμβαση X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+" X PUNCT
+Το X DET
+ζήτημα X NOUN
+είναι X AUX
+να X AUX
+μεσολαβήσουμε X VERB
+πρώτα X ADV
+σ X ADP
+τον X DET
+υπολογιστή X NOUN
+πριν X SCONJ
+προχωρήσουμε X VERB
+σ X ADP
+τον X DET
+ασθενή X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Δεν X PART
+μας X PRON
+ενδιαφέρει X VERB
+αν X SCONJ
+πάθει X VERB
+κάτι X PRON
+το X DET
+μοντέλο X NOUN
+του X DET
+υπολογιστή X NOUN
+, X PUNCT
+εφόσον X SCONJ
+δε X PART
+βλάπτεται X VERB
+ο X DET
+ασθενής X NOUN
+" X PUNCT
+τονίζει X VERB
+χαρακτηριστικά X ADV
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+" X PUNCT
+Τελικά X ADV
+, X PUNCT
+πιστεύω X VERB
+, X PUNCT
+ότι X SCONJ
+θα X AUX
+γίνει X VERB
+μέρος X NOUN
+της X DET
+συνηθισμένης X VERB
+διαδικασίας X NOUN
+και X CCONJ
+οι DET DET
+χειρούργοι X NOUN
+θα X AUX
+συμβουλεύονται X VERB
+πρώτα X ADV
+τον X DET
+υπολογιστή X NOUN
+τους X PRON
+και PART CCONJ
+μετά X ADV
+θα X AUX
+προχωρούν X VERB
+σ X ADP
+την X DET
+επέμβαση X NOUN
+" X PUNCT
+καταλήγει X VERB
+ο X DET
+Δρ. X NOUN
+Τέιλορ X X
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+( X PUNCT
+SV X X
+) X PUNCT
+Κυρία X NOUN
+Πρόεδρε X NOUN
+, X PUNCT
+θα X AUX
+ήθελα X VERB
+καταρχάς X ADV
+να X AUX
+ευχαριστήσω X VERB
+όλους X ADJ
+όσους PRON PRON
+συνεργάστηκαν X VERB
+για X ADP
+την X DET
+έκθεση X NOUN
+αυτή X PRON
+- X PUNCT
+τους X DET
+συναδέλφους X NOUN
+από X ADP
+άλλες X PRON
+πολιτικές X ADJ
+ομάδες X NOUN
+, X PUNCT
+ιδιαίτερα X ADV
+την X DET
+κ. X NOUN
+Roth-Behrendt X X
+, X PUNCT
+πρώην X ADJ
+πρόεδρο X NOUN
+της X DET
+προσωρινής X ADJ
+επιτροπής X NOUN
+έρευνας X NOUN
+για X ADP
+την X DET
+ΣΕΒ X NOUN
+, X PUNCT
+καθώς X ADV
+και PART CCONJ
+την X DET
+Επιτροπή X NOUN
+αλλά X CCONJ
+και X CCONJ
+το X DET
+γραφείο X NOUN
+Τροφίμων X NOUN
+και PART CCONJ
+Κτηνιατρικών X ADJ
+Θεμάτων X NOUN
+του X DET
+Δουβλίνου X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+παγκοσμιοποίηση NOUN NOUN
+αυξάνει X VERB
+καθημερινά X ADV
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Είναι X AUX
+θετικό X ADJ
+το X DET
+γεγονός X NOUN
+ότι X SCONJ
+ενεργούμε X VERB
+όλο X ADV
+και X CCONJ
+περισσότερο X ADV
+διασυνοριακά X ADV
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Χρειαζόμαστε X VERB
+ελεύθερη ADJ ADJ
+ροή X NOUN
+προϊόντων X NOUN
+εντός X ADV
+της X DET
+Ευρωπαϊκής X ADJ
+Ένωσης X NOUN
+, X PUNCT
+καθώς PART ADV
+επίσης X ADV
+και X CCONJ
+όλο X ADV
+και X CCONJ
+πιο X ADV
+ελεύθερη X ADJ
+ροή X NOUN
+προϊόντων X NOUN
+σ X ADP
+τον X DET
+πλανήτη X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Είναι X AUX
+ωστόσο X CCONJ
+σημαντικό X ADJ
+να X AUX
+μην X PART
+έχουμε X VERB
+και X CCONJ
+ελεύθερη X ADJ
+ροή NOUN NOUN
+των X DET
+νοσογόνων X ADJ
+παραγόντων X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Όσον X ADV
+αφορά X VERB
+την X DET
+σπογγώδη X ADJ
+εγκεφαλοπάθεια X NOUN
+, X PUNCT
+δίνεται X VERB
+η X DET
+εντύπωση NOUN NOUN
+ότι X SCONJ
+η X DET
+Ευρωπαϊκή X ADJ
+Ένωση X NOUN
+" X PUNCT
+εισήλθε X VERB
+με X ADP
+την X DET
+πλάτη X NOUN
+μπροστά X ADV
+" X PUNCT
+σ NUM ADP
+την X DET
+ελεύθερη X ADJ
+αγορά X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πρώτα X ADV
+δημιουργήθηκε X VERB
+η X DET
+ελεύθερη X ADJ
+αγορά X NOUN
+και X CCONJ
+κατόπιν X ADP
+αρχίσαμε X VERB
+να X AUX
+ερευνούμε X VERB
+εάν X SCONJ
+οι X DET
+ισχύοντες X ADJ
+κανόνες X NOUN
+ήταν X AUX
+επαρκείς X ADJ
+για X ADP
+μια X DET
+ελεύθερη X ADJ
+αγορά X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Κατά X ADP
+τα DET DET
+τελευταία X ADJ
+έτη X NOUN
+υιοθετήθηκαν X VERB
+διάφορα X ADJ
+θετικά X ADJ
+μέτρα X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Για X ADP
+παράδειγμα X NOUN
+, X PUNCT
+δημιουργήθηκε X VERB
+η X DET
+ευρωπαϊκή X ADJ
+αρχή X NOUN
+για X ADP
+τα X DET
+τρόφιμα X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Εξάλλου X ADV
+, X PUNCT
+η X DET
+νομοθεσία X NOUN
+περί ADP ADP
+τροφίμων NOUN NOUN
+αναθεωρήθηκε X VERB
+, X PUNCT
+έτσι X ADV
+ώστε X SCONJ
+να X AUX
+ισχύει X VERB
+μια X DET
+καλή ADJ ADJ
+νομοθεσία X NOUN
+εφόσον X SCONJ
+όλες ADJ ADJ
+οι X DET
+νομικές ADJ ADJ
+πράξεις X NOUN
+τεθούν X VERB
+σε X ADP
+ισχύ X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Όμως X ADV
+οι X DET
+καθημερινές X ADJ
+εμπειρίες X NOUN
+είναι X AUX
+φοβερές X ADJ
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+μια DET DET
+ματιά X NOUN
+σ X ADP
+το X DET
+παρελθόν X NOUN
+μας X PRON
+δείχνει X VERB
+ότι X SCONJ
+πολλά ADJ ADJ
+κράτη X NOUN
+μέλη X NOUN
+δεν X PART
+εφάρμοζαν X VERB
+την X DET
+νομοθεσία X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+πρόβλημα X NOUN
+δεν X PART
+είναι X AUX
+επομένως ADV ADV
+απλώς ADV ADV
+η X DET
+έλλειψη X NOUN
+νομοθεσίας X NOUN
+, X PUNCT
+αλλά X CCONJ
+επίσης X ADV
+και PART CCONJ
+η X DET
+ελλιπής X ADJ
+συμμόρφωση X NOUN
+, X PUNCT
+εξαιτίας ADP ADP
+της X DET
+οποίας X PRON
+φτάσαμε X VERB
+σ X ADP
+τη X DET
+σημερινή X ADJ
+κατάσταση X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Είναι X AUX
+εξαιρετικά X ADV
+σημαντικό X ADJ
+να X AUX
+αντιμετωπίσουμε X VERB
+πλέον X ADV
+αυτή X PRON
+την X DET
+κατάσταση X NOUN
+και X CCONJ
+να X AUX
+εξασφαλίσουμε X VERB
+τη X DET
+συμμόρφωση X NOUN
+προς X ADP
+την X DET
+νομοθεσία X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Εάν X SCONJ
+εξετάσουμε X VERB
+πώς X ADV
+σχετίζονται X VERB
+διάφορες X ADJ
+ασθένειες X NOUN
+μεταξύ X ADP
+τους X PRON
+, X PUNCT
+διαπιστώνουμε X VERB
+ότι X SCONJ
+η X DET
+τρομώδης X ADJ
+νόσος NOUN NOUN
+, X PUNCT
+ο DET DET
+οποίος X PRON
+αποτελεί X VERB
+την X DET
+παλαιότερη X ADJ
+μορφή X NOUN
+ΣΕΒ X NOUN
+είναι X AUX
+γνωστός ADJ ADJ
+εδώ X ADV
+και PART CCONJ
+αρκετούς X PRON
+αιώνες NOUN NOUN
+, X PUNCT
+ενώ X SCONJ
+η X DET
+ΣΕΒ X NOUN
+, X PUNCT
+η X DET
+οποία PRON PRON
+πλήττει X VERB
+τα DET DET
+βοοειδή NOUN NOUN
+, X PUNCT
+δεν X PART
+ήταν VERB AUX
+γνωστή X ADJ
+πριν X ADV
+από ADP ADP
+το X DET
+1986 X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Είναι X AUX
+προφανές X ADJ
+ότι X SCONJ
+βρισκόμαστε X VERB
+σε PRON ADP
+μία DET DET
+εποχή NOUN NOUN
+εξελίξεων X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+ζωή X NOUN
+δεν X PART
+έπαψε X VERB
+να X AUX
+εξελίσσεται X VERB
+- X PUNCT
+ούτε X CCONJ
+και X CCONJ
+οι X DET
+αρνητικές X ADJ
+της X PRON
+πλευρές X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Θα X AUX
+πρέπει X AUX
+επομένως X ADV
+να X AUX
+είμαστε X AUX
+έτοιμοι X ADJ
+να X AUX
+αντιμετωπίζουμε X VERB
+διαρκώς ADV ADV
+νέα X ADJ
+προβλήματα X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πέρυσι X ADV
+το X DET
+φθινόπωρο X NOUN
+ανησυχούσαν X VERB
+πολλοί X ADJ
+για X ADP
+την X DET
+δυνατότητα X NOUN
+εξάπλωσης X NOUN
+της X DET
+ΣΕΒ X NOUN
+σ X ADP
+τα X DET
+πρόβατα X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αυτός X PRON
+είναι X AUX
+, X PUNCT
+φαντάζομαι X VERB
+, X PUNCT
+ο DET DET
+λόγος X NOUN
+για X ADP
+τον X DET
+οποίο X PRON
+έχει X AUX
+περιληφθεί X VERB
+σ X ADP
+την X DET
+έκθεση X NOUN
+το X DET
+σημείο X NOUN
+11 X NUM
+σχετικά ADJ ADV
+με X ADP
+τους X DET
+ελέγχους X NOUN
+σ X ADP
+τα X DET
+πρόβατα X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πιστεύω X VERB
+ότι X SCONJ
+το X DET
+σημείο X NOUN
+αυτό X PRON
+είναι X AUX
+λανθασμένο X ADJ
+και X CCONJ
+καλώ X VERB
+τους X DET
+συναδέλφους X NOUN
+να X AUX
+μην X PART
+το X PRON
+υπερψηφίσουν X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σ NUM ADP
+την X DET
+έρευνα X NOUN
+η X DET
+οποία X PRON
+θα X AUX
+έπρεπε X AUX
+να X AUX
+είχε X AUX
+πραγματοποιηθεί X VERB
+για X ADP
+τα X DET
+πρόβατα X NOUN
+δεν X PART
+εξετάστηκαν X VERB
+εγκέφαλοι X NOUN
+προβάτων X NOUN
+, X PUNCT
+αλλά X CCONJ
+, X PUNCT
+από ADP ADP
+ό,τι X PRON
+φαίνεται X VERB
+, X PUNCT
+εγκέφαλοι X NOUN
+βοειδών X ADJ
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ακόμα X ADV
+και X CCONJ
+οι X DET
+επιστήμονες X NOUN
+, X PUNCT
+βλέπετε X VERB
+, X PUNCT
+κάνουν X VERB
+κάποτε X ADV
+λάθη X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+πρόβλημα X NOUN
+με X ADP
+την X DET
+ΣΕΒ X NOUN
+είναι X AUX
+ότι PART SCONJ
+η X DET
+ασθένεια X NOUN
+αυτή X PRON
+εξαπλώνεται X VERB
+από ADP ADP
+είδος X NOUN
+σε X ADP
+είδος X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αυτό X PRON
+σημαίνει VERB VERB
+ότι X SCONJ
+υπάρχει X VERB
+κίνδυνος X NOUN
+μόλυνσης X NOUN
+ακόμα X ADV
+και X CCONJ
+ανθρώπων NOUN NOUN
+· X PUNCT
+
+-DOCSTART- -X- -X- O
+
+γνωρίζουμε X VERB
+ότι X SCONJ
+η X DET
+ασθένεια X NOUN
+Creutzfeldt-Jacobs X X
+αποτελεί X VERB
+πηγή X NOUN
+έντονης X ADJ
+ανησυχίας X NOUN
+σ X ADP
+το X DET
+πλαίσιο X NOUN
+αυτό X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Θα X AUX
+ήθελα X VERB
+να X AUX
+αναφερθώ X VERB
+σε X ADP
+ορισμένα X ADJ
+από X ADP
+τα X DET
+μέτρα X NOUN
+που PART PRON
+προτείνουμε X VERB
+σ X ADP
+την X DET
+έκθεση X NOUN
+για X ADP
+το X DET
+μέλλον X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Θα X AUX
+ήθελα VERB VERB
+καταρχάς X ADV
+να X AUX
+υπογραμμίσω X VERB
+ότι X SCONJ
+για X ADP
+λόγους NOUN NOUN
+ηθικής X NOUN
+δεν X PART
+θα X AUX
+πρέπει X AUX
+ποτέ ADV ADV
+να X AUX
+δίνονται X VERB
+κρεατάλευρα X NOUN
+ως X ADV
+ζωοτροφές X NOUN
+σε X ADP
+μηρυκαστικά X ADJ
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αυτά X PRON
+εκ ADP ADP
+φύσεως X NOUN
+δεν X PART
+είναι X AUX
+σαρκοβόρα X ADJ
+και X CCONJ
+δεν X PART
+θα X AUX
+πρέπει X AUX
+επομένως X ADV
+να X AUX
+υποχρεώνονται X VERB
+να X AUX
+καταναλώνουν X VERB
+κρέας NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Είναι X AUX
+βέβαια X ADV
+λογικό X ADJ
+- X PUNCT
+θα X AUX
+επανέλθουμε X VERB
+σ X ADP
+το X DET
+σημείο X NOUN
+αυτό X PRON
+σε X ADP
+άλλη PRON PRON
+έκθεση X NOUN
+- X PUNCT
+να X AUX
+μπορούν X VERB
+να X AUX
+χρησιμοποιούνται X VERB
+ως X ADV
+ζωοτροφές X NOUN
+πρώτες X NUM
+ύλες X NOUN
+οι X DET
+οποίες PRON PRON
+είναι X AUX
+κατάλληλες ADJ ADJ
+για X ADP
+ανθρώπινη X ADJ
+κατανάλωση X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+πρόβλημα X NOUN
+είναι X AUX
+ότι X SCONJ
+εάν X SCONJ
+ένα X DET
+ζώο X NOUN
+τρώει X VERB
+άλλο X PRON
+ζώο X NOUN
+του X DET
+είδους X NOUN
+του X PRON
+δημιουργείται X VERB
+κίνδυνος X NOUN
+ασθενειών X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Για X ADP
+το X DET
+λόγο X NOUN
+αυτό X PRON
+θα X AUX
+πρέπει X AUX
+να X AUX
+επιβληθεί X VERB
+η X DET
+λεγόμενη X ADJ
+" X PUNCT
+απαγόρευση X NOUN
+του X DET
+κανιβαλισμού X NOUN
+" X PUNCT
+, X PUNCT
+έτσι X ADV
+ώστε X SCONJ
+να X AUX
+απαγορεύεται X VERB
+η X DET
+παροχή X NOUN
+σε X ADP
+ζώα X NOUN
+ζωοτροφών X NOUN
+που X PRON
+προέρχονται X VERB
+από ADP ADP
+ζώα X NOUN
+του DET DET
+ίδιου ADJ ADJ
+είδους NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+κίνδυνος NOUN NOUN
+μετάδοσης X NOUN
+των X DET
+ασθενειών X NOUN
+είναι VERB AUX
+μεγάλος X ADJ
+, X PUNCT
+ενώ X SCONJ
+η X DET
+τήρηση X NOUN
+της X DET
+νομοθεσίας X NOUN
+υπήρξε X VERB
+ελλιπής X ADJ
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Για X ADP
+το X DET
+λόγο X NOUN
+αυτό X PRON
+αναγκαζόμαστε X VERB
+να X AUX
+διαπιστώσουμε X VERB
+ότι X SCONJ
+σ X ADP
+το X DET
+προσεχές X ADJ
+μέλλον X NOUN
+δεν X PART
+θα X AUX
+είναι X AUX
+δυνατή X ADJ
+η X DET
+άρση NOUN NOUN
+της X DET
+απαγόρευσης X NOUN
+για X ADP
+τη X DET
+χορήγηση X NOUN
+σε X ADP
+παμφάγα X ADJ
+ζώα X NOUN
+ζωοτροφών X NOUN
+που X PRON
+περιέχουν X VERB
+κρεατάλευρα X NOUN
+και X CCONJ
+οστεάλευρα X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πιο X ADV
+μακροπρόθεσμα X ADV
+, X PUNCT
+όταν X SCONJ
+η X DET
+νομοθεσία NOUN NOUN
+αρχίσει X VERB
+να X AUX
+γίνεται X VERB
+περισσότερο X ADV
+σεβαστή X ADJ
+, X PUNCT
+θα X AUX
+μπορέσει X VERB
+ίσως X ADV
+να X AUX
+αρθεί X VERB
+αυτή X PRON
+η X DET
+απαγόρευση X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Όσον X ADV
+αφορά VERB VERB
+το X DET
+σημαντικό ADJ ADJ
+ζήτημα X NOUN
+των X DET
+κυρώσεων X NOUN
+, X PUNCT
+θα X AUX
+ήθελα X VERB
+να X AUX
+απευθύνω X VERB
+ένα X DET
+άμεσο X ADJ
+ερώτημα X NOUN
+σ X ADP
+τον X DET
+Επίτροπο X NOUN
+Byrne X X
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Εάν X SCONJ
+διάφορα X ADJ
+κράτη X NOUN
+μέλη X NOUN
+δεν X PART
+εκπληρώνουν X VERB
+τις X DET
+υποχρεώσεις X NOUN
+που X PRON
+απορρέουν X VERB
+από X ADP
+τις X DET
+συνθήκες X NOUN
+, X PUNCT
+η X DET
+ΕΕ X NOUN
+οφείλει X VERB
+να X AUX
+είναι X AUX
+σε X ADP
+θέση X NOUN
+να X AUX
+παρεμβαίνει X VERB
+υιοθετώντας X VERB
+μέτρα X NOUN
+τα X DET
+οποία X PRON
+να X AUX
+εξασφαλίζουν X VERB
+την X DET
+ασφάλεια X NOUN
+των X DET
+τροφίμων X NOUN
+, X PUNCT
+όπως X ADV
+αναφέρουμε X VERB
+επανειλημμένως X ADV
+σ X ADP
+την X DET
+έκθεση X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πιστεύουμε X VERB
+εξάλλου X ADV
+ότι X SCONJ
+η X DET
+Επιτροπή X NOUN
+θα X AUX
+πρέπει X AUX
+να X AUX
+έχει X VERB
+την X DET
+δυνατότητα X NOUN
+επιβολής X NOUN
+κυρώσεων X NOUN
+κατά X ADP
+κρατών NOUN NOUN
+μελών X NOUN
+τα X DET
+οποία X PRON
+εφαρμόζουν X VERB
+ελλιπώς X ADV
+την X DET
+σχετική X ADJ
+νομοθεσία NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Προσβλέπουμε X VERB
+με X ADP
+ιδιαίτερο X ADJ
+ενδιαφέρον X NOUN
+σ X ADP
+τις DET DET
+απόψεις X NOUN
+του X DET
+Επιτρόπου X NOUN
+για X ADP
+το X DET
+ζήτημα X NOUN
+αυτό X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Θα X AUX
+ήθελα X VERB
+, X PUNCT
+τέλος X NOUN
+, X PUNCT
+για X ADP
+άλλη X PRON
+μία X DET
+φορά X NOUN
+να X AUX
+αναφέρω VERB VERB
+αυτό X PRON
+που X PRON
+είπα X VERB
+σ X ADP
+την X DET
+αρχή X NOUN
+της X DET
+παρέμβασής X NOUN
+μου X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+έρευνα X NOUN
+είναι X AUX
+απαραίτητη X ADJ
+, X PUNCT
+τόσο X ADV
+σε PRON ADP
+αυτόν X PRON
+τον X DET
+τομέα X NOUN
+όσο X ADV
+και PART CCONJ
+σε X ADP
+άλλους X PRON
+σχετικούς X ADJ
+τομείς X NOUN
+, X PUNCT
+προκειμένου X SCONJ
+να X AUX
+βρισκόμαστε X VERB
+σε X ADP
+εγρήγορση X NOUN
+απέναντι X ADV
+σε X ADP
+νέα X ADJ
+προβλήματα X NOUN
+και X CCONJ
+νέες ADJ ADJ
+ασθένειες X NOUN
+που X PRON
+αναφαίνονται X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Είναι X AUX
+εξαιρετικά X ADV
+σημαντικό X ADJ
+να X AUX
+διαθέσουμε X VERB
+εμείς X PRON
+ως X ADV
+ΕΕ X NOUN
+επαρκή X ADJ
+μέσα X NOUN
+προκειμένου PART SCONJ
+να X AUX
+διεξαγάγουμε X VERB
+ένα X DET
+αποτελεσματικό X ADJ
+αγώνα X NOUN
+κατά X ADP
+των X DET
+ασθενειών X NOUN
+αυτού X PRON
+του X DET
+είδους NOUN NOUN
+οι X DET
+οποίες X PRON
+απειλούν X VERB
+τόσο X ADV
+τα X DET
+ζώα NOUN NOUN
+όσο PRON ADV
+και X CCONJ
+τους X DET
+ανθρώπους X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Τρεις X NUM
+νεκροί X ADJ
+από X ADP
+τη X DET
+σφοδρή X ADJ
+κακοκαιρία X NOUN
+που X PRON
+πλήττει X VERB
+τα X DET
+Βαλκάνια X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Κύμα X NOUN
+κακοκαιρίας X NOUN
+πλήττει X VERB
+τα X DET
+Βαλκάνια X PROPN
+, X PUNCT
+ενώ X SCONJ
+μέχρι X ADP
+στιγμής X NOUN
+τρεις X NUM
+άνθρωποι X NOUN
+έχουν X AUX
+χάσει X VERB
+τη X DET
+ζωή X NOUN
+τους X PRON
+και X CCONJ
+δεκάδες X NUM
+έχουν X AUX
+αποκλειστεί X VERB
+σ X ADP
+τη X DET
+Σερβία PROPN PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σ NUM ADP
+την X DET
+ανατολική X ADJ
+πόλη X NOUN
+Ποζαρεβάκ X X
+ένα DET DET
+ηλικιωμένο X ADJ
+ζευγάρι X NOUN
+πάγωσε X VERB
+από X ADP
+το X DET
+κρύο X NOUN
+, X PUNCT
+καθώς X SCONJ
+ο X DET
+υδράργυρός X NOUN
+έπεσε X VERB
+σ X ADP
+τους X DET
+- X PUNCT
+15 X NUM
+βαθμούς X NOUN
+Κελσίου X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Την X DET
+ίδια X ADJ
+ώρα X NOUN
+, X PUNCT
+δεκάδες X NUM
+χωριά X NOUN
+της X DET
+Σερβίας X PROPN
+έχουν VERB AUX
+αποκλειστεί X VERB
+από X ADP
+την X DET
+κακοκαιρία X NOUN
+και PART CCONJ
+την X DET
+έντονη X ADJ
+χιονόπτωση X NOUN
+, X PUNCT
+ενώ X SCONJ
+προβλήματα X NOUN
+έχουν VERB AUX
+προκληθεί X VERB
+και X CCONJ
+σε X ADP
+κεντρικές X ADJ
+οδικές X ADJ
+αρτηρίες X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Τμήματα X NOUN
+των X DET
+εθνικών X ADJ
+οδών NOUN NOUN
+του X DET
+Βελιγραδίου X PROPN
+και X CCONJ
+της X DET
+πόλης X NOUN
+Νις X X
+έκλεισαν X VERB
+, X PUNCT
+με X ADP
+αποτέλεσμα X NOUN
+κάτοικοι X NOUN
+επαρχιών NOUN NOUN
+να X AUX
+έχουν X AUX
+αποκλειστεί X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Τα X DET
+συνεργεία X NOUN
+καθαρισμού X NOUN
+κατέβαλαν X VERB
+μέχρι X ADP
+αργά X ADV
+χθες X ADV
+το X DET
+βράδυ X NOUN
+έντονες X ADJ
+προσπάθειες X NOUN
+για X ADP
+να X AUX
+καθαρίσουν X VERB
+το X DET
+χιόνι X NOUN
+, X PUNCT
+χωρίς ADP ADP
+όμως X CCONJ
+να X AUX
+καταφέρουν X VERB
+να X AUX
+αποκαταστήσουν X VERB
+την X DET
+κυκλοφορία X NOUN
+, X PUNCT
+με X ADP
+αποτέλεσμα X NOUN
+να X AUX
+παραμένουν X VERB
+εγκλωβισμένα X VERB
+χιλιάδες X NUM
+αυτοκίνητα X NOUN
+και PART CCONJ
+φορτηγά X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Παρόμοιο X ADJ
+σκηνικό X NOUN
+διαδραματίστηκε X VERB
+και PART CCONJ
+σ NUM ADP
+το X DET
+γειτονικό X ADJ
+Μαυροβούνιο X PROPN
+, X PUNCT
+το X DET
+οποίο PRON PRON
+έχει X AUX
+βυθιστεί X VERB
+σ NUM ADP
+το X DET
+χιόνι X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Από X ADP
+ακραία X ADJ
+καιρικά X ADJ
+φαινόμενα X NOUN
+πλήττεται X VERB
+και PART CCONJ
+η X DET
+Κροατία X PROPN
+, X PUNCT
+η X DET
+Αλβανία X PROPN
+και X CCONJ
+το X DET
+Κόσοβο X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μάλιστα X ADV
+, X PUNCT
+σ X ADP
+το X DET
+Κόσοβο X PROPN
+σημειώθηκαν X VERB
+μέσα X ADV
+σε X ADP
+μία DET DET
+ημέρα X NOUN
+πάνω ADV ADV
+από X ADP
+100 X NUM
+αυτοκινητιστικά X ADJ
+δυστυχήματα X NOUN
+εξαιτίας X ADP
+του X DET
+πάγου X NOUN
+σ X ADP
+τους X DET
+δρόμους X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Στρατιωτικό X ADJ
+πραξικόπημα X NOUN
+σ X ADP
+το X DET
+Μάλι PROPN X
+
+-DOCSTART- -X- -X- O
+
+2012-03-22 X NOUN
+
+-DOCSTART- -X- -X- O
+
+Στασιαστές X NOUN
+που X PRON
+διαμαρτύρονταν X VERB
+για ADP ADP
+τον X DET
+τρόπο X NOUN
+που X PRON
+χειρίζεται X VERB
+η X DET
+κυβέρνηση X NOUN
+του X DET
+Μάλι X X
+μια X DET
+εξέγερση X NOUN
+των X DET
+Τουαρέγκ X X
+σ X ADP
+το X DET
+βορρά X NOUN
+, X PUNCT
+επιτέθηκαν X VERB
+σ X ADP
+τη X DET
+διάρκεια X NOUN
+της X DET
+νύκτας X NOUN
+20 X NUM
+προς X ADP
+21 X NUM
+Μαρτίου X NOUN
+εναντίον X ADP
+του X DET
+προεδρικού X ADJ
+μεγάρου X NOUN
+και X CCONJ
+του X DET
+κτιρίου X NOUN
+της X DET
+κρατικής X ADJ
+τηλεόρασης X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Έπειτα X ADV
+από X ADP
+πολύωρες X ADJ
+μάχες X NOUN
+με X ADP
+την X DET
+προεδρική X ADJ
+φρουρά X NOUN
+συνέλαβαν X VERB
+υπουργούς X NOUN
+, X PUNCT
+μεταξύ X ADP
+των X DET
+οποίων X PRON
+τον X DET
+υπουργό X NOUN
+Εξωτερικών X NOUN
+Σουμεϊλού X X
+Μπουμπέγε X X
+Μάιγκα X X
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+τύχη X NOUN
+του X DET
+προέδρου X NOUN
+του DET DET
+Μάλι X X
+, X PUNCT
+του X DET
+Αμαντού X X
+Τουμάνι X X
+Τουρέ X X
+, X PUNCT
+παραμένει X VERB
+άγνωστη X ADJ
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+πρόεδρος X NOUN
+θα X AUX
+εγκατέλειπε X VERB
+την X DET
+εξουσία X NOUN
+μετά X ADP
+τις X DET
+εκλογές X NOUN
+του X DET
+επόμενου X ADJ
+μήνα X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+πραξικοπηματίες X NOUN
+κήρυξαν X VERB
+κατάπαυση X NOUN
+του X DET
+πυρός X NOUN
+από X ADP
+το X DET
+πρωί X NOUN
+της X DET
+Πέμπτης X NOUN
+( X PUNCT
+22 X NUM
+Μαρτίου X NOUN
+) X PUNCT
+όπως X ADV
+ανακοίνωσε X VERB
+ο X DET
+αρχηγός X NOUN
+τους X PRON
+λοχαγός X NOUN
+Αμαντού X X
+Σανόγκο X X
+, X PUNCT
+πρόεδρος X NOUN
+της X DET
+Εθνικής X ADJ
+Επιτροπής X NOUN
+για X ADP
+την X DET
+Αποκατάσταση X NOUN
+της X DET
+Δημοκρατίας X NOUN
+και X CCONJ
+του X DET
+Κράτους X NOUN
+( X PUNCT
+CNRDRE X X
+) X PUNCT
+που X PRON
+ανέλαβε X VERB
+την X DET
+εξουσία X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μέσω X ADP
+της X DET
+κρατικής X ADJ
+τηλεόρασης X NOUN
+ανακοίνωσαν X VERB
+ότι X SCONJ
+έχουν VERB VERB
+υπό X ADP
+τον X DET
+έλεγχό X NOUN
+τους X PRON
+την X DET
+χώρα NOUN NOUN
+καθώς X ADV
+και X CCONJ
+ότι X SCONJ
+ισχύει X VERB
+απαγόρευση X NOUN
+της X DET
+κυκλοφορίας X NOUN
+, X PUNCT
+ενώ PART SCONJ
+ανέστειλαν X VERB
+και X CCONJ
+την X DET
+ισχύ X NOUN
+του X DET
+συντάγματος X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Κύριε NOUN NOUN
+Πρόεδρε X NOUN
+, X PUNCT
+θα X AUX
+ήθελα X VERB
+καταρχάς X ADV
+να X AUX
+ευχαριστήσω X VERB
+τον X DET
+εισηγητή X NOUN
+για X ADP
+τον X DET
+τεράστιο X ADJ
+όγκο X NOUN
+δουλειάς X NOUN
+που X PRON
+αφιέρωσε X VERB
+σ X ADP
+την X DET
+έκθεση X NOUN
+αυτή X PRON
+και X CCONJ
+για X ADP
+τις DET DET
+πληροφορίες NOUN NOUN
+που PART PRON
+αυτή X PRON
+περιέχει X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ωστόσο X CCONJ
+, X PUNCT
+διαπιστώνω X VERB
+με X ADP
+απογοήτευση X NOUN
+ότι X SCONJ
+είναι X AUX
+απαισιόδοξος X ADJ
+, X PUNCT
+τόσο ADV ADV
+όταν X SCONJ
+κοιτάζει X VERB
+προς ADP ADP
+το X DET
+παρελθόν X NOUN
+όσο X ADV
+και PART CCONJ
+όταν X SCONJ
+αναλογίζεται X VERB
+το X DET
+μέλλον X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Φυσικά X ADV
+, X PUNCT
+συμφωνώ X VERB
+με X ADP
+ορισμένες X ADJ
+από X ADP
+τις DET DET
+επικρίσεις X NOUN
+του DET PRON
+: X PUNCT
+υπερβολική X ADJ
+γραφειοκρατία X NOUN
+, X PUNCT
+αδυναμία NOUN NOUN
+λήψης X NOUN
+αποφάσεων X NOUN
+, X PUNCT
+αργοί X ADJ
+χρόνοι X NOUN
+παράδοσης X NOUN
+και X CCONJ
+ελλιπείς X ADJ
+δυνατότητες X NOUN
+των X DET
+αναπτυσσόμενων X ADJ
+χωρών X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Όλα X ADJ
+αυτά X PRON
+έχουν X AUX
+προκαλέσει X VERB
+προβληματισμό X NOUN
+, X PUNCT
+ωστόσο X CCONJ
+ο DET DET
+Επίτροπος X NOUN
+Nielson X X
+αντιμετωπίζει X VERB
+τα X DET
+προβλήματα X NOUN
+αυτά X PRON
+αρκετά X ADV
+δυναμικά X ADV
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Προσωπικά X ADV
+, X PUNCT
+είμαι X AUX
+πολύ X ADV
+πιο X ADV
+αισιόδοξος X ADJ
+από X ADP
+τον X DET
+εισηγητή X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πιστεύω X VERB
+ότι X SCONJ
+η X DET
+Συμφωνία X NOUN
+του X DET
+Κοτονού X X
+χαράσσει X VERB
+το X DET
+σωστό X ADJ
+δρόμο X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+Σύμβαση X NOUN
+Λομέ X X
+είχε X VERB
+τα X DET
+προβλήματά X NOUN
+της X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ήταν X AUX
+ωστόσο X CCONJ
+μία X DET
+μοναδική X ADJ
+ιδέα X NOUN
+και X CCONJ
+οδήγησε X VERB
+σε X ADP
+αξιόλογο X ADJ
+έργο X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+νέα X ADJ
+Συμφωνία X NOUN
+Εταιρικής X ADJ
+Σχέσης X NOUN
+βασίζεται X VERB
+σ X ADP
+τις X DET
+σωστές X ADJ
+αρχές X NOUN
+, X PUNCT
+ενισχύοντας X VERB
+την X DET
+παλιά X ADJ
+Σύμβαση X NOUN
+Λομέ X X
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+προσπάθεια X NOUN
+ανακούφισης X NOUN
+της X DET
+φτώχειας X NOUN
+δεν X PART
+μπορεί X VERB
+παρά X CCONJ
+να X AUX
+είναι X AUX
+σωστή X ADJ
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+μόνο X ADJ
+ερώτημα X NOUN
+είναι X AUX
+πώς X ADV
+θα X AUX
+την X PRON
+υλοποιήσουμε X VERB
+καλύτερα X ADV
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Γίνεται X VERB
+μεγάλη X ADJ
+συζήτηση X NOUN
+σχετικά X ADV
+με X ADP
+τη X DET
+χρηματοδότηση X NOUN
+σχεδίων X NOUN
+αντί X ADP
+της X DET
+στήριξης X NOUN
+του X DET
+προϋπολογισμού X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Θα X AUX
+πρέπει X AUX
+να X AUX
+χρησιμοποιήσουμε X VERB
+πολυμερή X ADJ
+βοήθεια X NOUN
+ή PART CCONJ
+διμερή X ADJ
+βοήθεια X NOUN
+; X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Υποστηρίζω X VERB
+σθεναρά X ADV
+την X DET
+πολυμερή X ADJ
+βοήθεια X NOUN
+σε X ADP
+συνδυασμό X NOUN
+με X ADP
+διμερή X ADJ
+βοήθεια X NOUN
+για ADP ADP
+τη X DET
+συμπληρωματική X ADJ
+υποστήριξη X NOUN
+των X DET
+σχεδίων X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Δεν X PART
+πιστεύω X VERB
+ότι X SCONJ
+η X DET
+ενίσχυση X NOUN
+σχεδίων X NOUN
+και X CCONJ
+προγραμμάτων X NOUN
+έχει X AUX
+αποτύχει X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+πρόβλημα X NOUN
+ήταν X AUX
+η X DET
+περιορισμένη X ADJ
+ικανότητα X NOUN
+των X DET
+χωρών X NOUN
+να X AUX
+συνεχίσουν X VERB
+τα X DET
+έργα X NOUN
+αφού X SCONJ
+αυτά X PRON
+είχαν X AUX
+ολοκληρωθεί X VERB
+από X ADP
+την X DET
+Ευρωπαϊκή X ADJ
+Ένωση X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Παρομοίως X ADV
+, X PUNCT
+δεν X PART
+είμαι X AUX
+ακόμα X ADV
+πεπεισμένος X VERB
+ότι X SCONJ
+μπορεί X VERB
+να X AUX
+υπάρξει X VERB
+αυστηρός X ADJ
+έλεγχος X NOUN
+της X DET
+δημοσιονομικής X ADJ
+στήριξης X NOUN
+σε X ADP
+πολλές X ADJ
+αναπτυσσόμενες X ADJ
+χώρες X NOUN
+και X CCONJ
+φοβάμαι X VERB
+ότι X SCONJ
+κάτι PRON PRON
+τέτοιο X PRON
+θα X AUX
+ανοίξει X VERB
+την X DET
+πόρτα X NOUN
+σ NUM ADP
+τη X DET
+διαφθορά NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πιστεύω X VERB
+ότι X SCONJ
+τη X DET
+μεγαλύτερη ADJ ADJ
+επίδραση X NOUN
+θα X AUX
+έχουν X VERB
+οι X DET
+νέες ADJ ADJ
+συνιστώσες X NOUN
+που X PRON
+εισάγει X VERB
+η X DET
+Συμφωνία X NOUN
+του X DET
+Κοτονού X X
+: X PUNCT
+η X DET
+πολιτική X ADJ
+διάσταση X NOUN
+, X PUNCT
+η X DET
+έμφαση X NOUN
+σ X ADP
+την X DET
+χρηστή X ADJ
+διακυβέρνηση X NOUN
+, X PUNCT
+η X DET
+πρόληψη X NOUN
+και PART CCONJ
+η X DET
+επίλυση X NOUN
+των X DET
+συγκρούσεων X NOUN
+, X PUNCT
+η X DET
+επικοινωνία X NOUN
+με X ADP
+την X DET
+κοινωνία NOUN NOUN
+των DET DET
+πολιτών X NOUN
+, X PUNCT
+η X DET
+περιφερειακή X ADJ
+προσέγγιση X NOUN
+για X ADP
+την X DET
+ενίσχυση X NOUN
+του DET DET
+εμπορίου NOUN NOUN
+και X CCONJ
+το X DET
+κοινοβουλευτικό ADJ ADJ
+στοιχείο X NOUN
+της X DET
+Συνέλευσης X NOUN
+Ίσης X ADJ
+Εκπροσώπησης X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Όλα X ADJ
+αυτά X PRON
+τα DET DET
+στοιχεία NOUN NOUN
+θα X AUX
+πρέπει X AUX
+να X AUX
+ισχυροποιήσουν X VERB
+την X DET
+εταιρική X ADJ
+σχέση X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Όλα X ADJ
+αυτά X PRON
+μετέβαλαν X VERB
+το X DET
+ρόλο X NOUN
+μου PRON PRON
+ως X ADV
+συμπρόεδρος X NOUN
+τον X DET
+τελευταίο X ADJ
+χρόνο X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+δραστηριότητές X NOUN
+μου X PRON
+τον X DET
+περασμένο X ADJ
+χρόνο X NOUN
+ήταν X AUX
+περισσότερο X ADV
+πολιτικές X ADJ
+, X PUNCT
+καθώς X SCONJ
+συμμετείχα X VERB
+, X PUNCT
+για X ADP
+παράδειγμα NOUN NOUN
+, X PUNCT
+σε X ADP
+συζητήσεις X NOUN
+για X ADP
+το X DET
+θέμα X NOUN
+της X DET
+επίλυσης X NOUN
+των X DET
+συγκρούσεων X NOUN
+και X CCONJ
+της X DET
+χρηστής X ADJ
+διακυβέρνησης X NOUN
+με X ADP
+τον X DET
+Πρόεδρο X NOUN
+Taylor X X
+σ X ADP
+τη X DET
+Λιβερία X PROPN
+, X PUNCT
+ή X CCONJ
+σε PRON ADP
+συζητήσεις X NOUN
+για X ADP
+την X DET
+κατάσταση NOUN NOUN
+σ X ADP
+την X DET
+Ζιμπάμπουε X X
+με ADP ADP
+τους X DET
+Προέδρους X NOUN
+της X DET
+Μποτσουάνα X X
+, X PUNCT
+του X DET
+Μαλάουι PROPN X
+και PART CCONJ
+της X DET
+Μοζαμβίκης NOUN PROPN
+, X PUNCT
+και PART CCONJ
+άκουσα ADJ VERB
+και PART CCONJ
+είδα X VERB
+τα DET DET
+αποτελέσματα NOUN NOUN
+αυτής X PRON
+της X DET
+κατάστασης X NOUN
+σ NUM ADP
+τις DET DET
+χώρες NOUN NOUN
+αυτές X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Όλα X ADJ
+αυτά X PRON
+εξαρτώνται X VERB
+από X ADP
+μία X DET
+αποτελεσματική X ADJ
+Επιτροπή X NOUN
+, X PUNCT
+με X ADP
+κατάλληλα X ADV
+χρηματοδοτούμενες X ADJ
+και X CCONJ
+στελεχωμένες X VERB
+αντιπροσωπείες X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+περισσότερες X ADJ
+από X ADP
+τις DET DET
+αντιπροσωπείες X NOUN
+που X PRON
+έχω X AUX
+συναντήσει X VERB
+μέχρι X ADP
+σήμερα ADV ADV
+λειτουργούν X VERB
+πολύ X ADV
+άσχημα X ADV
+λόγω X ADP
+έλλειψης X NOUN
+πόρων X NOUN
+και X CCONJ
+λόγω X ADP
+της X DET
+τεράστιας X ADJ
+και X CCONJ
+περιττής X ADJ
+γραφειοκρατίας X NOUN
+που X PRON
+έχουν VERB VERB
+να X AUX
+αντιμετωπίσουν X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Υπαίτιο X ADJ
+για ADP ADP
+αυτό X PRON
+είναι VERB AUX
+το X DET
+Κοινοβούλιο X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πρέπει X AUX
+να X AUX
+παροτρύνουμε X VERB
+όλες X ADJ
+τις DET DET
+χώρες X NOUN
+να X AUX
+επικυρώσουν X VERB
+τη X DET
+συμφωνία X NOUN
+, X PUNCT
+όπως X ADV
+είπε X VERB
+η X DET
+κ. X NOUN
+Dybkjζr X X
+, X PUNCT
+ώστε X SCONJ
+να X AUX
+μπορέσει X VERB
+το X DET
+ένατο X NUM
+ΕΤΑ X NOUN
+να X AUX
+τεθεί X VERB
+σε X ADP
+ισχύ X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+εταιρική X ADJ
+αυτή X PRON
+σχέση X NOUN
+πρέπει X AUX
+να X AUX
+λειτουργήσει X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Εάν X SCONJ
+θέλουμε X VERB
+πραγματικά X ADV
+να X AUX
+δώσουμε X VERB
+ένα X DET
+τέλος X NOUN
+σ X ADP
+την X DET
+οικονομική X ADJ
+μετανάστευση X NOUN
+και X CCONJ
+σ X ADP
+την X DET
+παγκόσμια X ADJ
+τρομοκρατία X NOUN
+, X PUNCT
+θα X AUX
+πρέπει X AUX
+να X AUX
+προσφέρουμε X VERB
+ένα DET DET
+επίπεδο NOUN NOUN
+διαβίωσης X NOUN
+σ X ADP
+τις DET DET
+αναπτυσσόμενες X ADJ
+χώρες X NOUN
+που X PRON
+θα X AUX
+πείσει X VERB
+τους X DET
+ανθρώπους X NOUN
+να X AUX
+παραμείνουν X VERB
+και X CCONJ
+να X AUX
+εργαστούν X VERB
+εκεί X ADV
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Την X DET
+έκδοση X NOUN
+του X DET
+Φετουλάχ X PROPN
+Γκιουλέν X PROPN
+σ X ADP
+την X DET
+Τουρκία X PROPN
+θα X AUX
+ζητήσει X VERB
+ο X DET
+Ερντογάν X PROPN
+από ADP ADP
+τις X DET
+ΗΠΑ X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο X DET
+ισλαμιστής X NOUN
+ιμάμης X NOUN
+ζει X VERB
+αυτοεξόριστος X ADJ
+σ X ADP
+την X DET
+Πενσυλβάνια X PROPN
+από ADP ADP
+το X DET
+1999 X NUM
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο X DET
+Πρωθυπουργός X NOUN
+της X DET
+Τουρκίας X PROPN
+, X PUNCT
+Ρετζέπ X PROPN
+Ταγίπ X PROPN
+Ερντογάν X PROPN
+, X PUNCT
+ανέφερε X VERB
+σε X ADP
+συνέντευξη X NOUN
+που X PRON
+παραχώρησε X VERB
+σ X ADP
+τη X DET
+δημόσια ADV ADJ
+τηλεόραση X NOUN
+των X DET
+ΗΠΑ X NOUN
+, X PUNCT
+ότι X SCONJ
+η X DET
+κυβέρνηση X NOUN
+του X PRON
+θα X AUX
+ζητήσει X VERB
+από X ADP
+τις X DET
+ΗΠΑ X NOUN
+την X DET
+έκδοση X NOUN
+σ X ADP
+την X DET
+Τουρκία X PROPN
+του X DET
+αμφιλεγόμενου X ADJ
+ισλαμιστή X NOUN
+ηγέτη NOUN NOUN
+, X PUNCT
+Φετουλάχ X X
+Γκιουλέν X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+κ. X NOUN
+Ερντογάν X PROPN
+μιλώντας X VERB
+σ X ADP
+το X DET
+αμερικανικό X ADJ
+τηλεοπτικό X ADJ
+δίκτυο NOUN NOUN
+PBS X X
+, X PUNCT
+ανέφερε X VERB
+ότι X SCONJ
+το X DET
+Κίνημα X NOUN
+" X PUNCT
+Χιζμέτ X PROPN
+" X PUNCT
+, X PUNCT
+που X PRON
+έχει VERB AUX
+δημιουργήσει X VERB
+ο X DET
+Φετουλάχ X PROPN
+Γκιουλέν X PROPN
+, X PUNCT
+σχεδιάζει X VERB
+να X AUX
+" X PUNCT
+ρίξει X VERB
+" X PUNCT
+την X DET
+τουρκική X ADJ
+κυβέρνηση NOUN NOUN
+με X ADP
+κατασκευασμένες X ADJ
+κατηγορίες X NOUN
+και PART CCONJ
+την X DET
+καταγραφή X NOUN
+τηλεφωνικών X ADJ
+συνδιαλέξεων X NOUN
+κυβερνητικών X ADJ
+αξιωματούχων NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Όπως X ADV
+χαρακτηριστικά ADJ ADV
+ανέφερε X VERB
+ο X DET
+Πρωθυπουργός X NOUN
+της X DET
+Τουρκίας X PROPN
+, X PUNCT
+" X PUNCT
+σ NUM ADP
+τα X DET
+άτομα NOUN NOUN
+αυτά X PRON
+, X PUNCT
+που X PRON
+απειλούν X VERB
+την X DET
+εθνική ADJ ADJ
+ασφάλεια X NOUN
+της X DET
+Τουρκίας X PROPN
+, X PUNCT
+δεν X PART
+θα X AUX
+πρέπει X AUX
+να X AUX
+επιτρέπεται X VERB
+η X DET
+παραμονή X NOUN
+σε X ADP
+τρίτες X NUM
+χώρες X NOUN
+, X PUNCT
+γιατί X SCONJ
+ό,τι X PRON
+έκαναν VERB VERB
+σε X ADP
+μας X PRON
+μπορεί X VERB
+να X AUX
+το X PRON
+κάνουν VERB VERB
+και PART CCONJ
+σ NUM ADP
+τις DET DET
+χώρες X NOUN
+που X PRON
+τους X PRON
+φιλοξενούν X VERB
+" X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο X DET
+τούρκος X ADJ
+Πρωθυπουργός X NOUN
+τόνισε X VERB
+επίσης X ADV
+ότι X SCONJ
+η X DET
+χώρα X NOUN
+του X PRON
+έχει X AUX
+ανταποκριθεί X VERB
+σε PRON ADP
+περισσότερα X ADJ
+από X ADP
+δέκα X NUM
+αιτήματα X NOUN
+των X DET
+ΗΠΑ X NOUN
+για ADP ADP
+εκδόσεις X NOUN
+πολιτών X NOUN
+από X ADP
+την X DET
+Τουρκία X PROPN
+και X CCONJ
+περιμένει X VERB
+από X ADP
+τις DET DET
+ΗΠΑ X NOUN
+να X AUX
+δράσουν X VERB
+αναλόγως X ADV
+σ X ADP
+το X DET
+αίτημα X NOUN
+που PART PRON
+υποβάλλει X VERB
+μια DET DET
+" X PUNCT
+φίλη X NOUN
+χώρα NOUN NOUN
+και PART CCONJ
+σύμμαχός X NOUN
+τους X PRON
+σ X ADP
+το X DET
+ΝΑΤΟ X NOUN
+" X PUNCT
+, X PUNCT
+όπως ADV ADV
+επεσήμανε X VERB
+ο DET DET
+κ. NOUN NOUN
+Ερντογάν X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Τον X DET
+περασμένο X ADJ
+μήνα X NOUN
+οι X DET
+τουρκικές X ADJ
+αρχές X NOUN
+ακύρωσαν X VERB
+το X DET
+διαβατήριο X NOUN
+του DET DET
+Φετουλάχ X PROPN
+Γκιουλέν X PROPN
+, X PUNCT
+ο X DET
+οποίος PRON PRON
+βρίσκεται X VERB
+σ X ADP
+τις X DET
+ΗΠΑ PROPN NOUN
+με X ADP
+άδεια X NOUN
+παραμονής X NOUN
+( X PUNCT
+Πράσινη X ADJ
+Κάρτα X NOUN
+) X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πάντως X ADV
+, X PUNCT
+σ X ADP
+τη X DET
+σχετική X ADJ
+συμφωνία X NOUN
+που PART PRON
+υπέγραψαν X VERB
+οι X DET
+ΗΠΑ X NOUN
+και PART CCONJ
+η X DET
+Τουρκία X PROPN
+το X DET
+1979 X NUM
+, X PUNCT
+για X ADP
+να X AUX
+επιτευχθεί X VERB
+η X DET
+έκδοση X NOUN
+ενός X DET
+ατόμου X NOUN
+από X ADP
+τη X DET
+μια X PRON
+χώρα X NOUN
+σ X ADP
+την X DET
+άλλη X PRON
+, X PUNCT
+θα X AUX
+πρέπει X AUX
+πρώτα X ADV
+να X AUX
+έχει X AUX
+εκδοθεί X VERB
+ένταλμα X NOUN
+σύλληψης NOUN NOUN
+για X ADP
+το X DET
+άτομο NOUN NOUN
+αυτό X PRON
+και PART CCONJ
+να X AUX
+κατατεθούν X VERB
+αποδεικτικά X ADJ
+στοιχεία NOUN NOUN
+που X PRON
+να X AUX
+το X PRON
+συνδέουν X VERB
+με X ADP
+εγκληματική ADJ ADJ
+δραστηριότητα NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Από X ADP
+την X DET
+πλευρά X NOUN
+του DET PRON
+, X PUNCT
+ο X DET
+Φετουλάχ X PROPN
+Γκιουλέν X PROPN
+υποστηρίζει X VERB
+ότι PART SCONJ
+δεν X PART
+έχει X VERB
+καμία X PRON
+σχέση X NOUN
+με X ADP
+τις DET DET
+δικαστικές X ADJ
+έρευνες X NOUN
+για ADP ADP
+διαφθορά X NOUN
+που X PRON
+διεξάγονται X VERB
+σ NUM ADP
+την X DET
+Τουρκία PROPN PROPN
+και X CCONJ
+σ X ADP
+τις X DET
+οποίες X PRON
+έχουν X AUX
+εμπλακεί X VERB
+ονόματα NOUN NOUN
+ατόμων X NOUN
+που X PRON
+οι DET DET
+γονείς NOUN NOUN
+τους X PRON
+είναι VERB AUX
+μέλη NOUN NOUN
+της X DET
+κυβέρνησης X NOUN
+, X PUNCT
+ενώ X SCONJ
+σε X ADP
+μια X NUM
+από X ADP
+τις X DET
+έρευνες NOUN NOUN
+εμπλέκεται X VERB
+και X CCONJ
+ο X DET
+ίδιος ADJ ADJ
+ο X DET
+γιος NOUN NOUN
+του DET DET
+Πρωθυπουργού X NOUN
+της X DET
+Τουρκίας X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σ NUM ADP
+το X DET
+νησί NOUN NOUN
+της X DET
+Σίφνου X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+νησί X NOUN
+της X DET
+Σίφνου X PROPN
+, X PUNCT
+με X ADP
+τις X DET
+365 X NUM
+εκκλησίες NOUN NOUN
+( X PUNCT
+μία X NUM
+για X ADP
+κάθε X PRON
+μέρα X NOUN
+του X DET
+χρόνου X NOUN
+) X PUNCT
+και X CCONJ
+τους X DET
+55 X NUM
+πύργους X NOUN
+, X PUNCT
+ανήκει X VERB
+σ X ADP
+το X DET
+σύμπλεγμα X NOUN
+των DET DET
+Δυτικών X ADJ
+Κυκλάδων X PROPN
+και X CCONJ
+βρίσκεται VERB VERB
+ανάμεσα ADV ADV
+σ NUM ADP
+τη X DET
+Σέριφο X PROPN
+, X PUNCT
+την X DET
+Κίμωλο X PROPN
+και PART CCONJ
+την X DET
+Αντίπαρο NOUN PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+νησί X NOUN
+έχει X VERB
+σχήμα X NOUN
+τριγώνου X NOUN
+και X CCONJ
+η X DET
+απόστασή X NOUN
+του X PRON
+από X ADP
+τον X DET
+Πειραιά X PROPN
+είναι X AUX
+75 X NUM
+ναυτικά X ADJ
+μίλια X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+έκτασή X NOUN
+του X PRON
+φτάνει X VERB
+τα X DET
+74 X NUM
+τετραγωνικά X ADJ
+χιλιόμετρα X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+ακτές X NOUN
+φτάνουν X VERB
+περίπου X ADV
+τα X DET
+70 X NUM
+χιλιόμετρα X NOUN
+και X CCONJ
+χαρακτηρίζονται X VERB
+από X ADP
+γραφικούς ADJ ADJ
+όρμους X NOUN
+και X CCONJ
+μικρούς X ADJ
+κολπίσκους X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+λόφοι X NOUN
+και X CCONJ
+οι X DET
+κοιλάδες X NOUN
+του X PRON
+έχουν X VERB
+ελαιόδεντρα X NOUN
+και X CCONJ
+είναι X AUX
+κατάφυτες X ADJ
+, X PUNCT
+γεγονός X NOUN
+που X PRON
+διαφοροποιεί X VERB
+το X DET
+τοπίο X NOUN
+, X PUNCT
+κατά ADP ADP
+πολύ X ADV
+, X PUNCT
+σε X ADP
+σχέση X NOUN
+με X ADP
+τα X DET
+άλλα X PRON
+νησιά X NOUN
+του X DET
+Αιγαίου X PROPN
+, X PUNCT
+όπου ADV ADV
+η X DET
+βλάστηση X NOUN
+είναι VERB AUX
+σχεδόν ADV ADV
+ανύπαρκτη X ADJ
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πρωτεύουσα X NOUN
+της X DET
+Σίφνου X PROPN
+είναι X AUX
+η X DET
+Απολλωνία X PROPN
+, X PUNCT
+ένα X DET
+γραφικότατο X ADJ
+χωριό X NOUN
+, X PUNCT
+σ NUM ADP
+το X DET
+κεντρικότερο X ADJ
+σημείο X NOUN
+του X DET
+νησιού X NOUN
+, X PUNCT
+που PART PRON
+οφείλει X VERB
+το X DET
+όνομά X NOUN
+του X PRON
+σ X ADP
+το X DET
+θεό X NOUN
+Απόλλωνα X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+Απολλωνία X PROPN
+είναι VERB AUX
+χτισμένη X VERB
+αμφιθεατρικά X ADV
+, X PUNCT
+ανάμεσα X ADV
+σε X ADP
+3 X NUM
+λόφους X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ανάμεσα X ADV
+σ X ADP
+τα X DET
+στενά X ADJ
+δρομάκια X NOUN
+, X PUNCT
+τα X DET
+ασβεστωμένα X VERB
+σκαλιά X NOUN
+, X PUNCT
+τα DET DET
+ολόλευκα X ADJ
+σπίτια NOUN NOUN
+σε PRON ADP
+σχήμα X NOUN
+κύβου X NOUN
+και X CCONJ
+τις X DET
+δεκάδες X NUM
+εκκλησίες X NOUN
+, X PUNCT
+την X DET
+προσοχή X NOUN
+σας X PRON
+θα X AUX
+τραβήξουν X VERB
+οι X DET
+διάσημοι X ADJ
+φλάροι X NOUN
+, X PUNCT
+τα X DET
+ιδιαίτερα X ADJ
+κεραμικά X ADJ
+της X DET
+Σίφνου X PROPN
+που PART PRON
+τοποθετούνταν X VERB
+σ X ADP
+τις DET DET
+καπνοδόχους NOUN NOUN
+των X DET
+σπιτιών X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Δίπλα X ADV
+σ X ADP
+την X DET
+Απολλωνία X PROPN
+, X PUNCT
+ενωμένος X VERB
+πλέον ADV ADV
+μ' X ADP
+αυτήν X PRON
+, X PUNCT
+βρίσκεται X VERB
+ο X DET
+Αρτεμώνας X PROPN
+, X PUNCT
+ένα X DET
+χωριό X NOUN
+γεμάτο X ADJ
+νεοκλασικά X ADJ
+κτίρια X NOUN
+, X PUNCT
+παλιά X ADJ
+αρχοντικά X NOUN
+και X CCONJ
+ανεμόμυλους X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+λιμάνι X NOUN
+του X DET
+νησιού X NOUN
+, X PUNCT
+οι X DET
+Καμάρες X PROPN
+, X PUNCT
+βρίσκεται VERB VERB
+ανάμεσα X ADV
+σε X ADP
+δύο X NUM
+βουνά X NOUN
+, X PUNCT
+τα DET DET
+οποία X PRON
+έχουν VERB VERB
+λευκές X ADJ
+εκκλησίες X NOUN
+σ X ADP
+τις X DET
+κορυφές NOUN NOUN
+τους X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σ NUM ADP
+τον X DET
+Πλατύ X ADJ
+Γιαλό X NOUN
+βρίσκεται X VERB
+μια DET NUM
+από X ADP
+τις DET DET
+πιο X ADV
+ωραίες X ADJ
+και X CCONJ
+πολυσύχναστες X ADJ
+παραλίες X NOUN
+του X DET
+Αιγαίου X PROPN
+, X PUNCT
+η X DET
+οποία PRON PRON
+διαθέτει X VERB
+εξοπλισμό X NOUN
+και X CCONJ
+για X ADP
+θαλάσσια ADJ ADJ
+σπορ X NOUN
+, X PUNCT
+ενώ X SCONJ
+κοντά X ADV
+σ X ADP
+το X DET
+χωριό X NOUN
+υπάρχει X VERB
+και PART CCONJ
+η X DET
+Ιερά X ADJ
+Μονή X NOUN
+των X DET
+Ταξιαρχών X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μια X NUM
+από X ADP
+τις X DET
+πιο X ADV
+όμορφες ADJ ADJ
+εικόνες X NOUN
+της X DET
+Σίφνου X PROPN
+είναι X AUX
+το X DET
+εκκλησάκι X NOUN
+της X DET
+Παναγίας X PROPN
+της X DET
+Χρυσοπηγής X PROPN
+που X PRON
+βρίσκεται X VERB
+χτισμένο X VERB
+σε X ADP
+ένα X DET
+πελώριο X ADJ
+βράχο NOUN NOUN
+που X PRON
+ουσιαστικά X ADV
+εισβάλλει X VERB
+σ X ADP
+το X DET
+απόλυτο X ADJ
+μπλε X ADJ
+της X DET
+θάλασσας X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μην X PART
+παραλείψετε X VERB
+να X AUX
+επισκεφθείτε X VERB
+το X DET
+Κάστρο X PROPN
+, X PUNCT
+ένα X DET
+χωριό X NOUN
+που X PRON
+κατοικείται X VERB
+αδιάλειπτα X ADV
+από ADP ADP
+τους X DET
+Προϊστορικούς X ADJ
+χρόνους X NOUN
+και X CCONJ
+ήταν X AUX
+η X DET
+μεσαιωνική X ADJ
+πρωτεύουσα X NOUN
+του DET DET
+νησιού X NOUN
+μέχρι X ADP
+το X DET
+1836 X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σ X ADP
+το X DET
+χώρο X NOUN
+υπάρχουν X VERB
+μνημεία X NOUN
+από X ADP
+ένα X DET
+συνονθύλευμα X NOUN
+πολιτισμών NOUN NOUN
+, X PUNCT
+ενώ X SCONJ
+η X DET
+θέα X NOUN
+προς X ADP
+το X DET
+Αιγαίο X PROPN
+είναι VERB AUX
+υπέροχη ADJ ADJ
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο NUM DET
+Φάρος X PROPN
+θεωρείται X VERB
+το X DET
+ασφαλέστερο X ADJ
+λιμάνι NOUN NOUN
+του X DET
+νησιού X NOUN
+και X CCONJ
+βρίσκεται X VERB
+σ NUM ADP
+τα X DET
+νοτιοανατολικά X ADJ
+της X DET
+Σίφνου X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ήταν X AUX
+το X DET
+επίσημο X ADJ
+λιμάνι X NOUN
+ως X ADV
+το X DET
+1883 X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σ X ADP
+τη X DET
+δυτική X ADJ
+άκρη X NOUN
+του X DET
+κόλπου X NOUN
+σώζονται X VERB
+υπολείμματα X NOUN
+από X ADP
+τις X DET
+εγκαταστάσεις X NOUN
+φόρτωσης X NOUN
+μεταλλεύματος X NOUN
+σε X ADP
+πλοία X NOUN
+, X PUNCT
+για X ADP
+τη X DET
+μεταφορά X NOUN
+και X CCONJ
+επεξεργασία X NOUN
+του X PRON
+σ NUM ADP
+το X DET
+Λαύριο X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+Σίφνος X PROPN
+φημίζεται X VERB
+και X CCONJ
+για X ADP
+τα X DET
+καταγάλανα X ADJ
+νερά X NOUN
+των X DET
+πανέμορφων X ADJ
+ακτών X NOUN
+της X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μερικές X PRON
+από X ADP
+τις X DET
+πιο X ADV
+γνωστές X ADJ
+παραλίες X NOUN
+του X DET
+νησιού X NOUN
+είναι X AUX
+ο X DET
+Πλατύς X ADJ
+Γιαλός X PROPN
+, X PUNCT
+το X DET
+Βαθύ X ADJ
+, X PUNCT
+ο X DET
+Φάρος X PROPN
+, X PUNCT
+η X DET
+Χερρόνησος X PROPN
+και X CCONJ
+οι DET DET
+Καμάρες X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+Σίφνος X PROPN
+συνδέεται X VERB
+, X PUNCT
+ακτοπλοϊκώς X ADV
+, X PUNCT
+με X ADP
+τον X DET
+Πειραιά X PROPN
+με X ADP
+καθημερινά X ADJ
+δρομολόγια X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Επίσης X ADV
+, X PUNCT
+δρομολόγια X NOUN
+πραγματοποιούνται X VERB
+και X CCONJ
+προς ADP ADP
+τα X DET
+γειτονικά X ADJ
+νησιά X NOUN
+Κύθνος X PROPN
+, X PUNCT
+Σέριφος X PROPN
+, X PUNCT
+Κίμωλος X PROPN
+και PART CCONJ
+Μήλος X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αλόννησος X PROPN
+- X PUNCT
+Σ NUM ADP
+την X DET
+παλιά X ADJ
+Χώρα X NOUN
+και X CCONJ
+σ X ADP
+το X DET
+Πατητήρι X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+Αλόννησος X PROPN
+πήρε X VERB
+το X DET
+όνομά X NOUN
+της X PRON
+σ X ADP
+τα X DET
+πρώτα X ADJ
+χρόνια X NOUN
+της X DET
+απελευθέρωσης X NOUN
+της X DET
+Ελλάδας X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Κατά X ADP
+την X DET
+αρχαιότητα X NOUN
+ονομαζόταν X VERB
+Ίκος X PROPN
+, X PUNCT
+ενώ X SCONJ
+Αλόννησο X PROPN
+ονόμαζαν X VERB
+οι X DET
+αρχαίοι ADJ ADJ
+Έλληνες NOUN PROPN
+πιθανόν X ADV
+το X DET
+γειτονικό X ADJ
+προς X ADP
+τα X DET
+βόρεια X ADV
+νησί NOUN NOUN
+της X DET
+Κυρά-Παναγιάς X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+Χώρα X NOUN
+της X DET
+Αλοννήσου X PROPN
+είναι VERB AUX
+χτισμένη X VERB
+σ NUM ADP
+την X DET
+πλαγιά X NOUN
+του DET DET
+βουνού X NOUN
+πάνω X ADV
+από X ADP
+το X DET
+λιμάνι X NOUN
+του X DET
+νησιού X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+ντόπιοι X ADJ
+την X PRON
+αποκαλούν X VERB
+και X CCONJ
+Λιαρδόμια X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+1965 X NOUN
+, X PUNCT
+η X DET
+Χώρα X NOUN
+υπέστη X VERB
+ολοκληρωτική X ADJ
+καταστροφή X NOUN
+όταν PART SCONJ
+χτυπήθηκε X VERB
+από X ADP
+έναν X DET
+μεγάλο X ADJ
+σεισμό X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+κάτοικοι X NOUN
+έμεναν X VERB
+για X ADP
+δύο NUM NUM
+χρόνια X NOUN
+σε X ADP
+σκηνές X NOUN
+και X CCONJ
+σ X ADP
+τη X DET
+συνέχεια X NOUN
+οι X DET
+περισσότεροι NOUN ADJ
+εγκαταστάθηκαν X VERB
+σ X ADP
+το X DET
+Πατητήρι X PROPN
+, X PUNCT
+επίνειο NOUN NOUN
+του DET DET
+Χωριού X NOUN
+και X CCONJ
+σήμερα X ADV
+το X DET
+κύριο X ADJ
+λιμάνι X NOUN
+του X DET
+νησιού X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σ X ADP
+την X DET
+παλιά X ADJ
+Χώρα X NOUN
+, X PUNCT
+το X DET
+μεγαλύτερο X ADJ
+μέρος X NOUN
+του X DET
+πληθυσμού X NOUN
+είναι X AUX
+Γερμανοί NOUN PROPN
+και X CCONJ
+Άγγλοι X PROPN
+, X PUNCT
+οι DET DET
+οποίοι X PRON
+αγόρασαν X VERB
+τα X DET
+σπίτια X NOUN
+τους X PRON
+από ADP ADP
+τους X DET
+κατοίκους X NOUN
+της X DET
+Αλοννήσου X PROPN
+που PART PRON
+εγκατέλειψαν X VERB
+τη X DET
+Χώρα X NOUN
+μετά ADV ADP
+το X DET
+σεισμό X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+τελευταίοι X ADJ
+αναστήλωσαν X VERB
+και X CCONJ
+ανακαίνισαν X VERB
+τα X DET
+σπίτια X NOUN
+σύμφωνα X ADV
+με X ADP
+την X DET
+παράδοση X NOUN
+και X CCONJ
+πολλοί X ADJ
+από X ADP
+αυτούς X PRON
+μένουν VERB VERB
+μέχρι X ADP
+και X CCONJ
+σήμερα ADV ADV
+μόνιμα ADV ADV
+σ X ADP
+το X DET
+νησί X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σ NUM ADP
+την X DET
+είσοδο X NOUN
+της X DET
+παλιάς X ADJ
+Χώρας X NOUN
+βρίσκονται X VERB
+τα X DET
+παραδοσιακά X ADJ
+πέτρινα X ADJ
+αλώνια X NOUN
+για X ADP
+τα X DET
+σιτηρά X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+Παλιόπορτα X NOUN
+ή PART CCONJ
+Kαζάρμα X NOUN
+αποτελεί X VERB
+την X DET
+είσοδο X NOUN
+της X DET
+μεσαιωνκής X ADJ
+οχύρωσης X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αξίζει X VERB
+να X AUX
+επισκεφθείτε X VERB
+το X DET
+Διοικητήριο X NOUN
+, X PUNCT
+σημείο X NOUN
+αναφοράς X NOUN
+του X DET
+οικισμού X NOUN
+, X PUNCT
+κτισμένο X VERB
+κατά X ADP
+την X DET
+περίοδο X NOUN
+της X DET
+Bενετοκρατίας X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Επίσης X ADV
+, X PUNCT
+μην X PART
+παραλείψετε X VERB
+να X AUX
+βρεθείτε X VERB
+σ X ADP
+τις X DET
+εκκλησίες X NOUN
+του X DET
+Αγίου X ADJ
+Aθανασίου X PROPN
+και X CCONJ
+του X DET
+Αγίου X ADJ
+Γεωργίου X PROPN
+, X PUNCT
+αλλά X CCONJ
+και X CCONJ
+σ X ADP
+το X DET
+εκκλησάκι X NOUN
+του X DET
+Χριστού X PROPN
+με ADP ADP
+μεταβυζαντινές X ADJ
+τοιχογραφίες X NOUN
+, X PUNCT
+από X ADP
+τον X DET
+16ο X NUM
+- X PUNCT
+17ο X NUM
+αιώνα X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+θέα X NOUN
+από X ADP
+την X DET
+παλιά X ADJ
+Χώρα X NOUN
+είναι X AUX
+μοναδική X ADJ
+και X CCONJ
+το X DET
+χωριό X NOUN
+έχει X AUX
+κηρυχθεί X VERB
+διατηρητέο X ADJ
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+1978 X NOUN
+, X PUNCT
+η X DET
+πρωτεύουσα X NOUN
+του X DET
+νησιού NOUN NOUN
+μεταφέρθηκε X VERB
+σ NUM ADP
+το X DET
+Πατητήρι X PROPN
+, X PUNCT
+το X DET
+οποίο X PRON
+πήρε VERB VERB
+το X DET
+όνομά X NOUN
+του X PRON
+από ADP ADP
+τα X DET
+πατητήρια X NOUN
+των DET DET
+σταφυλιών NOUN NOUN
+που X PRON
+υπήρχαν X VERB
+εδώ X ADV
+, X PUNCT
+την X DET
+εποχή NOUN NOUN
+που X PRON
+το X DET
+νησί X NOUN
+παρήγαγε X VERB
+και X CCONJ
+εξήγαγε X VERB
+ονομαστό X ADJ
+κόκκινο ADJ ADJ
+κρασί NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σήμερα X ADV
+, X PUNCT
+το X DET
+Πατητήρι X PROPN
+αποτελεί X VERB
+το X DET
+εμπορικό X ADJ
+και PART CCONJ
+διοικητικό NOUN ADJ
+κέντρο X NOUN
+της X DET
+Αλοννήσου X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Λίγο X ADV
+βορειότερα X ADV
+από X ADP
+το X DET
+λιμάνι X NOUN
+συναντάμε X VERB
+τους X DET
+οικισμούς X NOUN
+Ρουσούμ X X
+- X PUNCT
+Γιαλό X PROPN
+και X CCONJ
+Βότση X PROPN
+, X PUNCT
+οι X DET
+οποίοι X PRON
+είναι X AUX
+χτισμένοι X VERB
+σε PRON ADP
+δύο X NUM
+πανέμορφους X ADJ
+όρμους X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Από X ADP
+το X DET
+Πατητήρι X PROPN
+, X PUNCT
+καΐκια X NOUN
+πραγματοποιούν X VERB
+εκδρομές NOUN NOUN
+και X CCONJ
+θαλάσσιες X ADJ
+περιηγήσεις X NOUN
+σ X ADP
+τις X DET
+γειτονικές X ADJ
+παραλίες X NOUN
+καθ' X ADP
+όλη X ADJ
+τη X DET
+διάρκεια X NOUN
+της X DET
+ημέρας X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Από X ADP
+τον X DET
+Άγιο ADJ ADJ
+Κωνσταντίνο X PROPN
+και PART CCONJ
+το X DET
+Βόλο X PROPN
+υπάρχει X VERB
+καθημερινή X ADJ
+σύνδεση X NOUN
+με X ADP
+την X DET
+Αλόννησο X PROPN
+και X CCONJ
+τα X DET
+υπόλοιπα X ADJ
+νησιά X NOUN
+των X DET
+Σποράδων X PROPN
+, X PUNCT
+με X ADP
+οχηματαγωγό X ADJ
+πλοίο X NOUN
+ή X CCONJ
+ιπτάμενο X ADJ
+δελφίνι X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+καλοκαίρι X NOUN
+τα X DET
+δρομολόγια X NOUN
+είναι X AUX
+τακτικά X ADJ
+, X PUNCT
+ενώ X SCONJ
+πραγματοποιούνται X VERB
+και X CCONJ
+συνδέσεις X NOUN
+με X ADP
+το X DET
+λιμάνι X NOUN
+της X DET
+Θεσσαλονίκης X PROPN
+, X PUNCT
+αλλά X CCONJ
+και X CCONJ
+με X ADP
+τη X DET
+Σκύρο X PROPN
+, X PUNCT
+την X DET
+Κύμη X PROPN
+, X PUNCT
+την X DET
+Αιδηψό X PROPN
+, X PUNCT
+το X DET
+Πευκί X PROPN
+, X PUNCT
+το X DET
+Μαρμαρά X PROPN
+, X PUNCT
+τα X DET
+Μουδανιά X PROPN
+και X CCONJ
+το X DET
+Πόρτο X X
+Καρά X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σε X ADP
+προσωρινό X ADJ
+μορατόριουμ X X
+συμφώνησε X VERB
+η X DET
+Βόρεια X ADJ
+Κορέα X PROPN
+
+-DOCSTART- -X- -X- O
+
+2012-03-01 X NOUN
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+Βόρεια X ADJ
+Κορέα X PROPN
+συμφώνησε X VERB
+σε X ADP
+προσωρινό X ADJ
+μορατόριουμ X X
+εκτόξευσης X NOUN
+πυραύλων X NOUN
+μακρού X ADJ
+βεληνεκούς X NOUN
+, X PUNCT
+πυρηνικών X ADJ
+δοκιμών X NOUN
+και PART CCONJ
+εμπλουτισμού X NOUN
+δραστηριοτήτων X NOUN
+ουρανίου X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+εξέλιξη X NOUN
+αυτή X PRON
+ανακοινώθηκε X VERB
+ταυτόχρονα X ADV
+σ X ADP
+τις X DET
+ΗΠΑ PROPN NOUN
+και X CCONJ
+τη X DET
+Βόρεια X ADJ
+Κορέα X PROPN
+, X PUNCT
+μετά ADV ADV
+από X ADP
+συνομιλίες X NOUN
+σ X ADP
+το X DET
+Πεκίνο X PROPN
+και X CCONJ
+προέκυψε X VERB
+δύο X NUM
+μήνες X NOUN
+μετά ADV ADP
+το X DET
+θάνατο NOUN NOUN
+του X DET
+ηγέτη X NOUN
+της X DET
+Βόρειας X ADJ
+Κορέας X PROPN
+, X PUNCT
+Κιμ X X
+Γιόνγκ X X
+Ιλ X X
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σ X ADP
+την X DET
+Ουάσιγκτον X X
+, X PUNCT
+ο X DET
+Λευκός X ADJ
+Οίκος X NOUN
+εξέφρασε X VERB
+ικανοποίηση X NOUN
+για X ADP
+την X DET
+απόφαση X NOUN
+της X DET
+Πιονγκγιάνγκ X X
+, X PUNCT
+χαρακτηρίζοντας X VERB
+την X PRON
+« X PUNCT
+θετικό X ADJ
+πρώτο X NUM
+βήμα X NOUN
+» X PUNCT
+, X PUNCT
+αλλά X CCONJ
+τόνισε X VERB
+ότι X SCONJ
+« X PUNCT
+οι DET DET
+ΗΠΑ X NOUN
+περιμένουν X VERB
+τώρα X ADV
+να X AUX
+δουν VERB VERB
+όχι X ADV
+μόνο ADV ADV
+λόγια NOUN NOUN
+αλλά X CCONJ
+και X CCONJ
+έργα X NOUN
+απ' X ADP
+τη X DET
+Βόρεια X ADJ
+Κορέα X PROPN
+» X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Από X ADP
+την X DET
+πλευρά X NOUN
+της X PRON
+, X PUNCT
+η X DET
+Υπουργός X NOUN
+Εξωτερικών X NOUN
+των DET DET
+ΗΠΑ X NOUN
+, X PUNCT
+Χίλαρι X X
+Κλίντον X X
+, X PUNCT
+δήλωσε X VERB
+σε X ADP
+αρμόδια X ADJ
+επιτροπή X NOUN
+του X DET
+Κογκρέσου X NOUN
+ότι X SCONJ
+« X PUNCT
+παρά X ADP
+το X DET
+γεγονός NOUN NOUN
+ότι X SCONJ
+υπάρχουν X VERB
+ακόμη X ADV
+σοβαρότατες X ADJ
+ανησυχίες X NOUN
+για ADP ADP
+την X DET
+Βόρεια X ADJ
+Κορέα X PROPN
+, X PUNCT
+η X DET
+ανακοίνωση X NOUN
+αποτελεί X VERB
+πρόοδο NOUN NOUN
+» X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+Αμερικανίδα X PROPN
+Υπουργός X NOUN
+Εξωτερικών X NOUN
+επεσήμανε X VERB
+επίσης ADV ADV
+ότι X SCONJ
+« X PUNCT
+ομάδες NOUN NOUN
+αρωγής X NOUN
+σε X ADP
+θέματα X NOUN
+σίτισης X NOUN
+από X ADP
+τις X DET
+ΗΠΑ PROPN NOUN
+και X CCONJ
+τη X DET
+Βόρεια X ADJ
+Κορέα X PROPN
+πρόκειται X VERB
+να X AUX
+συναντηθούν X VERB
+σ X ADP
+το X DET
+άμεσο X ADJ
+μέλλον X NOUN
+για X ADP
+να X AUX
+ολοκληρώσουν X VERB
+τις X DET
+λεπτομέρειες NOUN NOUN
+σχεδίου X NOUN
+για ADP ADP
+την X DET
+αποστολή X NOUN
+240.000 X NUM
+τόνων X NOUN
+βοήθειας X NOUN
+σε X ADP
+τρόφιμα NOUN NOUN
+σ NUM ADP
+την X DET
+Πιονγκγιάνγκ X X
+» X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+Χίλαρι X X
+Κλίντον X X
+ξεκαθάρισε X VERB
+πάντως X ADV
+ότι X SCONJ
+« X PUNCT
+η X DET
+συμφωνία X NOUN
+αναφέρεται X VERB
+σε X ADP
+εντατική X ADJ
+παρακολούθηση X NOUN
+για X ADP
+να X AUX
+διασφαλιστεί X VERB
+ότι X SCONJ
+η X DET
+βοήθεια X NOUN
+θα X AUX
+δοθεί X VERB
+σ' X ADP
+αυτούς X PRON
+που X PRON
+την X PRON
+έχουν X VERB
+ανάγκη X NOUN
+» X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Τρίκαλα X PROPN
+- X PUNCT
+Γιάννενα X PROPN
+1,5 X NUM
+ώρα X NOUN
+γρηγορότερα X ADV
+! X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Δύο X NUM
+νέα ADJ ADJ
+τμήματα X NOUN
+, X PUNCT
+μήκους X NOUN
+17,5 X NUM
+χιλιομέτρων X NOUN
+, X PUNCT
+της X DET
+Εγνατίας X NOUN
+Οδού X NOUN
+παραδόθηκαν X VERB
+χθες ADV ADV
+σ X ADP
+την X DET
+κυκλοφορία NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πλέον X ADV
+αποφεύγεται X VERB
+η X DET
+Κατάρα X NOUN
+, X PUNCT
+ο X DET
+επικίνδυνος X ADJ
+δρόμος X NOUN
+μήκους X NOUN
+90 X NUM
+χλμ. X NOUN
+, X PUNCT
+ενώ X SCONJ
+συντομεύεται X VERB
+η X DET
+διαδρομή X NOUN
+από X ADP
+τα X DET
+Τρίκαλα X PROPN
+μέχρι X ADP
+τα DET DET
+Γιάννενα X PROPN
+κατά X ADP
+1,5 X NUM
+ώρα X NOUN
+περίπου X ADV
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο X DET
+υπουργός X NOUN
+ΠΕΧΩΔΕ X NOUN
+Γιώργος X PROPN
+Σουφλιάς X PROPN
+, X PUNCT
+συνοδευόμενος X VERB
+από X ADP
+τον X DET
+υπουργό NOUN NOUN
+Αγροτικής X ADJ
+Ανάπτυξης X NOUN
+Σωτήρη X PROPN
+Χατζηγάκη X PROPN
+, X PUNCT
+επισκέφθηκε X VERB
+την X DET
+Ήπειρο X PROPN
+και X CCONJ
+παρέδωσε X VERB
+δύο X NUM
+σημαντικά ADJ ADJ
+τμήματα X NOUN
+της X DET
+Εγνατίας X PROPN
+από ADP ADP
+σήραγγα NOUN NOUN
+Δρίσκου X PROPN
+μέχρι X ADP
+τον X DET
+κόμβο X NOUN
+του X DET
+Αράχθου X PROPN
+μήκους X NOUN
+2,5 X NUM
+χλμ. X NOUN
+, X PUNCT
+που X PRON
+περιλαμβάνει X VERB
+και X CCONJ
+τη X DET
+γέφυρα X NOUN
+Αράχθου X PROPN
+και X CCONJ
+από ADP ADP
+Κόμβο X NOUN
+Μετσόβου X PROPN
+μέχρι ADP ADP
+Κόμβο X NOUN
+Παναγιάς X PROPN
+- X PUNCT
+Έξοδος PROPN NOUN
+προς ADP ADP
+Θεσσαλία X PROPN
+μήκους X NOUN
+15 X NUM
+χλμ. X NOUN
+
+-DOCSTART- -X- -X- O
+
+Πλέον X ADV
+απομένουν X VERB
+31 X NUM
+χιλιόμετρα X NOUN
+προς X ADP
+Γρεβενά PROPN PROPN
+για ADP ADP
+να X AUX
+ολοκληρωθεί X VERB
+ολόκληρος X ADJ
+ο X DET
+άξονας X NOUN
+της X DET
+Εγνατίας X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Από X ADP
+αυτά X PRON
+τα X DET
+μισά ADJ ADJ
+είναι X AUX
+έτοιμα X ADJ
+και X CCONJ
+τα X DET
+υπόλοιπα X ADJ
+θα X AUX
+ετοιμασθούν X VERB
+τέλος X NOUN
+Απριλίου X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+« X PUNCT
+Η X DET
+δέσμευσή X NOUN
+μας X PRON
+από X ADP
+το X DET
+2004 X NOUN
+ήταν X AUX
+ότι X SCONJ
+ο X DET
+κύριος X ADJ
+άξονας X NOUN
+της X DET
+Εγνατίας X PROPN
+να X AUX
+ολοκληρωθεί X VERB
+σ X ADP
+το X DET
+τέλος X NOUN
+του X DET
+2008 X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+απόκλιση X NOUN
+των X DET
+τεσσάρων X NUM
+μηνών X NOUN
+οφείλεται X VERB
+σ X ADP
+τη X DET
+φοβερή X ADJ
+κακοκαιρία X NOUN
+που PART PRON
+έπληξε X VERB
+την X DET
+περιοχή X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+Εγνατία X PROPN
+Οδός X NOUN
+πλέον X ADV
+ολοκληρώνεται X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Από X ADP
+τον X DET
+Μάιο X PROPN
+θα X AUX
+μπορεί X VERB
+ο X DET
+καθένας X PRON
+να X AUX
+διατρέχει X VERB
+ολόκληρη X ADJ
+την X DET
+ΕΓΝΑΤΙΑ X PROPN
+από X ADP
+την X DET
+Ηγουμενίτσα PROPN PROPN
+μέχρι X ADP
+τους X DET
+Κήπους X NOUN
+του X DET
+Έβρου X PROPN
+» X PUNCT
+δήλωσε X VERB
+ο DET DET
+κ. X NOUN
+Σουφλιάς X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο X DET
+υπουργός X NOUN
+επισκέφθηκε X VERB
+το X DET
+μεγαλύτερο X ADJ
+μέτωπο NOUN NOUN
+έργων X NOUN
+σ NUM ADP
+την X DET
+Ελλάδα X PROPN
+και X CCONJ
+ένα X NUM
+από X ADP
+τα X DET
+μεγαλύτερα X ADJ
+της X DET
+Ευρώπης X PROPN
+, X PUNCT
+συνολικού X ADJ
+μήκους NOUN NOUN
+96 X NUM
+χλμ. X NOUN
+από X ADP
+τα X DET
+Γιάννενα X PROPN
+μέχρι X ADP
+τα DET DET
+Γρεβενά PROPN PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ουσιαστικά X ADV
+, X PUNCT
+με X ADP
+αυτά X PRON
+τα DET DET
+δύο X NUM
+τμήματα X NOUN
+, X PUNCT
+η X DET
+Εγνατία X PROPN
+Οδός X NOUN
+διασχίζει X VERB
+κάθετα X ADV
+την X DET
+οροσειρά X NOUN
+της X DET
+Πίνδου X PROPN
+, X PUNCT
+ενώνοντας X VERB
+την X DET
+Ανατολική X ADJ
+με X ADP
+τη X DET
+Δυτική X ADJ
+Ελλάδα X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Είναι X AUX
+ένα X DET
+πλέγμα X NOUN
+έργων X NOUN
+το X DET
+οποίο X PRON
+μεταξύ X ADP
+άλλων X PRON
+περιλαμβάνει X VERB
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+- X PUNCT
+24 X NUM
+σήραγγες X NOUN
+διπλού X ADJ
+κλάδου X NOUN
+με X ADP
+συνολικό X ADJ
+μήκος X NOUN
+25,6 X NUM
+χλμ. X NOUN
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+μεγαλύτερη X ADJ
+του X DET
+Δρίσκου X PROPN
+έχει X VERB
+μήκος X NOUN
+4.563 X NUM
+μέτρα X NOUN
+και X CCONJ
+ακολουθεί X VERB
+η X DET
+σήραγγα X NOUN
+Μετσόβου X PROPN
+μήκους NOUN NOUN
+3.570 X NUM
+μέτρων X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Άγκυρα X PROPN
+: X PUNCT
+Έκρηξη X NOUN
+έξω X ADV
+από ADP ADP
+την X DET
+αμερικανική X ADJ
+πρεσβεία X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σήμερα X ADV
+, X PUNCT
+σ X ADP
+την X DET
+Άγκυρα X PROPN
+, X PUNCT
+σημειώθηκε X VERB
+έκρηξη X NOUN
+έξω X ADV
+από X ADP
+την X DET
+αμερικανική X ADJ
+πρεσβεία NOUN NOUN
+, X PUNCT
+με ADP ADP
+αποτέλεσμα X NOUN
+ένας X DET
+καμικάζι X NOUN
+( X PUNCT
+δράστης NOUN NOUN
+) X PUNCT
+και X CCONJ
+ένας X DET
+φρουρός X NOUN
+ασφαλείας X NOUN
+να X AUX
+χάσουν X VERB
+τη X DET
+ζωή NOUN NOUN
+τους X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+" X PUNCT
+Η NUM DET
+αιτία X NOUN
+της X DET
+έκρηξης X NOUN
+παραμένει X VERB
+άγνωστη X ADJ
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αποτέλεσμα X NOUN
+της X DET
+έκρηξης X NOUN
+αποτελεί X VERB
+ο DET DET
+θάνατος X NOUN
+ενός X DET
+καμικάζι X NOUN
+και PART CCONJ
+ενός X DET
+φρουρού X NOUN
+ασφαλείας X NOUN
+, X PUNCT
+καθώς X ADV
+επίσης X ADV
+και X CCONJ
+ο X DET
+τραυματισμός X NOUN
+μιας X DET
+γυναίκας X NOUN
+, X PUNCT
+η X DET
+οποία X PRON
+βρισκόταν X VERB
+εκεί X ADV
+για X ADP
+να X AUX
+λάβει X VERB
+θεώρηση X NOUN
+εισόδου NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Παράλληλα X ADV
+, X PUNCT
+το X DET
+φυλάκιο X NOUN
+έξω X ADV
+από X ADP
+την X DET
+πρεσβεία X NOUN
+, X PUNCT
+καθώς X ADV
+επίσης ADV ADV
+και X CCONJ
+το X DET
+κτήριο X NOUN
+της X DET
+πρέσβειας X NOUN
+, X PUNCT
+έχουν X AUX
+δεχτεί X VERB
+σοβαρές ADJ ADJ
+ζημιές X NOUN
+" X PUNCT
+, X PUNCT
+αναφέρει X VERB
+ο X DET
+Αλααντίν X PROPN
+Γιουκσέλ X PROPN
+, X PUNCT
+Κυβερνήτης X NOUN
+της X DET
+Άγκυρας X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+αντιπροσώποι X NOUN
+των X DET
+Αμερικανών X PROPN
+και X CCONJ
+των X DET
+Τούρκων X PROPN
+δηλώνουν X VERB
+πως X SCONJ
+η X DET
+έκρηξη X NOUN
+δεν X PART
+θα X AUX
+χαλάσει X VERB
+τις X DET
+σχέσεις X NOUN
+των X DET
+δύο NUM NUM
+χωρών X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αρκετοί X PRON
+αναλυτές NOUN NOUN
+θεωρούν X VERB
+πως X SCONJ
+" X PUNCT
+η X DET
+επίθεση X NOUN
+οφείλεται X VERB
+σ X ADP
+τη X DET
+βοήθεια X NOUN
+των X DET
+Δυτικών X ADJ
+, X PUNCT
+οι X DET
+οποίοι PRON PRON
+έστειλαν X VERB
+σ X ADP
+τα X DET
+σύνορα X NOUN
+Τουρκίας X PROPN
+και PART CCONJ
+Συρίας X PROPN
+έξι X NUM
+συστοιχίες X NOUN
+πυραύλων X NOUN
+" X PUNCT
+, X PUNCT
+ενώ X SCONJ
+άλλοι X PRON
+δηλώνουν X VERB
+πως X SCONJ
+" X PUNCT
+η X DET
+επίθεση NOUN NOUN
+μπορεί X VERB
+να X AUX
+έχει VERB VERB
+ως ADV ADV
+αιτία NOUN NOUN
+την X DET
+κατάσταση NOUN NOUN
+που X PRON
+επικρατεί VERB VERB
+σ NUM ADP
+το X DET
+τουρκοκουρδικό X ADJ
+μέτωπο NOUN NOUN
+" X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+Ιαπωνία X PROPN
+μπορεί X VERB
+να X AUX
+καταστρέψει X VERB
+τον X DET
+πύραυλο X NOUN
+της X DET
+Βορείου X ADJ
+Κορέας X PROPN
+
+-DOCSTART- -X- -X- O
+
+2012-03-20 X NOUN
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+Υπουργείο X NOUN
+Αμύνης X NOUN
+της X DET
+Ιαπωνίας X PROPN
+δήλωσε X VERB
+ότι X SCONJ
+είναι X AUX
+έτοιμο X ADJ
+να X AUX
+αναχαιτίσει X VERB
+πύραυλο X NOUN
+- X PUNCT
+φορέα X NOUN
+δορυφόρου X NOUN
+της X DET
+Βορείου X ADJ
+Κορέας X PROPN
+, X PUNCT
+ο X DET
+οποίος PRON PRON
+αναμένεται X VERB
+να X AUX
+εκτοξευτεί X VERB
+σ X ADP
+τα X DET
+μέσα X NOUN
+του DET DET
+επόμενου X ADJ
+μήνα X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+« X PUNCT
+Μέχρι X ADP
+τώρα X ADV
+εξετάζουμε X VERB
+πολλές X ADJ
+επιλογές X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+αναχαίτιση NOUN NOUN
+του X DET
+- X PUNCT
+πυραύλου X NOUN
+φορέα NOUN NOUN
+δορυφόρου X NOUN
+είναι X AUX
+μια X NUM
+απ' X ADP
+αυτές X PRON
+τις DET DET
+επιλογές NOUN NOUN
+» X PUNCT
+, X PUNCT
+δήλωσε X VERB
+ο DET DET
+Υπουργός X NOUN
+Αμύνης X NOUN
+της X DET
+Ιαπωνίας X PROPN
+, X PUNCT
+Ναόκι X X
+Τανάκα X X
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+Αρχές X NOUN
+της X DET
+Ιαπωνίας X PROPN
+δηλώνουν X VERB
+ότι PART SCONJ
+« X PUNCT
+η X DET
+εκτόξευση X NOUN
+πυραύλου X NOUN
+από X ADP
+τη X DET
+Βόρεια X ADJ
+Κορέα X PROPN
+θα X AUX
+παραβιάσει X VERB
+τη X DET
+συμφωνία X NOUN
+με ADP ADP
+τον X DET
+ΟΗΕ X NOUN
+» X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Την X DET
+έντονη X ADJ
+αντίδραση X NOUN
+τους X PRON
+για ADP ADP
+την X DET
+εκτόξευση X NOUN
+πυραύλου X NOUN
+από X ADP
+τη X DET
+Βορεία X PROPN
+Κορέα X PROPN
+είχαν X AUX
+εκφράσει X VERB
+οι X DET
+ΗΠΑ X NOUN
+, X PUNCT
+οι X DET
+οποίες PRON PRON
+δήλωσαν X VERB
+ότι X SCONJ
+« X PUNCT
+η X DET
+Βόρεια X ADJ
+Κορέα X PROPN
+θέλει X VERB
+να X AUX
+δοκιμάσει X VERB
+βαλλιστικό X ADJ
+πύραυλο X NOUN
+» X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Την X DET
+αντίδραση X NOUN
+της X PRON
+εξέφρασε X VERB
+και X CCONJ
+η X DET
+Ρωσία PROPN PROPN
+, X PUNCT
+η X DET
+οποία X PRON
+κάλεσε X VERB
+τους X DET
+Βορειοκορεάτες X PROPN
+να X AUX
+« X PUNCT
+μην X PART
+κάνουν X VERB
+βήματα X NOUN
+που X PRON
+θα X AUX
+φέρουν X VERB
+συρράξεις NOUN NOUN
+σ NUM ADP
+τη X DET
+χερσόνησο X NOUN
+» X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+. X PUNCT
+( X PUNCT
+ES X X
+) X PUNCT
+Κύριε X NOUN
+Πρόεδρε X NOUN
+, X PUNCT
+ως X ADV
+εκπρόσωπος X NOUN
+της X DET
+Προεδρίας X NOUN
+του X DET
+Συμβουλίου X NOUN
+της X DET
+Ένωσης X NOUN
+, X PUNCT
+έχω X VERB
+την X DET
+αρμοδιότητα NOUN NOUN
+να X AUX
+παρέμβω X VERB
+εν ADP ADP
+συντομία X NOUN
+σχετικά X ADV
+με X ADP
+αυτά X PRON
+τα X DET
+θέματα NOUN NOUN
+Δικαιοσύνης X NOUN
+και PART CCONJ
+Εσωτερικών X ADJ
+Υποθέσεων X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πιστεύω X VERB
+ότι X SCONJ
+είναι X AUX
+γνωστή X ADJ
+η X DET
+θέση X NOUN
+της X DET
+χώρας X NOUN
+μου X PRON
+ως X ADV
+μεγάλου X ADJ
+υποστηρικτή X NOUN
+του DET DET
+χώρου NOUN NOUN
+ασφάλειας NOUN NOUN
+, X PUNCT
+δικαιοσύνης X NOUN
+και X CCONJ
+ελευθερίας NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+ισπανική X ADJ
+Προεδρία X NOUN
+, X PUNCT
+από X ADP
+την X DET
+έναρξή X NOUN
+της X PRON
+, X PUNCT
+επανέλαβε X VERB
+τη X DET
+δέσμευσή X NOUN
+της X PRON
+να X AUX
+συνεργαστεί X VERB
+στενά X ADV
+με X ADP
+το X DET
+Ευρωπαϊκό X ADJ
+Κοινοβούλιο X NOUN
+, X PUNCT
+όπως X ADV
+επιβεβαίωσαν X VERB
+σ NUM ADP
+τις X DET
+εμφανίσεις X NOUN
+τους X PRON
+ενώπιον X ADP
+του DET DET
+Κοινοβουλίου X NOUN
+ο X DET
+Πρόεδρος X NOUN
+του X DET
+Συμβουλίου X NOUN
+, X PUNCT
+ο DET DET
+Πρόεδρος X NOUN
+της X DET
+ισπανικής X ADJ
+κυβέρνησης X NOUN
+, X PUNCT
+ο X DET
+πρώτος X NUM
+Αντιπρόεδρος X NOUN
+της X DET
+κυβέρνησης X NOUN
+και PART CCONJ
+Υπουργός X NOUN
+Εσωτερικών X NOUN
+και PART CCONJ
+ο X DET
+Υπουργός X NOUN
+Δικαιοσύνης X NOUN
+σ NUM ADP
+την X DET
+Επιτροπή X NOUN
+Ελευθεριών X NOUN
+και X CCONJ
+Δικαιωμάτων X NOUN
+των DET DET
+Πολιτών X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+παρουσία X NOUN
+μου X PRON
+σήμερα X ADV
+εδώ X ADV
+εντάσσεται X VERB
+σ X ADP
+το X DET
+πλαίσιο X NOUN
+της X DET
+βούλησης X NOUN
+να X AUX
+διατηρηθεί X VERB
+μια X DET
+ανοιχτή X ADJ
+σχέση X NOUN
+μεταξύ X ADP
+των X DET
+δύο X NUM
+οργάνων X NOUN
+και PART CCONJ
+να X AUX
+βελτιωθεί VERB VERB
+η X DET
+θεσμική X ADJ
+συνεργασία X NOUN
+με X ADP
+το X DET
+Κοινοβούλιο X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+Ευρωπαϊκό X ADJ
+Κοινοβούλιο X NOUN
+, X PUNCT
+με X ADP
+την X DET
+έγκριση NOUN NOUN
+της X DET
+πρώτης ADJ NUM
+έκθεσης X NOUN
+Watson X X
+, X PUNCT
+ο X DET
+οποίος X PRON
+ήταν VERB AUX
+πρωτοπόρος ADJ ADJ
+σ' X ADP
+αυτά X PRON
+τα X DET
+θέματα X NOUN
+σχετικά X ADV
+με ADP ADP
+την X DET
+τρομοκρατία NOUN NOUN
+, X PUNCT
+και X CCONJ
+με ADP ADP
+το X DET
+σημαντικό ADJ ADJ
+ψήφισμα X NOUN
+που PART PRON
+εγκρίθηκε X VERB
+σ X ADP
+τις X DET
+5_Σεπτεμβρίου X NOUN
+, X PUNCT
+τέθηκε X VERB
+σ NUM ADP
+την X DET
+εμπροσθοφυλακή X NOUN
+της X DET
+διεθνούς X ADJ
+κοινότητας X NOUN
+σ X ADP
+την X DET
+καταπολέμηση X NOUN
+της X DET
+τρομοκρατίας NOUN NOUN
+, X PUNCT
+και X CCONJ
+έχει VERB VERB
+μεγάλη X ADJ
+σημασία NOUN NOUN
+ακριβώς ADV ADV
+το X DET
+ότι PART SCONJ
+αυτό X PRON
+συνέβη VERB VERB
+σ X ADP
+τις DET DET
+5_Σεπτεμβρίου X NOUN
+, X PUNCT
+πριν ADV ADV
+από ADP ADP
+τις DET DET
+11 X NUM
+, X PUNCT
+την X DET
+ημερομηνία NOUN NOUN
+κατά ADP ADP
+την X DET
+οποία PRON PRON
+φαίνεται VERB VERB
+ότι PART SCONJ
+η X DET
+διεθνής ADJ ADJ
+κοινότητα X NOUN
+ανακάλυψε X VERB
+την X DET
+μάστιγα NOUN NOUN
+που PART PRON
+μας X PRON
+πλήττει X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πιστεύω X VERB
+ότι PART SCONJ
+η X DET
+έγκριση X NOUN
+αυτής X PRON
+της X DET
+έκθεσης X NOUN
+αποκάλυψε X VERB
+τη X DET
+μεγάλη X ADJ
+ευαισθησία X NOUN
+του X DET
+Ευρωπαϊκού X ADJ
+Κοινοβουλίου X NOUN
+για X ADP
+την X DET
+αντιμετώπιση X NOUN
+των X DET
+απειλών X NOUN
+του X DET
+καιρού X NOUN
+μας X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+περιεχόμενο X NOUN
+αυτής X PRON
+της X DET
+έκθεσης NOUN NOUN
+Watson X X
+, X PUNCT
+την X DET
+οποία X PRON
+η X DET
+Προεδρία X NOUN
+συμμερίζεται X VERB
+, X PUNCT
+δημιούργησε X VERB
+το X DET
+απαραίτητο X ADJ
+πολιτικό X ADJ
+περιβάλλον X NOUN
+για X ADP
+να X AUX
+μπορέσει X VERB
+η X DET
+Ευρωπαϊκή X ADJ
+Επιτροπή X NOUN
+, X PUNCT
+η X DET
+οποία X PRON
+εργαζόταν X VERB
+πολύ X ADJ
+καιρό NOUN NOUN
+ήδη ADV ADV
+για X ADP
+την X DET
+προετοιμασία NOUN NOUN
+των X DET
+αποφάσεων-πλαίσιο X NOUN
+σχετικά X ADV
+με ADP ADP
+την X DET
+καταπολέμηση X NOUN
+της X DET
+τρομοκρατίας NOUN NOUN
+και X CCONJ
+το X DET
+ευρωπαϊκό X ADJ
+ένταλμα NOUN NOUN
+σύλληψης X NOUN
+, X PUNCT
+να X AUX
+παρουσιάσει X VERB
+επειγόντως X ADV
+, X PUNCT
+μετά X ADP
+τις DET DET
+11_Σεπτεμβρίου X NOUN
+, X PUNCT
+και PART CCONJ
+τα DET DET
+δύο NUM NUM
+νομοθετικά X ADJ
+σχέδια NOUN NOUN
+, X PUNCT
+τα DET DET
+οποία PRON PRON
+μπόρεσαν X VERB
+να X AUX
+αποτελέσουν X VERB
+αντικείμενο NOUN NOUN
+συμβιβασμού X NOUN
+σ NUM ADP
+το X DET
+Συμβούλιο X NOUN
+Δικαιοσύνης X NOUN
+και PART CCONJ
+Εσωτερικών X ADJ
+Υποθέσεων X NOUN
+σ NUM ADP
+τις DET DET
+6 X NUM
+και PART CCONJ
+7_Δεκεμβρίου X NOUN
+και PART CCONJ
+τα DET DET
+οποία PRON PRON
+επικυρώθηκαν X VERB
+πολιτικά ADJ ADV
+σ NUM ADP
+το X DET
+Ευρωπαϊκό X ADJ
+Συμβούλιο X NOUN
+του DET DET
+Λάκεν X X
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+Ευρωπαϊκό X ADJ
+Κοινοβούλιο X NOUN
+μόλις X ADV
+παρουσίασε X VERB
+την X DET
+έκθεση NOUN NOUN
+σχετικά X ADV
+με X ADP
+τις DET DET
+δύο X NUM
+αυτές X PRON
+αποφάσεις X NOUN
+με X ADP
+εξαιρετικά X ADV
+υψηλό X ADJ
+επίπεδο NOUN NOUN
+τεχνικής X ADJ
+ικανότητας X NOUN
+και X CCONJ
+πολιτικής NOUN ADJ
+ευαισθησίας X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οφείλω X VERB
+να X AUX
+πω X VERB
+ότι X SCONJ
+η X DET
+ταχύτητα X NOUN
+με ADP ADP
+την X DET
+οποία X PRON
+χρειάστηκε X VERB
+να X AUX
+συζητήσει X VERB
+αυτά X PRON
+τα X DET
+θέματα NOUN NOUN
+το X DET
+Συμβούλιο X NOUN
+, X PUNCT
+για X ADP
+να X AUX
+αντεπεξέλθει X VERB
+σ X ADP
+τις X DET
+προσδοκίες X NOUN
+της X DET
+κοινωνίας X NOUN
+μας X PRON
+μετά X ADP
+τα X DET
+γεγονότα X NOUN
+της X DET
+11ης_Σεπτεμβρίου X NOUN
+δεν X PART
+πρέπει X AUX
+να X AUX
+μας X PRON
+κάνει VERB VERB
+να X AUX
+ξεχνάμε X VERB
+τη X DET
+σημασία X NOUN
+που PART PRON
+έχει VERB VERB
+σήμερα X ADV
+αυτή X PRON
+η X DET
+συζήτηση X NOUN
+σ X ADP
+το X DET
+Ευρωπαϊκό X ADJ
+Κοινοβούλιο X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Προφανώς X ADV
+, X PUNCT
+γνωρίζουμε X VERB
+τη X DET
+λύπη X NOUN
+του X DET
+Ευρωπαϊκού X ADJ
+Κοινοβουλίου X NOUN
+που PART PRON
+δεν X PART
+είχε X VERB
+αρκετό X PRON
+χρόνο X NOUN
+σ X ADP
+τη X DET
+διάθεσή X NOUN
+του X PRON
+για X ADP
+να X AUX
+συζητήσει X VERB
+αυτά X PRON
+τα X DET
+θέματα X NOUN
+και X CCONJ
+θα X AUX
+ήθελα VERB VERB
+να X AUX
+διευκρινίσω X VERB
+σχετικά ADJ ADV
+ότι PART SCONJ
+οι X DET
+αποφάσεις X NOUN
+πλαίσιο X NOUN
+ανταποκρίνονται X VERB
+σ NUM ADP
+το X DET
+αίτημα X NOUN
+του DET DET
+Ευρωπαϊκού X ADJ
+Συμβουλίου X NOUN
+προς ADP ADP
+το X DET
+Συμβούλιο X NOUN
+που X PRON
+διατυπώθηκε X VERB
+σ X ADP
+το X DET
+ψήφισμα X NOUN
+της X DET
+5ης_Νοεμβρίου_2001 X NOUN
+, X PUNCT
+να X AUX
+υιοθετήσει VERB VERB
+μέτρα X NOUN
+προς ADP ADP
+αυτή X PRON
+την X DET
+κατεύθυνση X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Όπως X ADV
+ήδη X ADV
+είπα X VERB
+, X PUNCT
+η X DET
+Ευρωπαϊκή X ADJ
+Επιτροπή X NOUN
+μελετούσε X VERB
+εδώ ADV ADV
+και X CCONJ
+καιρό NOUN NOUN
+τα X DET
+σχέδια X NOUN
+και X CCONJ
+μπόρεσε X VERB
+να X AUX
+τα X PRON
+παρουσιάσει X VERB
+αμέσως X ADV
+μετά X ADP
+τις X DET
+τρομοκρατικές X ADJ
+επιθέσεις X NOUN
+της X DET
+11ης_Σεπτεμβρίου X NOUN
+, X PUNCT
+χάρη X ADV
+σ X ADP
+το X DET
+έργο X NOUN
+που X PRON
+είχε VERB AUX
+επιτελέσει X VERB
+προηγουμένως ADV ADV
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Όσον X ADV
+αφορά X VERB
+τη X DET
+λίστα X NOUN
+των DET DET
+τρομοκρατικών X ADJ
+οργανώσεων X NOUN
+, X PUNCT
+η X DET
+ισπανική X ADJ
+Προεδρία X NOUN
+γνωρίζει X VERB
+τη X DET
+δυσαρέσκεια NOUN NOUN
+που PART PRON
+προκάλεσε X VERB
+σ' X ADP
+αυτή X PRON
+την X DET
+Αίθουσα X NOUN
+η X DET
+υιοθέτηση X NOUN
+από X ADP
+το X DET
+Συμβούλιο X NOUN
+, X PUNCT
+σ NUM ADP
+τις DET DET
+27_Δεκεμβρίου X NOUN
+, X PUNCT
+υπό X ADP
+τη X DET
+βελγική X ADJ
+Προεδρία X NOUN
+, X PUNCT
+μίας X DET
+λίστας X NOUN
+τρομοκρατικών X ADJ
+οργανώσεων X NOUN
+, X PUNCT
+που X PRON
+σχετίζεται X VERB
+στενά NOUN ADV
+με ADP ADP
+τον X DET
+κανονισμό X NOUN
+( X PUNCT
+ΕΚ X NOUN
+) X PUNCT
+αριθ. X NOUN
+2580/2001 X NUM
+, X PUNCT
+χωρίς ADP ADP
+να X AUX
+υπάρχει VERB VERB
+προηγούμενη X ADJ
+διαβούλευση X NOUN
+με X ADP
+το X DET
+Ευρωπαϊκό X ADJ
+Κοινοβούλιο X NOUN
+, X PUNCT
+το X DET
+οποίο PRON PRON
+είχε VERB AUX
+εκφράσει X VERB
+την X DET
+επιθυμία NOUN NOUN
+του DET PRON
+να X AUX
+αποφανθεί X VERB
+σχετικά ADJ ADV
+με ADP ADP
+αυτό X PRON
+το X DET
+ζήτημα NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Είναι X AUX
+προφανές X ADJ
+, X PUNCT
+κυρίες X NOUN
+και X CCONJ
+κύριοι X NOUN
+, X PUNCT
+ότι X SCONJ
+δεν X PART
+πρόκειται X VERB
+να X AUX
+μιλήσουμε X VERB
+για X ADP
+τη X DET
+νομιμότητα X NOUN
+που X PRON
+προστατεύει X VERB
+την X DET
+απόφαση X NOUN
+που X PRON
+υιοθετήθηκε X VERB
+από X ADP
+το X DET
+Συμβούλιο X NOUN
+σ NUM ADP
+το X DET
+πλαίσιο X NOUN
+του DET DET
+άρθρου X NOUN
+15 X NUM
+της X DET
+Συνθήκης X NOUN
+για X ADP
+την X DET
+Ευρωπαϊκή X ADJ
+Ένωση X NOUN
+, X PUNCT
+αλλά X CCONJ
+πρέπει X AUX
+να X AUX
+μιλήσουμε X VERB
+, X PUNCT
+περισσότερο NOUN ADV
+από ADP ADP
+νομιμότητα X NOUN
+, X PUNCT
+για ADP ADP
+πολιτική X ADJ
+στάση NOUN NOUN
+, X PUNCT
+και PART CCONJ
+μπορώ VERB VERB
+να X AUX
+πω VERB VERB
+εξ ADP ADP
+ονόματος NOUN NOUN
+του DET DET
+Συμβουλίου X NOUN
+ότι PART SCONJ
+το X DET
+θεσμικό X ADJ
+μας X PRON
+όργανο NOUN NOUN
+έχει VERB VERB
+την X DET
+καλύτερη X ADJ
+διάθεση NOUN NOUN
+να X AUX
+διατηρήσει X VERB
+άριστες ADJ ADJ
+σχέσεις NOUN NOUN
+με ADP ADP
+το X DET
+Κοινοβούλιο X NOUN
+, X PUNCT
+σ NUM ADP
+το X DET
+πλαίσιο NOUN NOUN
+του DET DET
+άρθρου NOUN NOUN
+39 X NUM
+, X PUNCT
+παράγραφος NOUN NOUN
+1 X NUM
+της X DET
+Συνθήκης X NOUN
+για ADP ADP
+την X DET
+Ευρωπαϊκή X ADJ
+Ένωση X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σ X ADP
+τη X DET
+συγκεκριμένη X ADJ
+περίπτωση X NOUN
+των X DET
+καταλόγων X NOUN
+των X DET
+τρομοκρατικών X ADJ
+οργανώσεων X NOUN
+, X PUNCT
+υπογραμμίζω X VERB
+ότι X SCONJ
+το X DET
+Συμβούλιο X NOUN
+επεξεργάστηκε X VERB
+δύο X NUM
+καταλόγους X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Καταρχάς X ADV
+, X PUNCT
+ένα X DET
+εμπιστευτικό X ADJ
+έγγραφο NOUN NOUN
+που X PRON
+εκπονήθηκε X VERB
+από X ADP
+την X DET
+Ομάδα X NOUN
+" X PUNCT
+Τρομοκρατία X NOUN
+" X PUNCT
+, X PUNCT
+το X DET
+οποίο PRON PRON
+του X PRON
+παρουσιάστηκε X VERB
+σ X ADP
+την X DET
+συνεδρίαση X NOUN
+της X DET
+7ης_Δεκεμβρίου X NOUN
+και PART CCONJ
+σ X ADP
+το X DET
+οποίο PRON PRON
+περιλαμβάνονται X VERB
+34 X NUM
+τρομοκρατικές X ADJ
+οργανώσεις X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αυτός X PRON
+ο X DET
+κατάλογος X NOUN
+αποτελούσε X VERB
+μέρος X NOUN
+, X PUNCT
+μέχρι ADP ADP
+την X DET
+1η_Ιουνίου_2001 X NOUN
+, X PUNCT
+του X DET
+εγγράφου X NOUN
+" X PUNCT
+Απειλή X NOUN
+" X PUNCT
+της X DET
+Προεδρίας X NOUN
+, X PUNCT
+εμπιστευτικού X ADJ
+χαρακτήρα X NOUN
+, X PUNCT
+το X DET
+οποίο X PRON
+δεν X PART
+συζητήθηκε X VERB
+ποτέ X ADV
+με ADP ADP
+το X DET
+Ευρωπαϊκό X ADJ
+Κοινοβούλιο X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Επιπλέον X ADV
+, X PUNCT
+κατά X ADP
+τη X DET
+διάρκεια NOUN NOUN
+της X DET
+βελγικής ADJ ADJ
+Προεδρίας X NOUN
+συμφωνήθηκε X VERB
+η X DET
+επεξεργασία X NOUN
+ενός X DET
+αποχαρακτηρισμένου X ADJ
+έγγραφου ADJ NOUN
+σχετικά X ADV
+με X ADP
+την X DET
+απειλή X NOUN
+, X PUNCT
+που X PRON
+θα X AUX
+διαβιβαστεί X VERB
+σ X ADP
+το X DET
+Ευρωπαϊκό X ADJ
+Κοινοβούλιο X NOUN
+και X CCONJ
+που X PRON
+θα X AUX
+το X PRON
+λάβετε X VERB
+, X PUNCT
+κυρίες X NOUN
+και PART CCONJ
+κύριοι X NOUN
+, X PUNCT
+όταν X SCONJ
+ολοκληρωθούν X VERB
+οι X DET
+διάφορες X ADJ
+γλωσσικές ADJ ADJ
+αποδόσεις NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Είναι X AUX
+προφανές X ADJ
+ότι X SCONJ
+καμία X PRON
+διάταξη X NOUN
+της X DET
+Συνθήκης X NOUN
+δεν X PART
+επιβάλλει X VERB
+σ X ADP
+το X DET
+Συμβούλιο X NOUN
+να X AUX
+διαβουλευθεί X VERB
+ή X CCONJ
+να X AUX
+ενημερώσει X VERB
+το X DET
+Κοινοβούλιο X NOUN
+σχετικά X ADV
+μ' X ADP
+αυτό X PRON
+το X DET
+εμπιστευτικό X ADJ
+έγγραφο NOUN NOUN
+, X PUNCT
+το X DET
+οποίο X PRON
+, X PUNCT
+εν X ADP
+πάση X ADJ
+περιπτώσει X NOUN
+, X PUNCT
+θα X AUX
+έχανε X VERB
+την X DET
+αξία NOUN NOUN
+του X PRON
+αν PART SCONJ
+συζητιόταν X VERB
+δημοσίως X ADV
+, X PUNCT
+και PART CCONJ
+ο DET DET
+τελικός X ADJ
+αποδέκτης X NOUN
+του DET DET
+οποίου PRON PRON
+είναι VERB AUX
+οι DET DET
+αντιτρομοκρατικές X ADJ
+υπηρεσίες X NOUN
+των DET DET
+κρατών NOUN NOUN
+μελών NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+άλλη PRON PRON
+απόφαση X NOUN
+του DET DET
+Συμβουλίου X NOUN
+είναι VERB AUX
+η X DET
+2001/927/ΕΚ X NOUN
+, X PUNCT
+η X DET
+οποία X PRON
+περιέχει X VERB
+έναν X DET
+δημόσιο X ADJ
+κατάλογο X NOUN
+τρομοκρατών X NOUN
+και X CCONJ
+τρομοκρατικών X ADJ
+οργανώσεων X NOUN
+, X PUNCT
+που X PRON
+συνδέεται X VERB
+με X ADP
+τον X DET
+κανονισμό X NOUN
+( X PUNCT
+ΕΚ X NOUN
+) X PUNCT
+αριθ. ADJ NOUN
+2580/2001 X NUM
+και PART CCONJ
+τις DET DET
+κοινές X ADJ
+θέσεις X NOUN
+01/930 X NUM
+και PART CCONJ
+01/931 X NUM
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+υιοθέτηση X NOUN
+αυτών X PRON
+των X DET
+μέσων X NOUN
+ανταποκρίνεται X VERB
+σε X ADP
+μία X DET
+εξαιρετική X ADJ
+κατάσταση X NOUN
+, X PUNCT
+σ X ADP
+την X DET
+οποία PRON PRON
+η X DET
+εκτέλεση NOUN NOUN
+της X DET
+εντολής X NOUN
+του X DET
+Ευρωπαϊκού X ADJ
+Συμβουλίου X NOUN
+και PART CCONJ
+το X DET
+ψήφισμα X NOUN
+1373 X NUM
+του DET DET
+Συμβουλίου X NOUN
+Ασφαλείας X NOUN
+των X DET
+Ηνωμένων X ADJ
+Εθνών X NOUN
+επικράτησαν X VERB
+έναντι X ADP
+οποιασδήποτε PRON PRON
+άλλης PRON PRON
+εκτίμησης X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+ευρωπαϊκή X ADJ
+κοινή X ADJ
+γνώμη NOUN NOUN
+απαιτούσε X VERB
+από X ADP
+μας X PRON
+μία X DET
+ταχεία X ADJ
+, X PUNCT
+ορατή X ADJ
+και PART CCONJ
+αποφασιστική X ADJ
+δράση NOUN NOUN
+σ NUM ADP
+την X DET
+καταπολέμηση X NOUN
+της X DET
+τρομοκρατίας X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Παρά X ADP
+το X DET
+επείγον X ADJ
+του DET DET
+θέματος X NOUN
+, X PUNCT
+το X DET
+Συμβούλιο X NOUN
+διαβουλεύθηκε X VERB
+με X ADP
+το X DET
+Κοινοβούλιο X NOUN
+σχετικά X ADV
+με X ADP
+τον X DET
+κανονισμό X NOUN
+( X PUNCT
+ΕΚ X NOUN
+) X PUNCT
+αριθ. X NOUN
+2580/2001 X NUM
+, X PUNCT
+αλλά PART CCONJ
+οι DET DET
+αλλαγές X NOUN
+σ X ADP
+το X DET
+νομοθετικό X ADJ
+πλαίσιο NOUN NOUN
+, X PUNCT
+όπου X ADV
+το X DET
+Συμβούλιο X NOUN
+διαφυλάττει X VERB
+τις DET DET
+εκτελεστικές X ADJ
+αρμοδιότητες X NOUN
+για ADP ADP
+τον X DET
+εαυτό X NOUN
+του DET PRON
+, X PUNCT
+σύμφωνα ADV ADV
+με ADP ADP
+το X DET
+άρθρο NOUN NOUN
+202 X NUM
+της X DET
+Συνθήκης X NOUN
+, X PUNCT
+που PART PRON
+επιβεβαιώνεται X VERB
+από ADP ADP
+τη X DET
+νομολογία NOUN NOUN
+του DET DET
+Ευρωπαϊκού X ADJ
+Δικαστηρίου X NOUN
+, X PUNCT
+δεν X PART
+το X PRON
+υποχρεώνουν X VERB
+να X AUX
+διαβουλεύεται X VERB
+με ADP ADP
+το X DET
+Κοινοβούλιο X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Παρ' X ADP
+όλα X ADJ
+αυτά X PRON
+, X PUNCT
+η X DET
+Προεδρία X NOUN
+του X DET
+Συμβουλίου X NOUN
+επιθυμεί X VERB
+να X AUX
+επαναλάβει X VERB
+τη X DET
+βούλησή X NOUN
+της X PRON
+να X AUX
+συμμετέχει X VERB
+το X DET
+Ευρωπαϊκό X ADJ
+Κοινοβούλιο X NOUN
+, X PUNCT
+σ X ADP
+το X DET
+πλαίσιο NOUN NOUN
+των X DET
+Συνθηκών X NOUN
+και X CCONJ
+σ X ADP
+τον X DET
+μεγαλύτερο X ADJ
+δυνατό X ADJ
+βαθμό X NOUN
+, X PUNCT
+σ NUM ADP
+τα DET DET
+θέματα X NOUN
+Δικαιοσύνης X NOUN
+και PART CCONJ
+Εσωτερικών X ADJ
+Υποθέσεων X NOUN
+, X PUNCT
+και X CCONJ
+θα X AUX
+κρατά X VERB
+ενήμερο X ADJ
+το X DET
+Σώμα X NOUN
+σ NUM ADP
+τον X DET
+τομέα X NOUN
+της X DET
+αστυνομικής X ADJ
+και PART CCONJ
+δικαστικής X ADJ
+συνεργασίας X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+παρουσία X NOUN
+του X DET
+πρώτου X NUM
+Αντιπροέδρου X NOUN
+της X DET
+Κυβέρνησης X NOUN
+και X CCONJ
+Υπουργού X NOUN
+Εσωτερικών X NOUN
+και X CCONJ
+του X DET
+Υπουργού X NOUN
+Δικαιοσύνης X NOUN
+της X DET
+Προεδρίας X NOUN
+αυτές X PRON
+τις X DET
+τελευταίες X ADJ
+εβδομάδες X NOUN
+σ' X ADP
+αυτή X PRON
+την X DET
+Αίθουσα X NOUN
+υπογραμμίζουν X VERB
+τη X DET
+βούληση X NOUN
+της X DET
+Προεδρίας X NOUN
+να X AUX
+εργαστεί X VERB
+με ADP ADP
+το X DET
+Ευρωπαϊκό X ADJ
+Κοινοβούλιο X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Τέλος X ADV
+, X PUNCT
+όσον X ADV
+αφορά X VERB
+τον X DET
+ορισμό X NOUN
+της X DET
+τρομοκρατικής X ADJ
+πράξης X NOUN
+, X PUNCT
+το X DET
+κείμενο NOUN NOUN
+της X DET
+κοινής X ADJ
+θέσης X NOUN
+01/931 X NUM
+επαναλαμβάνει X VERB
+το X DET
+περιεχόμενο X NOUN
+της X DET
+απόφασης-πλαίσιο X NOUN
+του DET DET
+Συμβουλίου X NOUN
+, X PUNCT
+για X ADP
+την X DET
+οποία X PRON
+έχουν X AUX
+γίνει X VERB
+διαβουλεύσεις X NOUN
+με ADP ADP
+το X DET
+Κοινοβούλιο X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Κύριε X NOUN
+Πρόεδρε X NOUN
+, X PUNCT
+η X DET
+καθιέρωση X NOUN
+του X DET
+ευρώ X NOUN
+ως X ADV
+μετρητό X ADJ
+χρήμα X NOUN
+δεν X PART
+αποτελεί X VERB
+μόνο X ADV
+διαχειριστική X ADJ
+και X CCONJ
+οργανωτική X ADJ
+επιτυχία X NOUN
+, X PUNCT
+αλλά X CCONJ
+συμβάλλει X VERB
+πραγματικά ADV ADV
+ήδη ADV ADV
+σήμερα X ADV
+σ NUM ADP
+την X DET
+καλύτερη X ADJ
+διαμόρφωση X NOUN
+και PART CCONJ
+εξεύρεση X NOUN
+της X DET
+ευρωπαϊκής ADJ ADJ
+ταυτότητας X NOUN
+και PART CCONJ
+αυτό X PRON
+δεν X PART
+μπορούν VERB VERB
+να X AUX
+το X PRON
+αλλάξουν X VERB
+οι DET DET
+ευρωσκεπτικιστές X NOUN
+της X DET
+Ιταλίας X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+( X PUNCT
+Χειροκροτήματα X NOUN
+) X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Με X ADP
+το X DET
+απτό X ADJ
+ευρώ X NOUN
+η X DET
+Ευρώπη X PROPN
+γίνεται X VERB
+μια DET DET
+πραγματικότητα X NOUN
+της X DET
+καθημερινής X ADJ
+μας X PRON
+ζωής NOUN NOUN
+, X PUNCT
+όπως X ADV
+το X PRON
+λέγαμε X VERB
+πάντα X ADV
+εμείς X PRON
+οι X DET
+βουλευτές NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+ευρώ X NOUN
+ήταν VERB AUX
+κατά ADP ADP
+κάποιο PRON PRON
+τρόπο NOUN NOUN
+η X DET
+πρώτη X NUM
+επιλογή X NOUN
+του X DET
+Ευρωπαϊκού X ADJ
+Κοινοβουλίου X NOUN
+μετά X ADV
+από X ADP
+τη X DET
+δική X ADJ
+του DET PRON
+άμεση X ADJ
+εκλογή X NOUN
+, X PUNCT
+και X CCONJ
+προπάντων X ADV
+η X DET
+πρώτη X NUM
+επιλογή X NOUN
+της X DET
+Επιτροπής X NOUN
+Οικονομικής X ADJ
+και X CCONJ
+Νομισματικής X ADJ
+Πολιτικής X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Με X ADP
+αυτή X PRON
+την X DET
+έννοια X NOUN
+το X DET
+ευρώ X NOUN
+ανήκει X VERB
+εδώ X ADV
+και X CCONJ
+δύο X NUM
+δεκαετίες X NOUN
+σ NUM ADP
+τα X DET
+δημοφιλέστερα X ADJ
+σχέδια NOUN NOUN
+του X DET
+Ευρωπαϊκού X ADJ
+Κοινοβουλίου X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Υποστηρίξαμε X VERB
+με X ADP
+θέρμη X NOUN
+την X DET
+ενιαία X ADJ
+αγορά X NOUN
+και X CCONJ
+το X DET
+ενιαίο X ADJ
+νόμισμα X NOUN
+και X CCONJ
+συμμετείχαμε X VERB
+σ X ADP
+τη X DET
+διαμόρφωσή X NOUN
+τους X PRON
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Θεωρώ X VERB
+ότι X SCONJ
+πρέπει VERB AUX
+να X AUX
+ευχαριστήσει X VERB
+κανείς X PRON
+όλους X ADJ
+τους X DET
+βουλευτές X NOUN
+του X DET
+Σώματος X NOUN
+για ADP ADP
+το X DET
+επίτευγμα X NOUN
+αυτό X PRON
+καθώς X ADV
+επίσης X ADV
+και X CCONJ
+εσάς X PRON
+, X PUNCT
+κύριε NOUN NOUN
+von X X
+Wogau X X
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+( X PUNCT
+Χειροκροτήματα X NOUN
+) X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+λέξη X NOUN
+ευρώ X NOUN
+θα X AUX
+αποτελέσει X VERB
+κατά ADP ADP
+την X DET
+άποψή X NOUN
+μου X PRON
+την X DET
+πιο X ADV
+θετική X ADJ
+λέξη X NOUN
+του DET DET
+έτους X NOUN
+2002 X NUM
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σε X ADP
+τελική X ADJ
+ανάλυση X NOUN
+, X PUNCT
+το X DET
+ευρώ NOUN NOUN
+ενσαρκώνει X VERB
+τη X DET
+δυναμική X ADJ
+και X CCONJ
+την X DET
+αποφασιστικότητα X NOUN
+της X DET
+Ευρώπης X PROPN
+να X AUX
+δημιουργήσει X VERB
+μια X DET
+ευρωπαϊκή X ADJ
+ταυτότητα NOUN NOUN
+, X PUNCT
+να X AUX
+βελτιώσει X VERB
+την X DET
+ευρωπαϊκή X ADJ
+ανταγωνιστικότητα X NOUN
+προς X ADP
+όφελος NOUN NOUN
+της X DET
+οικονομίας X NOUN
+και PART CCONJ
+της X DET
+απασχόλησης NOUN NOUN
+και X CCONJ
+να X AUX
+συνενωθεί X VERB
+σε X ADP
+μια X DET
+μόνιμη X ADJ
+κοινότητα X NOUN
+αλληλεγγύης NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+Νομισματική X ADJ
+Ένωση X NOUN
+ολοκληρώνει X VERB
+την X DET
+εσωτερική X ADJ
+αγορά X NOUN
+- X PUNCT
+που X PRON
+αποτελεί X VERB
+τη X DET
+σωστή ADJ ADJ
+απάντηση X NOUN
+σ X ADP
+τις X DET
+προκλήσεις NOUN NOUN
+της X DET
+παγκοσμιοποίησης NOUN NOUN
+- X PUNCT
+και PART CCONJ
+την X PRON
+καθιστά X VERB
+ωφέλιμη X ADJ
+για X ADP
+όλους X ADJ
+- X PUNCT
+για X ADP
+τις DET DET
+μικρές X ADJ
+και X CCONJ
+μεσαίες X ADJ
+επιχειρήσεις NOUN NOUN
+και PART CCONJ
+προπάντων X ADV
+για X ADP
+τους X DET
+πολίτες X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+ευρώ X NOUN
+θα X AUX
+στεφθεί X VERB
+με X ADP
+επιτυχία X NOUN
+διότι X SCONJ
+το X PRON
+έχουν X AUX
+αποδεχθεί X VERB
+όχι X ADV
+μόνο X ADV
+οι X DET
+αγορές NOUN NOUN
+αλλά X CCONJ
+και X CCONJ
+ο X DET
+κόσμος X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Πολλοί X ADJ
+άνθρωποι X NOUN
+χαίρονται X VERB
+που PART SCONJ
+ζουν X VERB
+επιτέλους ADV ADV
+σ NUM ADP
+τη X DET
+χώρα X NOUN
+του X DET
+ευρώ X NOUN
+- X PUNCT
+και PART CCONJ
+αυτό X PRON
+το X PRON
+είχαμε X AUX
+επανειλημμένα X ADV
+τονίσει X VERB
+εμείς X PRON
+οι X DET
+βουλευτές X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+επιτυχία X NOUN
+της X DET
+έναρξης X NOUN
+της X DET
+κυκλοφορίας X NOUN
+του X DET
+ευρώ NOUN NOUN
+με X ADP
+τη X DET
+μορφή NOUN NOUN
+μετρητού X ADJ
+χρήματος X NOUN
+έχει VERB AUX
+ενθουσιάσει X VERB
+τους X DET
+πάντες X ADJ
+και X CCONJ
+έχει X AUX
+δημιουργήσει X VERB
+ένα X DET
+κλίμα NOUN NOUN
+αισιοδοξίας X NOUN
+, X PUNCT
+το X DET
+οποίο PRON PRON
+χρειαζόμαστε VERB VERB
+επειγόντως X ADV
+σ NUM ADP
+την X DET
+Ευρώπη X PROPN
+προκειμένου X SCONJ
+να X AUX
+αυξηθούν X VERB
+οι X DET
+επενδύσεις X NOUN
+, X PUNCT
+να X AUX
+αναθερμανθεί X VERB
+η X DET
+ζήτηση NOUN NOUN
+σ NUM ADP
+την X DET
+εσωτερική X ADJ
+αγορά NOUN NOUN
+και PART CCONJ
+να X AUX
+ενισχυθεί X VERB
+η X DET
+απασχόληση NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+καθιέρωση X NOUN
+του X DET
+ευρώ X NOUN
+αποτελεί X VERB
+επιστέγασμα X NOUN
+και X CCONJ
+ανταμοιβή X NOUN
+των X DET
+συνεχών X ADJ
+προσπαθειών X NOUN
+που PART PRON
+έγιναν X VERB
+σ NUM ADP
+την X DET
+πορεία X NOUN
+προς X ADP
+τη X DET
+Νομισματική X ADJ
+Ένωση X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ήδη X ADV
+σήμερα X ADV
+αναρωτιούνται X VERB
+πολλοί X ADJ
+γιατί X SCONJ
+δεν X PART
+είχε X AUX
+κυκλοφορήσει X VERB
+το X DET
+ευρώ X NOUN
+πολύ X ADV
+νωρίτερα X ADV
+όπως X ADV
+το X PRON
+ζητούσαμε X VERB
+εμείς X PRON
+οι X DET
+βουλευτές NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+Δανία X PROPN
+, X PUNCT
+η X DET
+Σουηδία X PROPN
+και X CCONJ
+η X DET
+Μεγάλη X ADJ
+Βρετανία X PROPN
+καλούνται X VERB
+να X AUX
+προσχωρήσουν X VERB
+σ X ADP
+την X DET
+ευρωζώνη X NOUN
+πριν X ADV
+από X ADP
+τη X DET
+διεύρυνση X NOUN
+προς X ADP
+Ανατολάς X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+γερμανικό X ADJ
+μάρκο X NOUN
+ήταν X AUX
+ένα DET DET
+νόμισμα X NOUN
+με X ADP
+λαμπρό X ADJ
+παρελθόν X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Τα X DET
+τρία X NUM
+χρόνια X NOUN
+της X DET
+Νομισματικής X ADJ
+Ένωσης X NOUN
+μας X PRON
+υπόσχονται X VERB
+ένα X DET
+παρόμοια X ADV
+σταθερό X ADJ
+νομισματικό X ADJ
+μέλλον X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μέχρι X ADP
+σήμερα X ADV
+είχαμε VERB VERB
+πάντως X ADV
+σ X ADP
+τη X DET
+Νομισματική X ADJ
+Ένωση X NOUN
+χαμηλότερα X ADJ
+ποσοστά X NOUN
+πληθωρισμού X NOUN
+απ' X ADP
+ότι X SCONJ
+σ X ADP
+τις X DET
+προηγούμενες NOUN ADJ
+δεκαετίες X NOUN
+του X DET
+γερμανικού X ADJ
+μάρκου X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αυτό X PRON
+συνεπάγεται X VERB
+και X CCONJ
+χαμηλά X ADJ
+επιτόκια X NOUN
+που X PRON
+εξασφαλίζουν X VERB
+ευνοϊκούς X ADJ
+και X CCONJ
+πρόσφορους X ADJ
+για X ADP
+επενδύσεις X NOUN
+όρους X NOUN
+χρηματοδότησης X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Κατά X ADP
+συνέπεια NOUN NOUN
+, X PUNCT
+η X DET
+Νομισματική X ADJ
+Ένωση X NOUN
+τήρησε X VERB
+αυτά X PRON
+που X PRON
+είχε X AUX
+υποσχεθεί X VERB
+από ADP ADP
+πολιτική X ADJ
+άποψη X NOUN
+η X DET
+Συνθήκη X NOUN
+του X DET
+Μάαστριχτ X X
+, X PUNCT
+ότι PART SCONJ
+δηλαδή X ADV
+θα X AUX
+οδηγήσει X VERB
+σ X ADP
+τη X DET
+σταθερότητα X NOUN
+των X DET
+τιμών X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Με X ADP
+την X DET
+κυκλοφορία NOUN NOUN
+του X DET
+ευρώ X NOUN
+ως ADV ADV
+μετρητού X ADJ
+χρήματος NOUN NOUN
+, X PUNCT
+οι X DET
+επιτυχίες X NOUN
+γίνονται X VERB
+ορατές X ADJ
+και X CCONJ
+για X ADP
+τους X DET
+καταναλωτές X NOUN
+: X PUNCT
+θα X AUX
+μειωθούν X VERB
+οι X DET
+τιμές X NOUN
+για X ADP
+καταναλωτικά X ADJ
+αγαθά X NOUN
+διαρκείας X NOUN
+όπως X ADV
+είναι X AUX
+λ.χ. X ADV
+τα DET DET
+αυτοκίνητα NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Με X ADP
+την X DET
+ολοκλήρωση X NOUN
+του X DET
+προγράμματος X NOUN
+της X DET
+εσωτερικής X ADJ
+αγοράς NOUN NOUN
+μέσω ADP ADP
+του X DET
+ευρώ X NOUN
+, X PUNCT
+ο X DET
+ανταγωνισμός X NOUN
+αποβαίνει X VERB
+προς X ADP
+όφελος NOUN NOUN
+των X DET
+καταναλωτών X NOUN
+δεδομένου X ADV
+ότι X SCONJ
+μεσοπρόθεσμα X ADV
+ασκείται X VERB
+πίεση X NOUN
+σ X ADP
+τις X DET
+τιμές NOUN NOUN
+και X CCONJ
+δημιουργούνται X VERB
+κίνητρα X NOUN
+για X ADP
+την X DET
+παραγωγή X NOUN
+καλύτερης X ADJ
+ποιότητας NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+ολοκλήρωση X NOUN
+της X DET
+Οικονομικής X ADJ
+και X CCONJ
+Νομισματικής X ADJ
+Ένωσης X NOUN
+καθώς PART ADV
+και X CCONJ
+της X DET
+εσωτερικής X ADJ
+μεταρρύθμισης X NOUN
+της X DET
+Ευρωπαϊκής X ADJ
+Ένωσης X NOUN
+, X PUNCT
+η X DET
+θέσπιση X NOUN
+ενός X DET
+ευρωπαϊκού ADJ ADJ
+συντάγματος X NOUN
+, X PUNCT
+όπως X ADV
+και PART CCONJ
+η X DET
+επιτυχία X NOUN
+της X DET
+διεύρυνσης X NOUN
+προς ADP ADP
+Ανατολάς X PROPN
+είναι X AUX
+οι DET DET
+μεγάλες X ADJ
+προκλήσεις NOUN NOUN
+που X PRON
+θα X AUX
+έχει X VERB
+να X AUX
+αντιμετωπίσει X VERB
+η X DET
+Ευρώπη PROPN PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Εδώ X ADV
+δεν X PART
+πρέπει X AUX
+όμως X CCONJ
+να X AUX
+ξεχάσουμε X VERB
+το X DET
+εξής ADV ADV
+: X PUNCT
+το X DET
+ευρώ X NOUN
+δεν X PART
+είναι X AUX
+μόνο X ADV
+ένα X DET
+νομισματικό X ADJ
+πρόγραμμα NOUN NOUN
+, X PUNCT
+αλλά PART CCONJ
+ήταν X AUX
+ανέκαθεν X ADV
+και X CCONJ
+πολιτικό X ADJ
+πρόγραμμα X NOUN
+, X PUNCT
+αποτελώντας X VERB
+τμήμα X NOUN
+της X DET
+Πολιτικής X ADJ
+Ένωσης X NOUN
+της X DET
+Ευρώπης X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Σε X ADP
+σχέση X NOUN
+με X ADP
+την X DET
+υδρόγειο X ADJ
+, X PUNCT
+η X DET
+Ευρώπη X PROPN
+είναι X AUX
+μόνο X ADV
+μια X DET
+μικρή X ADJ
+επιφάνεια X NOUN
+και X CCONJ
+για X ADP
+τον X DET
+λόγο X NOUN
+αυτό X PRON
+η X DET
+ολοκλήρωση X NOUN
+της X DET
+εσωτερικής X ADJ
+αγοράς X NOUN
+μέσω ADP ADP
+της X DET
+Νομισματικής X ADJ
+Ένωσης X NOUN
+είναι VERB AUX
+ασφαλώς ADV ADV
+η X DET
+σωστή ADJ ADJ
+απάντηση X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Επιπλέον X ADV
+, X PUNCT
+το X DET
+ευρώ NOUN NOUN
+αποδεικνύει X VERB
+την X DET
+ικανότητα X NOUN
+των X DET
+Ευρωπαίων NOUN PROPN
+να X AUX
+οργανώνουν X VERB
+τα DET DET
+κοινά X ADJ
+τους X PRON
+στοιχεία NOUN NOUN
+προς X ADP
+δικό X ADJ
+τους X PRON
+όφελος X NOUN
+, X PUNCT
+προς X ADP
+όφελος NOUN NOUN
+όλων X ADJ
+των DET DET
+ευρωπαϊκών X ADJ
+κρατών X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+ευρώ X NOUN
+είναι X AUX
+ταυτόχρονα ADV ADV
+συνδετικός X ADJ
+κρίκος X NOUN
+και X CCONJ
+λαβή X NOUN
+για X ADP
+έριδες NOUN NOUN
+όσον X ADV
+αφορά X VERB
+περαιτέρω X ADV
+φιλόδοξα X ADJ
+σχέδια X NOUN
+για ADP ADP
+την X DET
+Ευρώπη X PROPN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ο X DET
+Σαίξπηρ X X
+είχε X AUX
+επισημάνει X VERB
+δικαίως X ADV
+ότι X SCONJ
+: X PUNCT
+" X PUNCT
+όπου X ADV
+προπορεύεται X VERB
+το X DET
+χρήμα X NOUN
+, X PUNCT
+ανοίγουν X VERB
+όλοι ADJ ADJ
+οι X DET
+δρόμοι X NOUN
+" X PUNCT
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αυτό X PRON
+ελπίζω X VERB
+ότι X SCONJ
+ισχύει X VERB
+και X CCONJ
+για X ADP
+τον X DET
+αποτελεσματικότερο X ADJ
+και PART CCONJ
+καλύτερο X ADJ
+συντονισμό X NOUN
+μεταξύ X ADP
+οικονομικής X ADJ
+, X PUNCT
+δημοσιονομικής X ADJ
+και X CCONJ
+κοινωνικής ADJ ADJ
+πολιτικής NOUN NOUN
+και X CCONJ
+πολιτικής X NOUN
+για ADP ADP
+την X DET
+απασχόληση X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Το X DET
+ευρώ X NOUN
+χρειάζεται VERB VERB
+επειγόντως X ADV
+στήριξη X NOUN
+από X ADP
+ένα X DET
+είδος X NOUN
+οικονομικής ADJ ADJ
+κυβέρνησης X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+εξελίξεις X NOUN
+σ X ADP
+την X DET
+οικονομική X ADJ
+συγκυρία X NOUN
+δεν X PART
+διαμορφώνονται X VERB
+πλέον X ADV
+σ X ADP
+το X DET
+πλαίσιο X NOUN
+εθνικών X ADJ
+κρατών NOUN NOUN
+αλλά X CCONJ
+σ X ADP
+το X DET
+πλαίσιο X NOUN
+οικονομικών X ADJ
+ζητημάτων X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Για X ADP
+τον X DET
+λόγο X NOUN
+αυτό X PRON
+η X DET
+Σύνοδος X NOUN
+Κορυφής X NOUN
+της X DET
+Βαρκελώνης X PROPN
+καλείται X VERB
+να X AUX
+ανταλλάξει X VERB
+τον X DET
+δογματισμό X NOUN
+σ X ADP
+την X DET
+εφαρμογή X NOUN
+του X DET
+Συμφώνου X NOUN
+Σταθερότητας X NOUN
+και X CCONJ
+Ανάπτυξης X NOUN
+, X PUNCT
+το X DET
+οποίο X PRON
+δίνει X VERB
+περιθώρια X NOUN
+, X PUNCT
+με ADP ADP
+μια X DET
+συμπαγή ADJ ADJ
+πολιτική X NOUN
+που X PRON
+στόχο X NOUN
+θα X AUX
+έχει VERB VERB
+τη X DET
+νομισματική X ADJ
+, X PUNCT
+τη X DET
+χρηματοοικονομική X ADJ
+αλλά X CCONJ
+και PART CCONJ
+την X DET
+κοινωνική ADJ ADJ
+σταθερότητα NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ιδιαίτερα X ADV
+σημαντικό X ADJ
+ρόλο X NOUN
+έπαιξε X VERB
+ο X DET
+ζήλος NOUN NOUN
+που X PRON
+επιδείξαμε X VERB
+σ X ADP
+τον X DET
+νομισματικό X ADJ
+διάλογο X NOUN
+με X ADP
+την X DET
+Ευρωπαϊκή X ADJ
+Κεντρική X ADJ
+Τράπεζα X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Εμείς X PRON
+, X PUNCT
+ως X ADV
+Κοινοβούλιο X NOUN
+, X PUNCT
+υποστηρίξαμε X VERB
+την X DET
+ανεξαρτησία X NOUN
+της X DET
+Ευρωπαϊκής X ADJ
+Κεντρικής X ADJ
+Τράπεζας X NOUN
+, X PUNCT
+αλλά PART CCONJ
+ταυτόχρονα X ADV
+και X CCONJ
+την X DET
+υποχρέωσή X NOUN
+της X PRON
+να X AUX
+λογοδοτεί X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Από X ADP
+αυτή X PRON
+την X DET
+άποψη NOUN NOUN
+είναι X AUX
+πολύ X ADV
+σημαντικό X ADJ
+που X SCONJ
+οργανώσαμε X VERB
+και X CCONJ
+προκαλέσαμε X VERB
+μια X DET
+πολιτιστική X ADJ
+επανάσταση NOUN NOUN
+σ X ADP
+την X DET
+Ευρώπη X PROPN
+, X PUNCT
+καθότι X SCONJ
+σ X ADP
+την X DET
+προηγούμενη X ADJ
+σχέση NOUN NOUN
+των DET DET
+κρατών NOUN NOUN
+μελών X NOUN
+με X ADP
+τις X DET
+εθνικές ADJ ADJ
+κεντρικές ADJ ADJ
+τράπεζες X NOUN
+δεν X PART
+υπήρχε X VERB
+αυτή X PRON
+η X DET
+δημοκρατική ADJ ADJ
+υποχρέωση NOUN NOUN
+λογοδοσίας X NOUN
+που PART PRON
+έχουμε VERB VERB
+σήμερα ADV ADV
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+υποχρέωση X NOUN
+αυτή X PRON
+καθιστά X VERB
+διαφανή X ADJ
+και X CCONJ
+εύληπτη X ADJ
+τη X DET
+νομισματική X ADJ
+πολιτική NOUN NOUN
+και X CCONJ
+συμβάλλει X VERB
+σ X ADP
+τη X DET
+διερεύνηση X NOUN
+αυτού X PRON
+του X DET
+μυστηρίου X NOUN
+, X PUNCT
+δεδομένου X ADV
+ότι PART SCONJ
+η X DET
+νομισματική X ADJ
+πολιτική NOUN NOUN
+δεν X PART
+είναι X AUX
+ουδέτερη X ADJ
+αλλά X CCONJ
+επηρεάζει X VERB
+και PART CCONJ
+την X DET
+πραγματική X ADJ
+οικονομία NOUN NOUN
+, X PUNCT
+την X DET
+ανάπτυξη X NOUN
+και X CCONJ
+την X DET
+απασχόληση X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Συνεργασία X NOUN
+μεγάλων ADJ ADJ
+φαρμακοβιομηχανιών X NOUN
+σε X ADP
+έρευνες NOUN NOUN
+για X ADP
+θεραπείες X NOUN
+σοβαρών X ADJ
+ασθενειών X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+10 X NUM
+απ’ X ADP
+τις DET DET
+μεγαλύτερες X ADJ
+φαρμακοβιομηχανίες X NOUN
+του X DET
+κόσμου X NOUN
+, X PUNCT
+που X PRON
+συνήθως X ADV
+ανταγωνίζονται X VERB
+έντονα X ADV
+η X DET
+μια X PRON
+την X DET
+άλλη X PRON
+, X PUNCT
+συνεργάζονται X VERB
+τώρα X ADV
+με ADP ADP
+τις X DET
+αμερικανικές ADJ ADJ
+αρχές X NOUN
+σε PRON ADP
+μια X DET
+ασυνήθιστη X ADJ
+νέα X ADJ
+προσπάθεια X NOUN
+για X ADP
+την X DET
+ανάπτυξη X NOUN
+θεραπειών NOUN NOUN
+για X ADP
+ορισμένες X ADJ
+απ’ X ADP
+τις DET DET
+σοβαρότατες X ADJ
+ασθένειες X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+συμφωνία X NOUN
+προβλέπει X VERB
+ότι X SCONJ
+οι X DET
+εταιρείες X NOUN
+θα X AUX
+δαπανήσουν X VERB
+από X ADP
+κοινού NOUN NOUN
+230 X NUM
+εκατομμύρια X NOUN
+δολάρια X NOUN
+μέσα X ADV
+σ NUM ADP
+τα DET DET
+επόμενα X ADJ
+5 X NUM
+χρόνια X NOUN
+σε X ADP
+έρευνες X NOUN
+για X ADP
+ασθένειες X NOUN
+όπως X ADV
+η X DET
+Νόσος X NOUN
+Αλτσχάιμερ X PROPN
+, X PUNCT
+ο DET DET
+διαβήτης NOUN NOUN
+τύπου NOUN NOUN
+Β ADJ NOUN
+, X PUNCT
+η X DET
+ρευματοειδής X ADJ
+αρθρίτιδα X NOUN
+και X CCONJ
+ο DET DET
+ερυθηματώδης X ADJ
+λύκος NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οι X DET
+εν X ADP
+λόγω X NOUN
+φαρμακοβιομηχανίες X NOUN
+έχουν X AUX
+ήδη X ADV
+ξοδέψει X VERB
+δισεκατομμύρια X NOUN
+δολάρια X NOUN
+τα X DET
+τελευταία ADJ ADJ
+χρόνια X NOUN
+σε X ADP
+έρευνες X NOUN
+για X ADP
+νέα X ADJ
+φάρμακα X NOUN
+με ADP ADP
+στόχο X NOUN
+την X DET
+αύξηση X NOUN
+των DET DET
+κερδών NOUN NOUN
+τους X PRON
+και X CCONJ
+τη X DET
+διατήρηση X NOUN
+της X DET
+ανταγωνιστικότητάς X NOUN
+τους X PRON
+έναντι ADV ADP
+άλλων PRON PRON
+φαρμακοβιομηχανιών X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αλλά X CCONJ
+ο DET DET
+επικεφαλής X ADJ
+του X DET
+Εθνικού X ADJ
+Ινστιτούτου X NOUN
+Υγείας X NOUN
+, X PUNCT
+Φράνσις X PROPN
+Κόλλινς X X
+, X PUNCT
+δήλωσε X VERB
+ότι PART SCONJ
+η X DET
+προσέγγιση X NOUN
+της X DET
+εταιρικής X ADJ
+απομόνωσης X NOUN
+που X PRON
+ακολουθούσαν X VERB
+μέχρι X ADP
+σήμερα X ADV
+οι X DET
+φαρμακοβιομηχανίες X NOUN
+έχει X AUX
+οδηγήσει X VERB
+σε X ADP
+υψηλά X ADJ
+ποσοστά X NOUN
+αποτυχίας NOUN NOUN
+για X ADP
+την X DET
+ανάπτυξη NOUN NOUN
+νέων X ADJ
+πρωτοποριακών X ADJ
+θεραπειών NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μια X DET
+φαρμακοβιομηχανία X NOUN
+χρειάζεται X VERB
+14 X NUM
+χρόνια X NOUN
+για ADP ADP
+να X AUX
+αναπτύξει X VERB
+ένα X DET
+νέο X ADJ
+φάρμακο X NOUN
+με X ADP
+κόστος NOUN NOUN
+1 X NUM
+δισεκατομμύριο NOUN NOUN
+δολάρια X NOUN
+κατά X ADP
+μέσο X ADJ
+όρο X NOUN
+, X PUNCT
+και X CCONJ
+το X DET
+99% X NUM
+των X DET
+ερευνητικών X ADJ
+προσπαθειών X NOUN
+αποτυγχάνουν X VERB
+, X PUNCT
+επεσήμανε X VERB
+ο DET DET
+κ. NOUN NOUN
+Κόλλινς X X
+, X PUNCT
+προσθέτοντας X VERB
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+" X PUNCT
+Είναι X AUX
+καιρός X NOUN
+να X AUX
+συνεργαστούμε X VERB
+" X PUNCT
+προς X ADP
+αναζήτηση X NOUN
+επιστημονικών X ADJ
+καινοτομιών X NOUN
+και PART CCONJ
+την X DET
+ανάπτυξη X NOUN
+φαρμάκων X NOUN
+που X PRON
+θα X AUX
+θεραπεύουν X VERB
+σοβαρότατες X ADJ
+ασθένειες X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+ερευνητική X ADJ
+αυτή X PRON
+ομάδα X NOUN
+δημιουργήθηκε X VERB
+με ADP ADP
+πρωτοβουλία X NOUN
+του X DET
+Εθνικού X ADJ
+Ινστιτούτου X NOUN
+Υγείας X NOUN
+και X CCONJ
+της X DET
+Υπηρεσίας X NOUN
+Τροφίμων X NOUN
+και X CCONJ
+Φαρμάκων X NOUN
+των X DET
+ΗΠΑ PROPN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Τα X DET
+ερευνητικά X ADJ
+συμπεράσματα X NOUN
+της X DET
+ομάδας X NOUN
+και X CCONJ
+οι X DET
+σχετικές X ADJ
+της X PRON
+αναλύσεις X NOUN
+θα X AUX
+είναι X AUX
+διαθέσιμα X NOUN
+σ X ADP
+το X DET
+ευρύτερο X ADJ
+κοινό ADJ NOUN
+, X PUNCT
+προσφέροντας X VERB
+έτσι X ADV
+πρόσβαση X NOUN
+και PART CCONJ
+σε X ADP
+άλλους X PRON
+ερευνητές X NOUN
+να X AUX
+μελετήσουν X VERB
+στοιχεία X NOUN
+που X PRON
+θα X AUX
+μπορούσαν X VERB
+να X AUX
+χρησιμοποιηθούν X VERB
+για ADP ADP
+περαιτέρω ADV ADV
+έρευνες X NOUN
+και PART CCONJ
+ανάπτυξη NOUN NOUN
+νέων X ADJ
+φαρμάκων X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Κύριε X NOUN
+Πρόεδρε X NOUN
+, X PUNCT
+επί ADP ADP
+περισσότερο X ADJ
+από ADP ADP
+ένα X DET
+έτος X NOUN
+εμείς X PRON
+σ X ADP
+τις DET DET
+ομάδες X NOUN
+διαπραγμάτευσης X NOUN
+του X DET
+Κοινοβουλίου X NOUN
+, X PUNCT
+μαζί X ADV
+με X ADP
+την X DET
+Επιτροπή X NOUN
+και X CCONJ
+το X DET
+Συμβούλιο X NOUN
+των X DET
+Υπουργών X NOUN
+, X PUNCT
+προσπαθούσαμε X VERB
+να X AUX
+λύσουμε VERB VERB
+ένα DET DET
+γρίφο NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Συμφωνούμε X VERB
+όλοι ADJ ADJ
+με X ADP
+τον X DET
+Βαρόνο X NOUN
+Lamfalussy X X
+και X CCONJ
+την X DET
+επιτροπή X NOUN
+σοφών X NOUN
+ότι X SCONJ
+για X ADP
+την X DET
+αποτελεσματική ADJ ADJ
+ρύθμιση X NOUN
+των X DET
+χρηματαγορών X NOUN
+και X CCONJ
+τη X DET
+δημιουργία X NOUN
+μιας X DET
+ενιαίας X ADJ
+χρηματοπιστωτικής X ADJ
+αγοράς NOUN NOUN
+απαιτείται X VERB
+να X AUX
+εκχωρήσουμε X VERB
+αρμοδιότητες NOUN NOUN
+σ X ADP
+την X DET
+Επιτροπή X NOUN
+και PART CCONJ
+σε X ADP
+μια X DET
+πιο X ADV
+ευέλικτη X ADJ
+επίσημη ADJ ADJ
+επιτροπή X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Υπάρχει X VERB
+όμως X CCONJ
+ένα X DET
+βασικό X ADJ
+πρόβλημα X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αν X SCONJ
+και X CCONJ
+η X DET
+Συνθήκη X NOUN
+του X DET
+Μάαστριχτ X X
+παρέσχε X VERB
+το X DET
+1992 X NOUN
+σ X ADP
+το X DET
+Σώμα X NOUN
+την X DET
+εξουσία X NOUN
+της X DET
+συναπόφασης X NOUN
+όσον X ADV
+αφορά X VERB
+τέτοιου X PRON
+είδους X NOUN
+νομοθεσία X NOUN
+δεν X PART
+του X PRON
+παρέσχε X VERB
+την X DET
+εξουσία X NOUN
+να X AUX
+εποπτεύει X VERB
+αποτελεσματικά X ADV
+το X DET
+ρόλο NOUN NOUN
+οποιασδήποτε PRON PRON
+επιτροπής X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αυτό X PRON
+που X PRON
+είδαμε X VERB
+σ X ADP
+το X DET
+παρελθόν X NOUN
+όσον X ADV
+αφορά VERB VERB
+τέτοιου X PRON
+είδους X NOUN
+επιτροπές X NOUN
+δεν X PART
+μας X PRON
+άρεσε X VERB
+: X PUNCT
+
+-DOCSTART- -X- -X- O
+
+ήταν X AUX
+μυστικοπαθείς X ADJ
+, X PUNCT
+γραφειοκρατικές X ADJ
+, X PUNCT
+καφκικές X ADJ
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ένας X DET
+όρος NOUN NOUN
+σ X ADP
+τον X DET
+οποίο X PRON
+επέμενε X VERB
+η X DET
+Ομάδα X NOUN
+μου X PRON
+ήταν X AUX
+ότι X SCONJ
+αυτή X PRON
+η X DET
+νοοτροπία X NOUN
+της X DET
+μυστικότητας X NOUN
+πρέπει X AUX
+να X AUX
+αλλάξει X VERB
+ουσιαστικά X ADV
+, X PUNCT
+ανοίγοντας X VERB
+τη X DET
+διαδικασία X NOUN
+λήψης X NOUN
+αποφάσεων X NOUN
+όχι X ADV
+μόνο X ADV
+σε X ADP
+εμάς X PRON
+σ NUM ADP
+το X DET
+Κοινοβούλιο X NOUN
+, X PUNCT
+αλλά PART CCONJ
+και X CCONJ
+σ X ADP
+τον X DET
+έξω ADV ADV
+κόσμο NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Χρειαζόμασταν X VERB
+εχέγγυα X ADJ
+διαφάνειας X NOUN
+, X PUNCT
+ανοίγματος X NOUN
+και X CCONJ
+διαβούλευσης X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μας X PRON
+δίδονται X VERB
+εδώ X ADV
+σ X ADP
+τη X DET
+δήλωση X NOUN
+του X DET
+Προέδρου X NOUN
+και X CCONJ
+σ NUM ADP
+την X DET
+επιστολή NOUN NOUN
+που X PRON
+ο X DET
+Επίτροπος X NOUN
+Bolkestein X X
+απηύθυνε X VERB
+σ X ADP
+την X DET
+πρόεδρο X NOUN
+της X DET
+Επιτροπής X NOUN
+Οικονομικής X ADJ
+και X CCONJ
+Νομισματικής X ADJ
+Πολιτικής X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Αλλά X CCONJ
+πώς X ADV
+επρόκειτο VERB VERB
+να X AUX
+διασφαλίσουμε X VERB
+ότι X SCONJ
+οι X DET
+υποσχέσεις X NOUN
+αυτές X PRON
+για X ADP
+αλλαγή X NOUN
+νοοτροπίας X NOUN
+, X PUNCT
+που X PRON
+τόσο X ADV
+συχνά X ADV
+αθετούντο X VERB
+, X PUNCT
+θα X AUX
+τηρούνταν X VERB
+τελικά X ADV
+; X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Έγινε X VERB
+σαφές X ADJ
+ότι X SCONJ
+καμία X PRON
+μόνιμη X ADJ
+αλλαγή X NOUN
+δεν X PART
+θα X AUX
+μπορούσε X VERB
+να X AUX
+γίνει X VERB
+προτού X SCONJ
+ολοκληρωθούν X VERB
+η X DET
+Συνέλευση X NOUN
+και X CCONJ
+η X DET
+Διακυβερνητική X ADJ
+Διάσκεψη X NOUN
+του X DET
+2004 X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μόνο X ADV
+μια X DET
+ΔΔ X NOUN
+θα X AUX
+μπορούσε X VERB
+να X AUX
+αλλάξει X VERB
+το X DET
+άρθρο X NOUN
+202 X NUM
+, X PUNCT
+το X DET
+οποίο X PRON
+κατά X ADP
+βάση X NOUN
+παρέχει X VERB
+αποκλειστικά X ADJ
+δικαιώματα X NOUN
+εποπτείας X NOUN
+των DET DET
+επιτροπών X NOUN
+σ X ADP
+το X DET
+Συμβούλιο X NOUN
+Υπουργών X NOUN
+, X PUNCT
+αγνοώντας X VERB
+το X DET
+νέο X ADJ
+ρόλο X NOUN
+του X DET
+Κοινοβουλίου X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Χρειαζόμασταν X VERB
+μια X DET
+υπόσχεση X NOUN
+ότι X SCONJ
+οι X DET
+ανησυχίες X NOUN
+μας X PRON
+, X PUNCT
+οι X DET
+οποίες X PRON
+αγνοήθηκαν X VERB
+σε X ADP
+διαδοχικές X ADJ
+αναθεωρήσεις X NOUN
+της X DET
+συνθήκης X NOUN
+, X PUNCT
+θα X AUX
+λαμβάνονταν X VERB
+υπόψη X ADV
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Χρειαζόμασταν X VERB
+μια X DET
+μεταβατική X ADJ
+λύση NOUN NOUN
+που X PRON
+θα X AUX
+σήμαινε X VERB
+ότι X SCONJ
+οι X DET
+ευρωπαίοι X ADJ
+αποταμιευτές X NOUN
+και X CCONJ
+επενδυτές X NOUN
+δεν X PART
+θα X AUX
+έπρεπε VERB AUX
+να X AUX
+περιμένουν X VERB
+πολύ X ADV
+ακόμη ADV ADV
+για X ADP
+την X DET
+ολοκλήρωση X NOUN
+της X DET
+ενιαίας X ADJ
+αγοράς NOUN NOUN
+χρηματοπιστωτικών X ADJ
+υπηρεσιών X NOUN
+, X PUNCT
+η X DET
+οποία PRON PRON
+ξεκίνησε X VERB
+το X DET
+1973 X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+υγεία X NOUN
+της X DET
+ευρωπαϊκής X ADJ
+οικονομίας X NOUN
+εξαρτάται X VERB
+από ADP ADP
+αυτή X PRON
+τη X DET
+νομοθεσία X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Μια X DET
+ζωτική X ADJ
+και X CCONJ
+δυναμική X ADJ
+οικονομία X NOUN
+εξαρτάται X VERB
+από X ADP
+ένα X DET
+αποδοτικό X ADJ
+χρηματοπιστωτικό X ADJ
+σύστημα X NOUN
+για X ADP
+τη X DET
+συλλογή X NOUN
+των DET DET
+αποταμιεύσεων NOUN NOUN
+και PART CCONJ
+τη X DET
+διοχέτευσή X NOUN
+τους X PRON
+με X ADP
+χαμηλό X ADJ
+κόστος X NOUN
+σ X ADP
+τις X DET
+πλέον ADV ADV
+παραγωγικές X ADJ
+χρήσεις NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ήταν X AUX
+εδώ X ADV
+και X CCONJ
+πολύ ADJ ADV
+καιρό X NOUN
+σαφές X ADJ
+σ X ADP
+την X DET
+Ομάδα X NOUN
+των X DET
+Φιλελευθέρων X ADJ
+ότι PART SCONJ
+η X DET
+μόνη X ADJ
+δυνατή X ADJ
+μεταβατική X ADJ
+λύση NOUN NOUN
+θα X AUX
+ήταν VERB AUX
+να X AUX
+τεθεί X VERB
+ένα X DET
+χρονικό X ADJ
+όριο X NOUN
+σ NUM ADP
+την X DET
+εκχώρηση X NOUN
+αρμοδιοτήτων X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Για X ADP
+πρώτη ADJ NUM
+φορά X NOUN
+σ X ADP
+τη X DET
+νομοθεσία X NOUN
+της X DET
+ΕΕ X NOUN
+, X PUNCT
+θα X AUX
+έχουμε X VERB
+μια X DET
+ρήτρα X NOUN
+λήξης X NOUN
+που X PRON
+θα X AUX
+αφαιρέσει X VERB
+τις DET DET
+αρμοδιότητες X NOUN
+της X DET
+Επιτροπής X NOUN
+και X CCONJ
+της X DET
+επιτροπής X NOUN
+μετά X ADV
+από X ADP
+τέσσερα X NUM
+χρόνια X NOUN
+, X PUNCT
+αν PART SCONJ
+αυτές X PRON
+δεν X PART
+χρησιμοποιηθούν X VERB
+συνετά X ADV
+και PART CCONJ
+καλά X ADV
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Ευτυχώς X ADV
+, X PUNCT
+η X DET
+αρχική X ADJ
+αντίθεση X NOUN
+της X DET
+Σοσιαλιστικής X ADJ
+Ομάδας X NOUN
+και X CCONJ
+του X DET
+Ευρωπαϊκού X ADJ
+Λαϊκού X ADJ
+Κόμματος X NOUN
+, X PUNCT
+καθώς X ADV
+και PART CCONJ
+οι X DET
+ανησυχίες X NOUN
+σχετικά X ADV
+με X ADP
+την X DET
+ασφάλεια X NOUN
+δικαίου X NOUN
+, X PUNCT
+ξεπεράστηκαν X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Οποιεσδήποτε X PRON
+ρυθμίσεις X NOUN
+εγκρίνει X VERB
+η X DET
+επιτροπή X NOUN
+θα X AUX
+συνεχίσουν X VERB
+να X AUX
+ισχύουν X VERB
+ακόμη ADV ADV
+και X CCONJ
+αν PART SCONJ
+οι DET DET
+αρμοδιότητές X NOUN
+της X PRON
+ανασταλούν X VERB
+, X PUNCT
+αλλά X CCONJ
+το X DET
+Κοινοβούλιο X NOUN
+μπορεί X VERB
+να X AUX
+χτυπήσει X VERB
+το X DET
+χέρι X NOUN
+σ X ADP
+το X DET
+τραπέζι X NOUN
+, X PUNCT
+αν X SCONJ
+χρειαστεί X VERB
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Είναι X AUX
+μια X DET
+σημαντική X ADJ
+στιγμή X NOUN
+για X ADP
+την X DET
+ελευθέρωση X NOUN
+της X DET
+ευρωπαϊκής X ADJ
+οικονομίας X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η NUM DET
+συμφωνία X NOUN
+θα X AUX
+στηρίξει X VERB
+το X DET
+ευρώ NOUN NOUN
+- X PUNCT
+γιατί X ADV
+τι PRON PRON
+είναι X AUX
+το X DET
+ενιαίο X ADJ
+νόμισμα X NOUN
+αν X SCONJ
+οι X DET
+αγορές X NOUN
+σ X ADP
+τις X DET
+οποίες PRON PRON
+κυκλοφορεί X VERB
+χωρίζονται X VERB
+ακόμη ADV ADV
+από X ADP
+εθνικούς X ADJ
+φραγμούς X NOUN
+; X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Θα X AUX
+ενισχύσει X VERB
+την X DET
+πεποίθηση X NOUN
+ότι X SCONJ
+, X PUNCT
+όποιες X PRON
+και X CCONJ
+αν X SCONJ
+είναι X AUX
+οι X DET
+προκλήσεις X NOUN
+που X PRON
+επιφυλάσσει X VERB
+το X DET
+μέλλον X NOUN
+για X ADP
+την X DET
+οικονομική X ADJ
+και X CCONJ
+νομισματική X ADJ
+ένωση X NOUN
+, X PUNCT
+η X DET
+Ευρωπαϊκή X ADJ
+Ένωση X NOUN
+μπορεί VERB VERB
+να X AUX
+τις DET PRON
+ξεπεράσει X VERB
+και X CCONJ
+δείχνει X VERB
+ότι PART SCONJ
+το X DET
+Κοινοβούλιο X NOUN
+είναι VERB AUX
+ένα DET DET
+σοβαρό X ADJ
+και PART CCONJ
+υπεύθυνο X ADJ
+νομοθετικό X ADJ
+σώμα NOUN NOUN
+και PART CCONJ
+εταίρος X NOUN
+σ NUM ADP
+την X DET
+οικονομική ADJ ADJ
+μεταρρύθμιση NOUN NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Η X DET
+μεταρρυθμιστική X ADJ
+διαδικασία X NOUN
+της X DET
+Λισαβόνας X PROPN
+τέθηκε X VERB
+ξανά X ADV
+σε X ADP
+εφαρμογή X NOUN
+. X PUNCT
+
+-DOCSTART- -X- -X- O
+
+Συγχαίρω X VERB
+θερμά ADJ ADV
+τον X DET
+κ. X NOUN
+von X X
+Wogau X X
+, X PUNCT
+τον X DET
+εισηγητή X NOUN
+μας X PRON
+, X PUNCT
+και PART CCONJ
+συστήνω X VERB
+σ NUM ADP
+το X DET
+Σώμα X NOUN
+να X AUX
+ψηφίσει X VERB
+την X DET
+έκθεση X NOUN
+αυτή X PRON
+. X PUNCT
+

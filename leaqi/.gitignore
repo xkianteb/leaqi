@@ -1,0 +1,15 @@
+*.pyc
+.vector_cache/*
+.so*
+env/.so*
+envs/BPROSLibrary.so
+envs/BPROSTLibrary.so
+compare/*
+*.csv
+*.txt
+*.png
+ttg*
+results/*
+output/*
+src/old
+src/old_txt
