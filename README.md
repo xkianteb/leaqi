@@ -1,6 +1,6 @@
 # Active Imitation Learing with Noisy Guidance
 
-This repository implements the algorithms presented in the [paper]()
+This repository implements the algorithms presented in the [paper](https://arxiv.org/pdf/2005.12801.pdf)
 
 ## Dependencies
 
